@@ -52,5 +52,11 @@
     "title": "这个新出的系统提示词太强了, 一个提示词让Claude的思维能力吊打o1",
     "url": "https://mp.weixin.qq.com/s/Jn3vUCnwwdb8885c4YgSXg",
     "timestamp": 1728719417
+  },
+  {
+    "month": "202410",
+    "title": "线程池源码解析+设计思想+线程池监控框架设计",
+    "url": "https://juejin.cn/post/7385752495534817295",
+    "timestamp": 1728719524
   }
 ]
