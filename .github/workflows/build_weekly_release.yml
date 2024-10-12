@@ -1,0 +1,37 @@
+# .github/workflows/generate_release.yml
+
+name: Generate Weekly Release
+
+on:
+  schedule:
+    - cron: '0 12 * * 0'  # 每周日北京时间晚上8点 (相当于 UTC 时间中午12点)
+  workflow_dispatch:    # 允许手动触发
+
+permissions:
+  contents: write        # 允许写入内容（包括标签和发布）
+
+jobs:
+  create_release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests waybackpy
+
+      - name: Run release script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: |
+          python src/bookmark_ai_summary/build_weekly_release.py
