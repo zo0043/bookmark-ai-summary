@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-12) [深入研究Redis大Key问题与解决方案](data/202410/2024-10-12-%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6redis%E5%A4%A7key%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 - (2024-10-12) [一张长图透彻理解SpringBoot 启动原理](data/202410/2024-10-12-%E4%B8%80%E5%BC%A0%E9%95%BF%E5%9B%BE%E9%80%8F%E5%BD%BB%E7%90%86%E8%A7%A3springboot-%E5%90%AF%E5%8A%A8%E5%8E%9F%E7%90%86.md)
 - (2024-10-12) [线程池源码解析+设计思想+线程池监控框架设计](data/202410/2024-10-12-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%2B%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3%2B%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9B%91%E6%8E%A7%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1.md)
 - (2024-10-12) [这个新出的系统提示词太强了, 一个提示词让Claude的思维能力吊打o1](data/202410/2024-10-12-%E8%BF%99%E4%B8%AA%E6%96%B0%E5%87%BA%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%A4%AA%E5%BC%BA%E4%BA%86%2C-%E4%B8%80%E4%B8%AA%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%AE%A9claude%E7%9A%84%E6%80%9D%E7%BB%B4%E8%83%BD%E5%8A%9B%E5%90%8A%E6%89%93o1.md)
