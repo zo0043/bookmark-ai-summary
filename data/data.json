@@ -112,5 +112,11 @@
     "title": "深入理解Linux的TCP三次握手",
     "url": "https://mp.weixin.qq.com/s/LIeb5DwMS6RS2YhEw47GDA",
     "timestamp": 1728727376
+  },
+  {
+    "month": "202410",
+    "title": "全面透彻，MySQL 正确的慢查询处理姿势",
+    "url": "https://juejin.cn/post/7372914724512497691",
+    "timestamp": 1728730423
   }
 ]
