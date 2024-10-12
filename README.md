@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-12) [解密JVM崩溃(Crash)：如何通过日志分析揭开神秘面纱](data/202410/2024-10-12-%E8%A7%A3%E5%AF%86jvm%E5%B4%A9%E6%BA%83%28crash%29%EF%BC%9A%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E6%8F%AD%E5%BC%80%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1.md)
 - (2024-10-12) [写了 1000 条 Prompt 之后，我总结出了这 9 个框架](data/202410/2024-10-12-%E5%86%99%E4%BA%86-1000-%E6%9D%A1-prompt-%E4%B9%8B%E5%90%8E%EF%BC%8C%E6%88%91%E6%80%BB%E7%BB%93%E5%87%BA%E4%BA%86%E8%BF%99-9-%E4%B8%AA%E6%A1%86%E6%9E%B6.md)
 - (2024-10-12) [Kafka延迟任务时间轮解析](data/202410/2024-10-12-kafka%E5%BB%B6%E8%BF%9F%E4%BB%BB%E5%8A%A1%E6%97%B6%E9%97%B4%E8%BD%AE%E8%A7%A3%E6%9E%90.md)
 - (2024-10-12) [Kafka Producer 发送消息原理 ](data/202410/2024-10-12-kafka-producer-%E5%8F%91%E9%80%81%E6%B6%88%E6%81%AF%E5%8E%9F%E7%90%86.md)
