@@ -22,5 +22,11 @@
     "title": "【JVM系列】内存布局详解",
     "url": "https://juejin.cn/post/7424176544668860456",
     "timestamp": 1728717125
+  },
+  {
+    "month": "202410",
+    "title": "【系统设计】- 常见缓存策略&一致性保障",
+    "url": "https://juejin.cn/post/7424001170274631717",
+    "timestamp": 1728717225
   }
 ]
