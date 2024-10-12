@@ -1,0 +1,28 @@
+[project]
+name = "bookmark-ai-summary"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "zero0043", email = "wwzerome@gmail.com" }
+]
+dependencies = [
+    "waybackpy>=3.0.6",
+    "requests>=2.32.3",
+    "openai>=1.51.2",
+]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/bookmark_ai_summary"]
