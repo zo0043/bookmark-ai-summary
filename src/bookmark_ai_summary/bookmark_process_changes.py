@@ -15,11 +15,11 @@ from waybackpy import WaybackMachineSaveAPI
 
 # -- 配置 --
 BOOKMARK_COLLECTION_REPO_NAME: str = (
-    "/Users/10060877/andy/github/zzz/bookmark-collection"
+    "bookmark-collection"
 )
-BOOKMARK_SUMMARY_REPO_NAME: str = "/Users/10060877/andy/github/zzz/bookmark-ai-summary"
+BOOKMARK_SUMMARY_REPO_NAME: str = "bookmark-ai-summary"
 BOOKMARK_SUMMARY_REPO_DATA_DIR: str = (
-    "/Users/10060877/andy/github/zzz/bookmark-ai-summary/data"
+    "bookmark-ai-summary/data"
 )
 
 logging.basicConfig(
