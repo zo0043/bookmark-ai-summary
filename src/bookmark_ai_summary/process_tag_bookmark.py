@@ -25,17 +25,23 @@ def save_tags_data(target_tag, target_tag_lines, title_url):
         f.writelines(target_tag_lines)
     pass
 
-
 def _deal_tags(tags: List[str], title_url: str, target_tag: str = "tool"):
     if target_tag in tags:
         print(f"found title_url: {title_url}, tags: {tags}")
         target_tag_lines = load_tags_data(target_tag)
         save_tags_data(target_tag, target_tag_lines, title_url)
+    
+    if target_tag == "*":
+        for ct in tags:
+            print(f"deal tag title_url: {title_url}, tags: {ct}")
+            target_tag_lines = load_tags_data(ct)
+            save_tags_data(ct, target_tag_lines, title_url)
 
 
 def deal_tags_chain(tags: List[str], title_url: str):
     _deal_tags(tags, title_url, "tool")
     _deal_tags(tags, title_url, "系统设计")
+    _deal_tags(tags, title_url, "*")
 
 
 def process_tag_summary():
