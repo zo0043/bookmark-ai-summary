@@ -1,5 +1,17 @@
 # 标签摘要
 
+## ai
+
+- (2024-10-14) [动手学深度学习-book](data/202410/2024-10-14-%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-book.md)
+
+## book
+
+- (2024-10-14) [动手学深度学习-book](data/202410/2024-10-14-%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-book.md)
+
+## read
+
+- (2024-10-14) [how to write](data/202410/2024-10-14-how-to-write.md)
+
 ## tag_file
 
 

@@ -1,0 +1,1 @@
+- (2024-10-14) [how to write](data/202410/2024-10-14-how-to-write.md)
