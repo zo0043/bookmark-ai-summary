@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-14) [Anthropic CEO 万字长文-预测强人工智能的积极未来](data/202410/2024-10-14-anthropic-ceo-%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87-%E9%A2%84%E6%B5%8B%E5%BC%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E7%A7%AF%E6%9E%81%E6%9C%AA%E6%9D%A5.md)
 - (2024-10-12) [web2rss](data/202410/2024-10-12-web2rss.md)
 - (2024-10-12) [跨境电商：谈谈“一件代发”无货源供应模式](data/202410/2024-10-12-%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%EF%BC%9A%E8%B0%88%E8%B0%88%E2%80%9C%E4%B8%80%E4%BB%B6%E4%BB%A3%E5%8F%91%E2%80%9D%E6%97%A0%E8%B4%A7%E6%BA%90%E4%BE%9B%E5%BA%94%E6%A8%A1%E5%BC%8F.md)
 - (2024-10-12) [全面透彻，MySQL 正确的慢查询处理姿势](data/202410/2024-10-12-%E5%85%A8%E9%9D%A2%E9%80%8F%E5%BD%BB%EF%BC%8Cmysql-%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%85%A2%E6%9F%A5%E8%AF%A2%E5%A4%84%E7%90%86%E5%A7%BF%E5%8A%BF.md)
