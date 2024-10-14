@@ -166,5 +166,11 @@
     "title": "漫谈分布式共识算法与数据一致性",
     "url": "https://wingsxdu.com/posts/algorithms/distributed-consensus-and-data-consistent/",
     "timestamp": 1728904436
+  },
+  {
+    "month": "202410",
+    "title": "分布式一致性协议 Raft 原理",
+    "url": "https://wingsxdu.com/posts/algorithms/raft/",
+    "timestamp": 1728904499
   }
 ]
