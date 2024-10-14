@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-14) [支付设计白皮书：支付系统的路由系统设计](data/202410/2024-10-14-%E6%94%AF%E4%BB%98%E8%AE%BE%E8%AE%A1%E7%99%BD%E7%9A%AE%E4%B9%A6%EF%BC%9A%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%B7%AF%E7%94%B1%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.md)
 - (2024-10-14) [线程池源码解析+设计思想+线程池监控框架设计](data/202410/2024-10-14-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%2B%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3%2B%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9B%91%E6%8E%A7%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1.md)
 - (2024-10-14) [一张长图透彻理解SpringBoot 启动原理](data/202410/2024-10-14-%E4%B8%80%E5%BC%A0%E9%95%BF%E5%9B%BE%E9%80%8F%E5%BD%BB%E7%90%86%E8%A7%A3springboot-%E5%90%AF%E5%8A%A8%E5%8E%9F%E7%90%86.md)
 - (2024-10-14) [深入研究Redis大Key问题与解决方案](data/202410/2024-10-14-%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6redis%E5%A4%A7key%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
