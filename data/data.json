@@ -139,5 +139,15 @@
       "jvm",
       "java"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "写了 1000 条 Prompt 之后，我总结出了这 9 个框架",
+    "url": "https://juejin.cn/post/7365711904159563802",
+    "timestamp": 1728921058,
+    "tags": [
+      "prompt",
+      "prompt框架"
+    ]
   }
 ]
