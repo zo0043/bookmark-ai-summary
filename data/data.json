@@ -191,5 +191,16 @@
       "面试问题",
       "解决方案"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "一张长图透彻理解SpringBoot 启动原理",
+    "url": "https://juejin.cn/post/7308610896803659812",
+    "timestamp": 1728925188,
+    "tags": [
+      "java",
+      "springboot",
+      "一图千言"
+    ]
   }
 ]
