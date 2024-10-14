@@ -172,5 +172,11 @@
     "title": "分布式一致性协议 Raft 原理",
     "url": "https://wingsxdu.com/posts/algorithms/raft/",
     "timestamp": 1728904499
+  },
+  {
+    "month": "202410",
+    "title": "how to write",
+    "url": "https://garden.bradwoods.io/notes/communication/how-to-write",
+    "timestamp": 1728905180
   }
 ]
