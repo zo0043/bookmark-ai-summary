@@ -17,5 +17,15 @@
     "tags": [
       "read"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "分布式一致性协议 Raft 原理",
+    "url": "https://wingsxdu.com/posts/algorithms/raft/",
+    "timestamp": 1728912592,
+    "tags": [
+      "分布式",
+      "一致性"
+    ]
   }
 ]
