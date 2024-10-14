@@ -159,5 +159,15 @@
       "kafka",
       "原理解析"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "Kafka Producer 发送消息原理 ",
+    "url": "https://juejin.cn/post/7397024073228959778",
+    "timestamp": 1728922830,
+    "tags": [
+      "kafka",
+      "原理解析"
+    ]
   }
 ]

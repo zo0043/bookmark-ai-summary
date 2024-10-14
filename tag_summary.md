@@ -20,6 +20,7 @@
 
 ## kafka
 
+- (2024-10-14) [Kafka Producer 发送消息原理 ](data/202410/2024-10-14-kafka-producer-%E5%8F%91%E9%80%81%E6%B6%88%E6%81%AF%E5%8E%9F%E7%90%86.md)
 - (2024-10-14) [Kafka延迟任务时间轮解析](data/202410/2024-10-14-kafka%E5%BB%B6%E8%BF%9F%E4%BB%BB%E5%8A%A1%E6%97%B6%E9%97%B4%E8%BD%AE%E8%A7%A3%E6%9E%90.md)
 
 ## linux
@@ -98,6 +99,7 @@
 
 ## 原理解析
 
+- (2024-10-14) [Kafka Producer 发送消息原理 ](data/202410/2024-10-14-kafka-producer-%E5%8F%91%E9%80%81%E6%B6%88%E6%81%AF%E5%8E%9F%E7%90%86.md)
 - (2024-10-14) [Kafka延迟任务时间轮解析](data/202410/2024-10-14-kafka%E5%BB%B6%E8%BF%9F%E4%BB%BB%E5%8A%A1%E6%97%B6%E9%97%B4%E8%BD%AE%E8%A7%A3%E6%9E%90.md)
 
 ## 慢查询
