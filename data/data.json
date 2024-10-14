@@ -241,5 +241,14 @@
     "tags": [
       "系统设计"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "【JVM系列】内存布局详解",
+    "url": "https://juejin.cn/post/7424176544668860456",
+    "timestamp": 1728928676,
+    "tags": [
+      "jvm"
+    ]
   }
 ]
