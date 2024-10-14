@@ -149,5 +149,15 @@
       "prompt",
       "prompt框架"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "Kafka延迟任务时间轮解析",
+    "url": "https://juejin.cn/post/7392848248488263695",
+    "timestamp": 1728921505,
+    "tags": [
+      "kafka",
+      "原理解析"
+    ]
   }
 ]
