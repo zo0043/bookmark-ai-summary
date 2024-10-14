@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-14) [深入研究Redis大Key问题与解决方案](data/202410/2024-10-14-%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6redis%E5%A4%A7key%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 - (2024-10-14) [吴恩达LLM Agent工作流Prompt精华全解析](data/202410/2024-10-14-%E5%90%B4%E6%81%A9%E8%BE%BEllm-agent%E5%B7%A5%E4%BD%9C%E6%B5%81prompt%E7%B2%BE%E5%8D%8E%E5%85%A8%E8%A7%A3%E6%9E%90.md)
 - (2024-10-14) [Kafka Producer 发送消息原理 ](data/202410/2024-10-14-kafka-producer-%E5%8F%91%E9%80%81%E6%B6%88%E6%81%AF%E5%8E%9F%E7%90%86.md)
 - (2024-10-14) [Kafka延迟任务时间轮解析](data/202410/2024-10-14-kafka%E5%BB%B6%E8%BF%9F%E4%BB%BB%E5%8A%A1%E6%97%B6%E9%97%B4%E8%BD%AE%E8%A7%A3%E6%9E%90.md)
