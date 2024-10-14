@@ -1,0 +1,1 @@
+- (2024-10-14) [Anthropic CEO 万字长文-预测强人工智能的积极未来](data/202410/2024-10-14-anthropic-ceo-%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87-%E9%A2%84%E6%B5%8B%E5%BC%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E7%A7%AF%E6%9E%81%E6%9C%AA%E6%9D%A5.md)

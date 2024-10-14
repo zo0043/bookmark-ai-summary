@@ -17,8 +17,6 @@ Weixin Official Accounts Platform
 
 Original 歸藏的 AI 工具箱 [歸藏的AI工具箱](javascript:void\(0\);)
 
-_2024年10月12日 03:27_
-
 Anthropic CEO Dario Amodei 在 Claude opus 3.5 发布前写了一篇非常长的文章来**介绍未来强人工智能（他不愿意把这个叫AGI）对人类的积极影响**。
 
 在文章中他描述了自己思考中的强人工智能的定义，而且在详细介绍了强人工智能可能在五个核心方面对未来人类的积极作用。
