@@ -271,5 +271,14 @@
       "cpu",
       "read"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "一图看懂.git",
+    "url": "https://wizardzines.com/comics/inside-git/",
+    "timestamp": 1728931812,
+    "tags": [
+      "git"
+    ]
   }
 ]
