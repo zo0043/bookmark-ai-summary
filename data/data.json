@@ -291,5 +291,15 @@
       "fund",
       "stock"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "这个新出的系统提示词太强了, 一个提示词让Claude的思维能力吊打o1",
+    "url": "https://mp.weixin.qq.com/s/Jn3vUCnwwdb8885c4YgSXg",
+    "timestamp": 1728933146,
+    "tags": [
+      "prompt",
+      "llm"
+    ]
   }
 ]

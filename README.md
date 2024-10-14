@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-14) [这个新出的系统提示词太强了, 一个提示词让Claude的思维能力吊打o1](data/202410/2024-10-14-%E8%BF%99%E4%B8%AA%E6%96%B0%E5%87%BA%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%A4%AA%E5%BC%BA%E4%BA%86%2C-%E4%B8%80%E4%B8%AA%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%AE%A9claude%E7%9A%84%E6%80%9D%E7%BB%B4%E8%83%BD%E5%8A%9B%E5%90%8A%E6%89%93o1.md)
 - (2024-10-14) [【网站自荐】投资策略模拟器  - 通过直观可视化界面和详细数据分析，让用户深入了解各种投资策略优劣，从而做出更明智投资决策 · Issue #5288 · ruanyf/weekly](data/202410/2024-10-14-%E3%80%90%E7%BD%91%E7%AB%99%E8%87%AA%E8%8D%90%E3%80%91%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E6%A8%A1%E6%8B%9F%E5%99%A8---%E9%80%9A%E8%BF%87%E7%9B%B4%E8%A7%82%E5%8F%AF%E8%A7%86%E5%8C%96%E7%95%8C%E9%9D%A2%E5%92%8C%E8%AF%A6%E7%BB%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%8C%E8%AE%A9%E7%94%A8%E6%88%B7%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%E5%90%84%E7%A7%8D%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E4%BC%98%E5%8A%A3%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%81%9A%E5%87%BA%E6%9B%B4%E6%98%8E%E6%99%BA%E6%8A%95%E8%B5%84%E5%86%B3%E7%AD%96-%C2%B7-issue-%235288-%C2%B7-ruanyf-weekly.md)
 - (2024-10-14) [一图看懂.git](data/202410/2024-10-14-%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82.git.md)
 - (2024-10-14) [putting the you in cpu](data/202410/2024-10-14-putting-the-you-in-cpu.md)
