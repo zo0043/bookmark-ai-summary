@@ -37,5 +37,15 @@
       "分布式",
       "共识"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "漫谈分布式锁实现",
+    "url": "https://wingsxdu.com/posts/algorithms/distributed-lock/",
+    "timestamp": 1728913814,
+    "tags": [
+      "分布式",
+      "分布式锁"
+    ]
   }
 ]
