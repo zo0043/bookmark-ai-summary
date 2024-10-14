@@ -154,5 +154,11 @@
     "title": "区块链技术如何提升Python开发中的数据隐私保护-原理与实战解析",
     "url": "https://juejin.cn/post/7424191151925002276",
     "timestamp": 1728892873
+  },
+  {
+    "month": "202410",
+    "title": "漫谈分布式锁实现",
+    "url": "https://wingsxdu.com/posts/algorithms/distributed-lock/",
+    "timestamp": 1728904354
   }
 ]
