@@ -12,14 +12,15 @@ from urllib.parse import quote
 
 import requests
 from waybackpy import WaybackMachineSaveAPI
+from process_tag_bookmark import deal_tags_chain,process_tag_summary
 
 # -- 配置 --
 BOOKMARK_COLLECTION_REPO_NAME: str = (
-    "bookmark-collection"
+    "/Users/10060877/andy/github/zzz/bookmark-collection"
 )
-BOOKMARK_SUMMARY_REPO_NAME: str = "bookmark-ai-summary"
+BOOKMARK_SUMMARY_REPO_NAME: str = "/Users/10060877/andy/github/zzz/bookmark-ai-summary"
 BOOKMARK_SUMMARY_REPO_DATA_DIR: str = (
-    "bookmark-ai-summary/data"
+    "/Users/10060877/andy/github/zzz/bookmark-ai-summary/data"
 )
 
 logging.basicConfig(
@@ -53,6 +54,7 @@ class SummarizedBookmark:
     title: str
     url: str
     timestamp: int  # unix timestamp
+    tags: List[str]
 
 
 CURRENT_MONTH: str = datetime.now().strftime("%Y%m")
@@ -213,7 +215,7 @@ def build_summary_file(title: str, url: str, summary: str, one_sentence: str) ->
 def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> str:
     """生成一个摘要书签的README文件"""
     initial_prefix: str = """# Bookmark Summary 
-读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
+读取 [bookmark-collection]() 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
 """
@@ -230,7 +232,9 @@ def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> s
             in_readme_md=True,
         )
         date_str = datetime.fromtimestamp(bookmark.timestamp).strftime("%Y-%m-%d")
-        summary_list += f"- ({date_str}) [{bookmark.title}]({summary_file_path})\n"
+        current_line = f"- ({date_str}) [{bookmark.title}]({summary_file_path})\n"
+        summary_list += current_line
+        deal_tags_chain(bookmark.tags, current_line)
 
     return initial_prefix + summary_list
 
@@ -253,6 +257,7 @@ def process_bookmark_file():
 
     title: Optional[str] = None
     url: Optional[str] = None
+    url_tags: List[str] = []
     for line in bookmark_lines:
         logging.info(f"processing line: {line}")
         pattern = r"- \[(.*?)\]\((.*?)\)(?: (#\w+))*"
@@ -260,8 +265,8 @@ def process_bookmark_file():
         if match and match.group(2) not in summarized_urls:
             title = match.group(1)
             url = match.group(2)
-            tags = re.findall(r"#(\w+)", line)
-            logging.info(f"found title: {title}, url: {url}, tags: {tags}")
+            url_tags = re.findall(r"#(\w+)", line)
+            logging.info(f"found title: {title}, url: {url}, tags: {url_tags}")
             break
 
     if title and url:
@@ -288,7 +293,11 @@ def process_bookmark_file():
 
         summarized_bookmarks.append(
             SummarizedBookmark(
-                month=CURRENT_MONTH, title=title, url=url, timestamp=timestamp
+                month=CURRENT_MONTH,
+                title=title,
+                url=url,
+                timestamp=timestamp,
+                tags=url_tags,
             )
         )
 
@@ -310,7 +319,7 @@ def process_bookmark_file():
 
 def main():
     process_bookmark_file()
-
+    process_tag_summary()
 
 if __name__ == "__main__":
     main()
