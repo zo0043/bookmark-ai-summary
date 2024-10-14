@@ -1,2 +1,1 @@
-- (2024-10-14) [how to write](data/202410/2024-10-14-how-to-write.md)
 - (2024-10-14) [putting the you in cpu](data/202410/2024-10-14-putting-the-you-in-cpu.md)

@@ -261,5 +261,15 @@
       "缓存",
       "cache"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "putting the you in cpu",
+    "url": "https://cpu.land/the-basics",
+    "timestamp": 1728931235,
+    "tags": [
+      "cpu",
+      "read"
+    ]
   }
 ]
