@@ -119,5 +119,15 @@
       "mysql",
       "慢查询"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "深入理解Linux的TCP三次握手",
+    "url": "https://mp.weixin.qq.com/s/LIeb5DwMS6RS2YhEw47GDA",
+    "timestamp": 1728920095,
+    "tags": [
+      "linux",
+      "tcp"
+    ]
   }
 ]
