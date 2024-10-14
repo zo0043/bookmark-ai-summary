@@ -69,5 +69,14 @@
       "spring",
       "java"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "PMRF - a Hugging Face Space by ohayonguy",
+    "url": "https://huggingface.co/spaces/ohayonguy/PMRF",
+    "timestamp": 1728916449,
+    "tags": [
+      "ai"
+    ]
   }
 ]
