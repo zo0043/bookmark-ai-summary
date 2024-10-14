@@ -160,5 +160,11 @@
     "title": "漫谈分布式锁实现",
     "url": "https://wingsxdu.com/posts/algorithms/distributed-lock/",
     "timestamp": 1728904354
+  },
+  {
+    "month": "202410",
+    "title": "漫谈分布式共识算法与数据一致性",
+    "url": "https://wingsxdu.com/posts/algorithms/distributed-consensus-and-data-consistent/",
+    "timestamp": 1728904436
   }
 ]
