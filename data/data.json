@@ -27,5 +27,15 @@
       "分布式",
       "一致性"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "漫谈分布式共识算法与数据一致性",
+    "url": "https://wingsxdu.com/posts/algorithms/distributed-consensus-and-data-consistent/",
+    "timestamp": 1728913386,
+    "tags": [
+      "分布式",
+      "共识"
+    ]
   }
 ]
