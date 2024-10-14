@@ -169,5 +169,16 @@
       "kafka",
       "原理解析"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "吴恩达LLM Agent工作流Prompt精华全解析",
+    "url": "https://juejin.cn/post/7384353583183036452",
+    "timestamp": 1728924083,
+    "tags": [
+      "prompt",
+      "llm",
+      "工作流"
+    ]
   }
 ]
