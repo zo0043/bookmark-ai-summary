@@ -87,5 +87,15 @@
     "tags": [
       "llm"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "web2rss",
+    "url": "https://web2rss.cc/",
+    "timestamp": 1728917561,
+    "tags": [
+      "tool",
+      "rss"
+    ]
   }
 ]
