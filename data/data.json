@@ -369,5 +369,14 @@
       "rag",
       "agent"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "神经网络背后的数学原理",
+    "url": "https://luxiangdong.com/2024/04/10/math/",
+    "timestamp": 1728997405,
+    "tags": [
+      "数学原理"
+    ]
   }
 ]
