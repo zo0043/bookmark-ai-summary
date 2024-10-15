@@ -328,5 +328,14 @@
     "tags": [
       "系统重构"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "后端开发和你聊聊JVM如何优化",
+    "url": "https://mp.weixin.qq.com/s/Gsd-pJ9uhsRiI0cDx4O1iQ",
+    "timestamp": 1728979270,
+    "tags": [
+      "jvm"
+    ]
   }
 ]
