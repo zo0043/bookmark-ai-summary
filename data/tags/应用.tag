@@ -1,0 +1,1 @@
+- (2024-10-15) [LivePhoto](data/202410/2024-10-15-livephoto.md)

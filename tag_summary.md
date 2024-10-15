@@ -8,6 +8,11 @@
 
 - (2024-10-14) [PMRF - a Hugging Face Space by ohayonguy](data/202410/2024-10-14-pmrf---a-hugging-face-space-by-ohayonguy.md)
 - (2024-10-14) [动手学深度学习-book](data/202410/2024-10-14-%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-book.md)
+- (2024-10-15) [LivePhoto](data/202410/2024-10-15-livephoto.md)
+
+## ai应用
+
+- (2024-10-15) [LivePhoto](data/202410/2024-10-15-livephoto.md)
 
 ## book
 
@@ -151,6 +156,10 @@
 ## 工作流
 
 - (2024-10-14) [吴恩达LLM Agent工作流Prompt精华全解析](data/202410/2024-10-14-%E5%90%B4%E6%81%A9%E8%BE%BEllm-agent%E5%B7%A5%E4%BD%9C%E6%B5%81prompt%E7%B2%BE%E5%8D%8E%E5%85%A8%E8%A7%A3%E6%9E%90.md)
+
+## 应用
+
+- (2024-10-15) [LivePhoto](data/202410/2024-10-15-livephoto.md)
 
 ## 慢查询
 
