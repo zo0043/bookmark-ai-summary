@@ -4,6 +4,10 @@
 
 - (2024-10-14) [【网站自荐】投资策略模拟器  - 通过直观可视化界面和详细数据分析，让用户深入了解各种投资策略优劣，从而做出更明智投资决策 · Issue #5288 · ruanyf/weekly](data/202410/2024-10-14-%E3%80%90%E7%BD%91%E7%AB%99%E8%87%AA%E8%8D%90%E3%80%91%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E6%A8%A1%E6%8B%9F%E5%99%A8---%E9%80%9A%E8%BF%87%E7%9B%B4%E8%A7%82%E5%8F%AF%E8%A7%86%E5%8C%96%E7%95%8C%E9%9D%A2%E5%92%8C%E8%AF%A6%E7%BB%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%8C%E8%AE%A9%E7%94%A8%E6%88%B7%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%E5%90%84%E7%A7%8D%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E4%BC%98%E5%8A%A3%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%81%9A%E5%87%BA%E6%9B%B4%E6%98%8E%E6%99%BA%E6%8A%95%E8%B5%84%E5%86%B3%E7%AD%96-%C2%B7-issue-%235288-%C2%B7-ruanyf-weekly.md)
 
+## agent
+
+- (2024-10-15) [LLM企业应用落地场景中的问题一览 ｜LLM ｜RAG ｜Agent ｜TorchV](data/202410/2024-10-15-llm%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AF%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%80%E8%A7%88-%EF%BD%9Cllm-%EF%BD%9Crag-%EF%BD%9Cagent-%EF%BD%9Ctorchv.md)
+
 ## ai
 
 - (2024-10-14) [PMRF - a Hugging Face Space by ohayonguy](data/202410/2024-10-14-pmrf---a-hugging-face-space-by-ohayonguy.md)
@@ -66,6 +70,7 @@
 - (2024-10-14) [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](data/202410/2024-10-14-llm-x-%E4%B9%A6%E7%AD%BE%E6%94%B6%E8%97%8F%EF%BC%9A%E6%91%98%E8%A6%81-%26-%E5%85%A8%E6%96%87%E7%B4%A2%E5%BC%95---nekonull%27s-garden.md)
 - (2024-10-14) [吴恩达LLM Agent工作流Prompt精华全解析](data/202410/2024-10-14-%E5%90%B4%E6%81%A9%E8%BE%BEllm-agent%E5%B7%A5%E4%BD%9C%E6%B5%81prompt%E7%B2%BE%E5%8D%8E%E5%85%A8%E8%A7%A3%E6%9E%90.md)
 - (2024-10-14) [这个新出的系统提示词太强了, 一个提示词让Claude的思维能力吊打o1](data/202410/2024-10-14-%E8%BF%99%E4%B8%AA%E6%96%B0%E5%87%BA%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%A4%AA%E5%BC%BA%E4%BA%86%2C-%E4%B8%80%E4%B8%AA%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%AE%A9claude%E7%9A%84%E6%80%9D%E7%BB%B4%E8%83%BD%E5%8A%9B%E5%90%8A%E6%89%93o1.md)
+- (2024-10-15) [LLM企业应用落地场景中的问题一览 ｜LLM ｜RAG ｜Agent ｜TorchV](data/202410/2024-10-15-llm%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AF%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%80%E8%A7%88-%EF%BD%9Cllm-%EF%BD%9Crag-%EF%BD%9Cagent-%EF%BD%9Ctorchv.md)
 - (2024-10-15) [llama-agents+chainlit打造超级智能体](data/202410/2024-10-15-llama-agents%2Bchainlit%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%BD%93.md)
 
 ## mysql
@@ -85,6 +90,10 @@
 ## python
 
 - (2024-10-14) [区块链技术如何提升Python开发中的数据隐私保护-原理与实战解析](data/202410/2024-10-14-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87python%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4-%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E6%88%98%E8%A7%A3%E6%9E%90.md)
+
+## rag
+
+- (2024-10-15) [LLM企业应用落地场景中的问题一览 ｜LLM ｜RAG ｜Agent ｜TorchV](data/202410/2024-10-15-llm%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AF%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%80%E8%A7%88-%EF%BD%9Cllm-%EF%BD%9Crag-%EF%BD%9Cagent-%EF%BD%9Ctorchv.md)
 
 ## read
 
