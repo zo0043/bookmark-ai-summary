@@ -22,6 +22,10 @@
 
 - (2024-10-14) [【系统设计】- 常见缓存策略&一致性保障](data/202410/2024-10-14-%E3%80%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E3%80%91--%E5%B8%B8%E8%A7%81%E7%BC%93%E5%AD%98%E7%AD%96%E7%95%A5%26%E4%B8%80%E8%87%B4%E6%80%A7%E4%BF%9D%E9%9A%9C.md)
 
+## chainlit
+
+- (2024-10-15) [llama-agents+chainlit打造超级智能体](data/202410/2024-10-15-llama-agents%2Bchainlit%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%BD%93.md)
+
 ## cpu
 
 - (2024-10-14) [putting the you in cpu](data/202410/2024-10-14-putting-the-you-in-cpu.md)
@@ -62,6 +66,7 @@
 - (2024-10-14) [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](data/202410/2024-10-14-llm-x-%E4%B9%A6%E7%AD%BE%E6%94%B6%E8%97%8F%EF%BC%9A%E6%91%98%E8%A6%81-%26-%E5%85%A8%E6%96%87%E7%B4%A2%E5%BC%95---nekonull%27s-garden.md)
 - (2024-10-14) [吴恩达LLM Agent工作流Prompt精华全解析](data/202410/2024-10-14-%E5%90%B4%E6%81%A9%E8%BE%BEllm-agent%E5%B7%A5%E4%BD%9C%E6%B5%81prompt%E7%B2%BE%E5%8D%8E%E5%85%A8%E8%A7%A3%E6%9E%90.md)
 - (2024-10-14) [这个新出的系统提示词太强了, 一个提示词让Claude的思维能力吊打o1](data/202410/2024-10-14-%E8%BF%99%E4%B8%AA%E6%96%B0%E5%87%BA%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%A4%AA%E5%BC%BA%E4%BA%86%2C-%E4%B8%80%E4%B8%AA%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%AE%A9claude%E7%9A%84%E6%80%9D%E7%BB%B4%E8%83%BD%E5%8A%9B%E5%90%8A%E6%89%93o1.md)
+- (2024-10-15) [llama-agents+chainlit打造超级智能体](data/202410/2024-10-15-llama-agents%2Bchainlit%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%BD%93.md)
 
 ## mysql
 

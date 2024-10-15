@@ -348,5 +348,15 @@
       "应用",
       "ai应用"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "llama-agents+chainlit打造超级智能体",
+    "url": "https://blog.stoeng.site/20240701.html",
+    "timestamp": 1728997080,
+    "tags": [
+      "llm",
+      "chainlit"
+    ]
   }
 ]
