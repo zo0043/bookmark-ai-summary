@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-16) [中国网络空间安全协会：应系统排查英特尔产品网络安全风险](data/202410/2024-10-16-%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%8D%8F%E4%BC%9A%EF%BC%9A%E5%BA%94%E7%B3%BB%E7%BB%9F%E6%8E%92%E6%9F%A5%E8%8B%B1%E7%89%B9%E5%B0%94%E4%BA%A7%E5%93%81%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9.md)
 - (2024-10-16) [黑天鹅之父《塔勒布智慧箴言录》下篇](data/202410/2024-10-16-%E9%BB%91%E5%A4%A9%E9%B9%85%E4%B9%8B%E7%88%B6%E3%80%8A%E5%A1%94%E5%8B%92%E5%B8%83%E6%99%BA%E6%85%A7%E7%AE%B4%E8%A8%80%E5%BD%95%E3%80%8B%E4%B8%8B%E7%AF%87.md)
 - (2024-10-16) [黑天鹅之父《塔勒布智慧箴言录》](data/202410/2024-10-16-%E9%BB%91%E5%A4%A9%E9%B9%85%E4%B9%8B%E7%88%B6%E3%80%8A%E5%A1%94%E5%8B%92%E5%B8%83%E6%99%BA%E6%85%A7%E7%AE%B4%E8%A8%80%E5%BD%95%E3%80%8B.md)
 - (2024-10-16) [风险长什么样？《投资最重要的事》](data/202410/2024-10-16-%E9%A3%8E%E9%99%A9%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%EF%BC%9F%E3%80%8A%E6%8A%95%E8%B5%84%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E3%80%8B.md)
