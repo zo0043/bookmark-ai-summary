@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-16) [风险长什么样？《投资最重要的事》](data/202410/2024-10-16-%E9%A3%8E%E9%99%A9%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%EF%BC%9F%E3%80%8A%E6%8A%95%E8%B5%84%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E3%80%8B.md)
 - (2024-10-16) [中金：美国大选的四种情景推演](data/202410/2024-10-16-%E4%B8%AD%E9%87%91%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%83%85%E6%99%AF%E6%8E%A8%E6%BC%94.md)
 - (2024-10-16) [跌了，又涨了](data/202410/2024-10-16-%E8%B7%8C%E4%BA%86%EF%BC%8C%E5%8F%88%E6%B6%A8%E4%BA%86.md)
 - (2024-10-15) [分库分表经典15连问](data/202410/2024-10-15-%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E7%BB%8F%E5%85%B815%E8%BF%9E%E9%97%AE.md)
