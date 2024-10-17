@@ -13,6 +13,7 @@
 - (2024-10-14) [PMRF - a Hugging Face Space by ohayonguy](data/202410/2024-10-14-pmrf---a-hugging-face-space-by-ohayonguy.md)
 - (2024-10-14) [动手学深度学习-book](data/202410/2024-10-14-%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-book.md)
 - (2024-10-15) [LivePhoto](data/202410/2024-10-15-livephoto.md)
+- (2024-10-17) [AI早报](data/202410/2024-10-17-ai%E6%97%A9%E6%8A%A5.md)
 
 ## ai应用
 
@@ -227,6 +228,10 @@
 ## 数据隐私保护
 
 - (2024-10-14) [区块链技术如何提升Python开发中的数据隐私保护-原理与实战解析](data/202410/2024-10-14-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87python%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4-%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E6%88%98%E8%A7%A3%E6%9E%90.md)
+
+## 早报
+
+- (2024-10-17) [AI早报](data/202410/2024-10-17-ai%E6%97%A9%E6%8A%A5.md)
 
 ## 流程
 
