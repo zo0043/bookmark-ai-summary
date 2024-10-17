@@ -480,5 +480,16 @@
       "ai",
       "早报"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "游戏推荐业务中基于sentinel的动态限流实践",
+    "url": "https://mp.weixin.qq.com/s/lFuXVBUW_PkrBp4NoAFTig",
+    "timestamp": 1729164673,
+    "tags": [
+      "限流",
+      "sentinel",
+      "动态限流"
+    ]
   }
 ]
