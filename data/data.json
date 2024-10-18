@@ -491,5 +491,15 @@
       "sentinel",
       "动态限流"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "一文搞懂第三方支付系统架构设计",
+    "url": "https://mp.weixin.qq.com/s/Z2sNg-VjdmGD5kymZPrrYQ",
+    "timestamp": 1729242715,
+    "tags": [
+      "支付系统",
+      "系统设计"
+    ]
   }
 ]
