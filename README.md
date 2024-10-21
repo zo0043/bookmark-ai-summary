@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-21) [如何提高决断力？](data/202410/2024-10-21-%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E5%86%B3%E6%96%AD%E5%8A%9B%EF%BC%9F.md)
 - (2024-10-21) [LivePortrait：一种让照片动起来的开源技术方案](data/202410/2024-10-21-liveportrait%EF%BC%9A%E4%B8%80%E7%A7%8D%E8%AE%A9%E7%85%A7%E7%89%87%E5%8A%A8%E8%B5%B7%E6%9D%A5%E7%9A%84%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88.md)
 - (2024-10-18) [一文搞懂第三方支付系统架构设计](data/202410/2024-10-18-%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E7%AC%AC%E4%B8%89%E6%96%B9%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.md)
 - (2024-10-17) [游戏推荐业务中基于sentinel的动态限流实践](data/202410/2024-10-17-%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90%E4%B8%9A%E5%8A%A1%E4%B8%AD%E5%9F%BA%E4%BA%8Esentinel%E7%9A%84%E5%8A%A8%E6%80%81%E9%99%90%E6%B5%81%E5%AE%9E%E8%B7%B5.md)
