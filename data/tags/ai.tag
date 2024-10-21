@@ -2,3 +2,4 @@
 - (2024-10-14) [动手学深度学习-book](data/202410/2024-10-14-%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-book.md)
 - (2024-10-15) [LivePhoto](data/202410/2024-10-15-livephoto.md)
 - (2024-10-17) [AI早报](data/202410/2024-10-17-ai%E6%97%A9%E6%8A%A5.md)
+- (2024-10-21) [LivePortrait：一种让照片动起来的开源技术方案](data/202410/2024-10-21-liveportrait%EF%BC%9A%E4%B8%80%E7%A7%8D%E8%AE%A9%E7%85%A7%E7%89%87%E5%8A%A8%E8%B5%B7%E6%9D%A5%E7%9A%84%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88.md)
