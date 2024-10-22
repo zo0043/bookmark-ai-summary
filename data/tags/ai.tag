@@ -3,3 +3,4 @@
 - (2024-10-15) [LivePhoto](data/202410/2024-10-15-livephoto.md)
 - (2024-10-17) [AI早报](data/202410/2024-10-17-ai%E6%97%A9%E6%8A%A5.md)
 - (2024-10-21) [LivePortrait：一种让照片动起来的开源技术方案](data/202410/2024-10-21-liveportrait%EF%BC%9A%E4%B8%80%E7%A7%8D%E8%AE%A9%E7%85%A7%E7%89%87%E5%8A%A8%E8%B5%B7%E6%9D%A5%E7%9A%84%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88.md)
+- (2024-10-22) [以「时间」为主题的 Prompt ，可以怎么做？](data/202410/2024-10-22-%E4%BB%A5%E3%80%8C%E6%97%B6%E9%97%B4%E3%80%8D%E4%B8%BA%E4%B8%BB%E9%A2%98%E7%9A%84-prompt-%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%80%8E%E4%B9%88%E5%81%9A%EF%BC%9F.md)
