@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-23) [48张图全面讲解供应链管理](data/202410/2024-10-23-48%E5%BC%A0%E5%9B%BE%E5%85%A8%E9%9D%A2%E8%AE%B2%E8%A7%A3%E4%BE%9B%E5%BA%94%E9%93%BE%E7%AE%A1%E7%90%86.md)
 - (2024-10-23) [完整供应链管理知识](data/202410/2024-10-23-%E5%AE%8C%E6%95%B4%E4%BE%9B%E5%BA%94%E9%93%BE%E7%AE%A1%E7%90%86%E7%9F%A5%E8%AF%86.md)
 - (2024-10-23) [全面降本的思路与方法](data/202410/2024-10-23-%E5%85%A8%E9%9D%A2%E9%99%8D%E6%9C%AC%E7%9A%84%E6%80%9D%E8%B7%AF%E4%B8%8E%E6%96%B9%E6%B3%95.md)
 - (2024-10-23) [微服务与分布式系统设计看这篇就够了！](data/202410/2024-10-23-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E7%9C%8B%E8%BF%99%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%EF%BC%81.md)
