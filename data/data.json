@@ -562,5 +562,15 @@
       "prompt",
       "结构化"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "微服务与分布式系统设计看这篇就够了！",
+    "url": "https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw",
+    "timestamp": 1729691010,
+    "tags": [
+      "分布式系统",
+      "分布式设计"
+    ]
   }
 ]
