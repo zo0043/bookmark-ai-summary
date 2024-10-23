@@ -551,5 +551,16 @@
       "ai",
       "卡片"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "一文掌握大模型提示词技巧：从战略到战术",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247537829&idx=1&sn=73e0771763bd20d05e8d392578cf034a&chksm=e92a69aade5de0bc23222f6b04bb1fca4640a3f00897b6ced2ed896355d89890a373b9aa6a9b&scene=21#wechat_redirect",
+    "timestamp": 1729690879,
+    "tags": [
+      "wechat_redirect",
+      "prompt",
+      "结构化"
+    ]
   }
 ]
