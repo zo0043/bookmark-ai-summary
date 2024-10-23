@@ -603,5 +603,14 @@
       "供应链",
       "供应链管理"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "Distributed Systems Reading List",
+    "url": "https://dancres.github.io/Pages/",
+    "timestamp": 1729692502,
+    "tags": [
+      "readlist"
+    ]
   }
 ]
