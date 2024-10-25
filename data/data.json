@@ -631,5 +631,14 @@
     "tags": [
       "旅行"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "JVM 架构原理浅谈",
+    "url": "https://ddrandy.github.io/2022/04/07/jvm-abc/",
+    "timestamp": 1729835502,
+    "tags": [
+      "jvm"
+    ]
   }
 ]
