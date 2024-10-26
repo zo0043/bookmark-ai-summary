@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-26) [做三维开发这么久，竟然还不知道这些宝藏网站？](data/202410/2024-10-26-%E5%81%9A%E4%B8%89%E7%BB%B4%E5%BC%80%E5%8F%91%E8%BF%99%E4%B9%88%E4%B9%85%EF%BC%8C%E7%AB%9F%E7%84%B6%E8%BF%98%E4%B8%8D%E7%9F%A5%E9%81%93%E8%BF%99%E4%BA%9B%E5%AE%9D%E8%97%8F%E7%BD%91%E7%AB%99%EF%BC%9F.md)
 - (2024-10-26) [基于实时 CPU 使用率的 Kubernetes 自定义调度器揭开Kubernetes调度的神秘面纱](data/202410/2024-10-26-%E5%9F%BA%E4%BA%8E%E5%AE%9E%E6%97%B6-cpu-%E4%BD%BF%E7%94%A8%E7%8E%87%E7%9A%84-kubernetes-%E8%87%AA%E5%AE%9A%E4%B9%89%E8%B0%83%E5%BA%A6%E5%99%A8%E6%8F%AD%E5%BC%80kubernetes%E8%B0%83%E5%BA%A6%E7%9A%84%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1.md)
 - (2024-10-25) [JVM 架构原理浅谈](data/202410/2024-10-25-jvm-%E6%9E%B6%E6%9E%84%E5%8E%9F%E7%90%86%E6%B5%85%E8%B0%88.md)
 - (2024-10-25) [她和他的第一次出国自由行 - 巴厘岛](data/202410/2024-10-25-%E5%A5%B9%E5%92%8C%E4%BB%96%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%87%BA%E5%9B%BD%E8%87%AA%E7%94%B1%E8%A1%8C---%E5%B7%B4%E5%8E%98%E5%B2%9B.md)
