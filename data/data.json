@@ -668,5 +668,14 @@
     "tags": [
       "rag"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "如何优雅编译一个 Markdown 文档",
+    "url": "https://diygod.cc/unified-markdown?locale=zh",
+    "timestamp": 1730102896,
+    "tags": [
+      "markdown"
+    ]
   }
 ]

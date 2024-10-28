@@ -91,6 +91,10 @@
 - (2024-10-15) [LLM企业应用落地场景中的问题一览 ｜LLM ｜RAG ｜Agent ｜TorchV](data/202410/2024-10-15-llm%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AF%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%80%E8%A7%88-%EF%BD%9Cllm-%EF%BD%9Crag-%EF%BD%9Cagent-%EF%BD%9Ctorchv.md)
 - (2024-10-15) [llama-agents+chainlit打造超级智能体](data/202410/2024-10-15-llama-agents%2Bchainlit%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%BD%93.md)
 
+## markdown
+
+- (2024-10-28) [如何优雅编译一个 Markdown 文档](data/202410/2024-10-28-%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%BC%96%E8%AF%91%E4%B8%80%E4%B8%AA-markdown-%E6%96%87%E6%A1%A3.md)
+
 ## mysql
 
 - (2024-10-14) [全面透彻，MySQL 正确的慢查询处理姿势](data/202410/2024-10-14-%E5%85%A8%E9%9D%A2%E9%80%8F%E5%BD%BB%EF%BC%8Cmysql-%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%85%A2%E6%9F%A5%E8%AF%A2%E5%A4%84%E7%90%86%E5%A7%BF%E5%8A%BF.md)
