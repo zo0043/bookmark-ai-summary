@@ -659,5 +659,14 @@
     "tags": [
       "三维开发"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "5 Chunking Strategies For RAG",
+    "url": "https://blog.dailydoseofds.com/p/5-chunking-strategies-for-rag",
+    "timestamp": 1730102681,
+    "tags": [
+      "rag"
+    ]
   }
 ]
