@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-29) [整合者：为有好奇心的人开辟的数字职业道路](data/202410/2024-10-29-%E6%95%B4%E5%90%88%E8%80%85%EF%BC%9A%E4%B8%BA%E6%9C%89%E5%A5%BD%E5%A5%87%E5%BF%83%E7%9A%84%E4%BA%BA%E5%BC%80%E8%BE%9F%E7%9A%84%E6%95%B0%E5%AD%97%E8%81%8C%E4%B8%9A%E9%81%93%E8%B7%AF.md)
 - (2024-10-29) [Don’t Implement Unification by Recursion](data/202410/2024-10-29-don%E2%80%99t-implement-unification-by-recursion.md)
 - (2024-10-29) [Claude Prompt：逻辑之刃](data/202410/2024-10-29-claude-prompt%EF%BC%9A%E9%80%BB%E8%BE%91%E4%B9%8B%E5%88%83.md)
 - (2024-10-28) [第4章 揭秘区块链：从创世区块到链式结构](data/202410/2024-10-28-%E7%AC%AC4%E7%AB%A0-%E6%8F%AD%E7%A7%98%E5%8C%BA%E5%9D%97%E9%93%BE%EF%BC%9A%E4%BB%8E%E5%88%9B%E4%B8%96%E5%8C%BA%E5%9D%97%E5%88%B0%E9%93%BE%E5%BC%8F%E7%BB%93%E6%9E%84.md)
