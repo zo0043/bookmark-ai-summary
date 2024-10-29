@@ -706,5 +706,14 @@
     "tags": [
       "prompt"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "Don’t Implement Unification by Recursion",
+    "url": "https://www.philipzucker.com/unify/",
+    "timestamp": 1730174184,
+    "tags": [
+      "recursion"
+    ]
   }
 ]

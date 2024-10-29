@@ -138,6 +138,10 @@
 
 - (2024-10-23) [Distributed Systems Reading List](data/202410/2024-10-23-distributed-systems-reading-list.md)
 
+## recursion
+
+- (2024-10-29) [Don’t Implement Unification by Recursion](data/202410/2024-10-29-don%E2%80%99t-implement-unification-by-recursion.md)
+
 ## redis
 
 - (2024-10-14) [深入研究Redis大Key问题与解决方案](data/202410/2024-10-14-%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6redis%E5%A4%A7key%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)

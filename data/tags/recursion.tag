@@ -1,0 +1,1 @@
+- (2024-10-29) [Don’t Implement Unification by Recursion](data/202410/2024-10-29-don%E2%80%99t-implement-unification-by-recursion.md)
