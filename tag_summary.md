@@ -114,6 +114,7 @@
 - (2024-10-22) [以「时间」为主题的 Prompt ，可以怎么做？](data/202410/2024-10-22-%E4%BB%A5%E3%80%8C%E6%97%B6%E9%97%B4%E3%80%8D%E4%B8%BA%E4%B8%BB%E9%A2%98%E7%9A%84-prompt-%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%80%8E%E4%B9%88%E5%81%9A%EF%BC%9F.md)
 - (2024-10-23) [一文掌握大模型提示词技巧：从战略到战术](data/202410/2024-10-23-%E4%B8%80%E6%96%87%E6%8E%8C%E6%8F%A1%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E5%B7%A7%EF%BC%9A%E4%BB%8E%E6%88%98%E7%95%A5%E5%88%B0%E6%88%98%E6%9C%AF.md)
 - (2024-10-29) [Claude Prompt：逻辑之刃](data/202410/2024-10-29-claude-prompt%EF%BC%9A%E9%80%BB%E8%BE%91%E4%B9%8B%E5%88%83.md)
+- (2024-10-30) [过去一年最出圈的Prompt项目&教程](data/202410/2024-10-30-%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E6%9C%80%E5%87%BA%E5%9C%88%E7%9A%84prompt%E9%A1%B9%E7%9B%AE%26%E6%95%99%E7%A8%8B.md)
 
 ## prompt框架
 
@@ -128,6 +129,10 @@
 - (2024-10-15) [LLM企业应用落地场景中的问题一览 ｜LLM ｜RAG ｜Agent ｜TorchV](data/202410/2024-10-15-llm%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AF%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%80%E8%A7%88-%EF%BD%9Cllm-%EF%BD%9Crag-%EF%BD%9Cagent-%EF%BD%9Ctorchv.md)
 - (2024-10-15) [RAG的《思考，快与慢》](data/202410/2024-10-15-rag%E7%9A%84%E3%80%8A%E6%80%9D%E8%80%83%EF%BC%8C%E5%BF%AB%E4%B8%8E%E6%85%A2%E3%80%8B.md)
 - (2024-10-28) [5 Chunking Strategies For RAG](data/202410/2024-10-28-5-chunking-strategies-for-rag.md)
+
+## rd
+
+- (2024-10-30) [过去一年最出圈的Prompt项目&教程](data/202410/2024-10-30-%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E6%9C%80%E5%87%BA%E5%9C%88%E7%9A%84prompt%E9%A1%B9%E7%9B%AE%26%E6%95%99%E7%A8%8B.md)
 
 ## read
 
