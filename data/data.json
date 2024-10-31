@@ -771,5 +771,15 @@
     "tags": [
       "预测模型"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "Spring官方竟然真的支持Bean的异步初始化",
+    "url": "https://juejin.cn/post/7370994785655701531",
+    "timestamp": 1730372796,
+    "tags": [
+      "spring",
+      "bean"
+    ]
   }
 ]
