@@ -781,5 +781,14 @@
       "spring",
       "bean"
     ]
+  },
+  {
+    "month": "202410",
+    "title": "How to ask good questions",
+    "url": "https://jvns.ca/blog/good-questions/",
+    "timestamp": 1730377754,
+    "tags": [
+      "learn"
+    ]
   }
 ]

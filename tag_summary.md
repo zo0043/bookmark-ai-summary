@@ -87,6 +87,10 @@
 
 - (2024-10-26) [基于实时 CPU 使用率的 Kubernetes 自定义调度器揭开Kubernetes调度的神秘面纱](data/202410/2024-10-26-%E5%9F%BA%E4%BA%8E%E5%AE%9E%E6%97%B6-cpu-%E4%BD%BF%E7%94%A8%E7%8E%87%E7%9A%84-kubernetes-%E8%87%AA%E5%AE%9A%E4%B9%89%E8%B0%83%E5%BA%A6%E5%99%A8%E6%8F%AD%E5%BC%80kubernetes%E8%B0%83%E5%BA%A6%E7%9A%84%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1.md)
 
+## learn
+
+- (2024-10-31) [How to ask good questions](data/202410/2024-10-31-how-to-ask-good-questions.md)
+
 ## linux
 
 - (2024-10-14) [深入理解Linux的TCP三次握手](data/202410/2024-10-14-%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3linux%E7%9A%84tcp%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B.md)

@@ -1,0 +1,1 @@
+- (2024-10-31) [How to ask good questions](data/202410/2024-10-31-how-to-ask-good-questions.md)
