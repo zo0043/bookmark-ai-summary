@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-10-31) [打造私人专属智能股票预测模型](data/202410/2024-10-31-%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E4%B8%93%E5%B1%9E%E6%99%BA%E8%83%BD%E8%82%A1%E7%A5%A8%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B.md)
 - (2024-10-31) [OpenAI o1模型的前世今生](data/202410/2024-10-31-openai-o1%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F.md)
 - (2024-10-31) [对于谢治宇、朱少醒、姜诚等5位顶流基金经理的最新季报解读与调仓分析](data/202410/2024-10-31-%E5%AF%B9%E4%BA%8E%E8%B0%A2%E6%B2%BB%E5%AE%87%E3%80%81%E6%9C%B1%E5%B0%91%E9%86%92%E3%80%81%E5%A7%9C%E8%AF%9A%E7%AD%895%E4%BD%8D%E9%A1%B6%E6%B5%81%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%86%E7%9A%84%E6%9C%80%E6%96%B0%E5%AD%A3%E6%8A%A5%E8%A7%A3%E8%AF%BB%E4%B8%8E%E8%B0%83%E4%BB%93%E5%88%86%E6%9E%90.md)
 - (2024-10-30) [深度拆解天花板级复杂的提示词](data/202410/2024-10-30-%E6%B7%B1%E5%BA%A6%E6%8B%86%E8%A7%A3%E5%A4%A9%E8%8A%B1%E6%9D%BF%E7%BA%A7%E5%A4%8D%E6%9D%82%E7%9A%84%E6%8F%90%E7%A4%BA%E8%AF%8D.md)
