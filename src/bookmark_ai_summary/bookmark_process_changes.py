@@ -104,8 +104,8 @@ def call_openai_api(prompt: str, content: str) -> str:
         "OPENAI_API_ENDPOINT", "https://api.openai.com/v1/chat/completions"
     )
     # logging.info(f"调用OpenAI API，数据: {data}")
-    # logging.info(f"调用OpenAI API，请求头: {headers}")
-    # logging.info(f"调用OpenAI API，端点: {api_endpoint}")
+    logging.info(f"调用OpenAI API，请求头: {headers}")
+    logging.info(f"调用OpenAI API，端点: {api_endpoint}")
     response: requests.Response = requests.post(
         api_endpoint, headers=headers, data=json.dumps(data)
     )
