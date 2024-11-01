@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-01) [The 6 Types of Conversations with Generative AI](data/202411/2024-11-01-the-6-types-of-conversations-with-generative-ai.md)
 - (2024-10-31) [How to ask good questions](data/202410/2024-10-31-how-to-ask-good-questions.md)
 - (2024-10-31) [Spring官方竟然真的支持Bean的异步初始化](data/202410/2024-10-31-spring%E5%AE%98%E6%96%B9%E7%AB%9F%E7%84%B6%E7%9C%9F%E7%9A%84%E6%94%AF%E6%8C%81bean%E7%9A%84%E5%BC%82%E6%AD%A5%E5%88%9D%E5%A7%8B%E5%8C%96.md)
 - (2024-10-31) [打造私人专属智能股票预测模型](data/202410/2024-10-31-%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E4%B8%93%E5%B1%9E%E6%99%BA%E8%83%BD%E8%82%A1%E7%A5%A8%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B.md)
