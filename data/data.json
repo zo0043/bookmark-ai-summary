@@ -819,5 +819,14 @@
       "基金",
       "策略"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "Your AI Product Needs Evals",
+    "url": "https://hamel.dev/blog/posts/evals/index.html",
+    "timestamp": 1730807150,
+    "tags": [
+      "prompt"
+    ]
   }
 ]
