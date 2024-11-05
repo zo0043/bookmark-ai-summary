@@ -828,5 +828,15 @@
     "tags": [
       "prompt"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "Creating a LLM-as-a-Judge That Drives Business Results",
+    "url": "https://hamel.dev/blog/posts/llm-judge/",
+    "timestamp": 1730807198,
+    "tags": [
+      "llm",
+      "prompt"
+    ]
   }
 ]
