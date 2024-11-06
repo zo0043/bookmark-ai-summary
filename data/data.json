@@ -838,5 +838,14 @@
       "llm",
       "prompt"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "v0.dev prompt 结构详细解释（10/24/2024）",
+    "url": "https://baoyu.io/blog/v0-dev-prompt-structure-explanation",
+    "timestamp": 1730901465,
+    "tags": [
+      "prompt"
+    ]
   }
 ]

@@ -133,6 +133,7 @@
 - (2024-11-01) [The 6 Types of Conversations with Generative AI](data/202411/2024-11-01-the-6-types-of-conversations-with-generative-ai.md)
 - (2024-11-05) [Creating a LLM-as-a-Judge That Drives Business Results](data/202411/2024-11-05-creating-a-llm-as-a-judge-that-drives-business-results.md)
 - (2024-11-05) [Your AI Product Needs Evals](data/202411/2024-11-05-your-ai-product-needs-evals.md)
+- (2024-11-06) [v0.dev prompt 结构详细解释（10/24/2024）](data/202411/2024-11-06-v0.dev-prompt-%E7%BB%93%E6%9E%84%E8%AF%A6%E7%BB%86%E8%A7%A3%E9%87%8A%EF%BC%8810-24-2024%EF%BC%89.md)
 
 ## prompt框架
 
