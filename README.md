@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-07) [图解支付系统简洁而精妙的状态机设计与实现](data/202411/2024-11-07-%E5%9B%BE%E8%A7%A3%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E7%AE%80%E6%B4%81%E8%80%8C%E7%B2%BE%E5%A6%99%E7%9A%84%E7%8A%B6%E6%80%81%E6%9C%BA%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
 - (2024-11-06) [v0.dev prompt 结构详细解释（10/24/2024）](data/202411/2024-11-06-v0.dev-prompt-%E7%BB%93%E6%9E%84%E8%AF%A6%E7%BB%86%E8%A7%A3%E9%87%8A%EF%BC%8810-24-2024%EF%BC%89.md)
 - (2024-11-05) [Creating a LLM-as-a-Judge That Drives Business Results](data/202411/2024-11-05-creating-a-llm-as-a-judge-that-drives-business-results.md)
 - (2024-11-05) [Your AI Product Needs Evals](data/202411/2024-11-05-your-ai-product-needs-evals.md)
