@@ -1,2 +1,3 @@
 - (2024-10-14) [how to write](data/202410/2024-10-14-how-to-write.md)
 - (2024-10-14) [putting the you in cpu](data/202410/2024-10-14-putting-the-you-in-cpu.md)
+- (2024-11-08) [目录 | 系统设计面试：内幕指南](data/202411/2024-11-08-%E7%9B%AE%E5%BD%95-%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%EF%BC%9A%E5%86%85%E5%B9%95%E6%8C%87%E5%8D%97.md)
