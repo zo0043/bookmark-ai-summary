@@ -80,6 +80,10 @@
 - (2024-10-14) [Kafka Producer 发送消息原理 ](data/202410/2024-10-14-kafka-producer-%E5%8F%91%E9%80%81%E6%B6%88%E6%81%AF%E5%8E%9F%E7%90%86.md)
 - (2024-10-14) [Kafka延迟任务时间轮解析](data/202410/2024-10-14-kafka%E5%BB%B6%E8%BF%9F%E4%BB%BB%E5%8A%A1%E6%97%B6%E9%97%B4%E8%BD%AE%E8%A7%A3%E6%9E%90.md)
 
+## knowledgegraph
+
+- (2024-11-08) [How to Build a Knowledge Graph: A Step-by-Step Guide](data/202411/2024-11-08-how-to-build-a-knowledge-graph-a-step-by-step-guide.md)
+
 ## kubernetes
 
 - (2024-10-26) [基于实时 CPU 使用率的 Kubernetes 自定义调度器揭开Kubernetes调度的神秘面纱](data/202410/2024-10-26-%E5%9F%BA%E4%BA%8E%E5%AE%9E%E6%97%B6-cpu-%E4%BD%BF%E7%94%A8%E7%8E%87%E7%9A%84-kubernetes-%E8%87%AA%E5%AE%9A%E4%B9%89%E8%B0%83%E5%BA%A6%E5%99%A8%E6%8F%AD%E5%BC%80kubernetes%E8%B0%83%E5%BA%A6%E7%9A%84%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1.md)

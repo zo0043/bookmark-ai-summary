@@ -866,5 +866,14 @@
       "read",
       "readlist"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "How to Build a Knowledge Graph: A Step-by-Step Guide",
+    "url": "https://www.falkordb.com/blog/how-to-build-a-knowledge-graph/",
+    "timestamp": 1731058740,
+    "tags": [
+      "knowledgegraph"
+    ]
   }
 ]
