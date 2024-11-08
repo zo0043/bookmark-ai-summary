@@ -931,5 +931,14 @@
     "tags": [
       "kg"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "结合大型语言模型和知识图谱 ",
+    "url": "https://www.wisecube.ai/blog/combining-large-language-models-and-knowledge-graphs/",
+    "timestamp": 1731070275,
+    "tags": [
+      "kg"
+    ]
   }
 ]
