@@ -875,5 +875,15 @@
     "tags": [
       "knowledgegraph"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "凭借SpringBoot整合Neo4j，我理清了《雷神》中错综复杂的人物关系",
+    "url": "https://www.cnblogs.com/trunks2008/p/16706962.html",
+    "timestamp": 1731068093,
+    "tags": [
+      "kg",
+      "neo4j"
+    ]
   }
 ]

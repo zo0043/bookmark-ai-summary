@@ -80,6 +80,10 @@
 - (2024-10-14) [Kafka Producer 发送消息原理 ](data/202410/2024-10-14-kafka-producer-%E5%8F%91%E9%80%81%E6%B6%88%E6%81%AF%E5%8E%9F%E7%90%86.md)
 - (2024-10-14) [Kafka延迟任务时间轮解析](data/202410/2024-10-14-kafka%E5%BB%B6%E8%BF%9F%E4%BB%BB%E5%8A%A1%E6%97%B6%E9%97%B4%E8%BD%AE%E8%A7%A3%E6%9E%90.md)
 
+## kg
+
+- (2024-11-08) [凭借SpringBoot整合Neo4j，我理清了《雷神》中错综复杂的人物关系](data/202411/2024-11-08-%E5%87%AD%E5%80%9Fspringboot%E6%95%B4%E5%90%88neo4j%EF%BC%8C%E6%88%91%E7%90%86%E6%B8%85%E4%BA%86%E3%80%8A%E9%9B%B7%E7%A5%9E%E3%80%8B%E4%B8%AD%E9%94%99%E7%BB%BC%E5%A4%8D%E6%9D%82%E7%9A%84%E4%BA%BA%E7%89%A9%E5%85%B3%E7%B3%BB.md)
+
 ## knowledgegraph
 
 - (2024-11-08) [How to Build a Knowledge Graph: A Step-by-Step Guide](data/202411/2024-11-08-how-to-build-a-knowledge-graph-a-step-by-step-guide.md)
@@ -118,6 +122,10 @@
 
 - (2024-10-14) [全面透彻，MySQL 正确的慢查询处理姿势](data/202410/2024-10-14-%E5%85%A8%E9%9D%A2%E9%80%8F%E5%BD%BB%EF%BC%8Cmysql-%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%85%A2%E6%9F%A5%E8%AF%A2%E5%A4%84%E7%90%86%E5%A7%BF%E5%8A%BF.md)
 - (2024-10-15) [分库分表经典15连问](data/202410/2024-10-15-%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E7%BB%8F%E5%85%B815%E8%BF%9E%E9%97%AE.md)
+
+## neo4j
+
+- (2024-11-08) [凭借SpringBoot整合Neo4j，我理清了《雷神》中错综复杂的人物关系](data/202411/2024-11-08-%E5%87%AD%E5%80%9Fspringboot%E6%95%B4%E5%90%88neo4j%EF%BC%8C%E6%88%91%E7%90%86%E6%B8%85%E4%BA%86%E3%80%8A%E9%9B%B7%E7%A5%9E%E3%80%8B%E4%B8%AD%E9%94%99%E7%BB%BC%E5%A4%8D%E6%9D%82%E7%9A%84%E4%BA%BA%E7%89%A9%E5%85%B3%E7%B3%BB.md)
 
 ## openai
 
