@@ -1029,5 +1029,14 @@
       "wechat_redirect",
       "saas"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "如何实现图片阅后即焚功能的全面指南",
+    "url": "https://juejin.cn/post/7433068127786909731",
+    "timestamp": 1731311779,
+    "tags": [
+      "系统设计"
+    ]
   }
 ]
