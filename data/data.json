@@ -1047,5 +1047,14 @@
     "tags": [
       "llm"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "LLM应用实战: AI资讯的自动聚合及报告生成开发工具",
+    "url": "https://juejin.cn/post/7433957728430571557",
+    "timestamp": 1731326114,
+    "tags": [
+      "rss"
+    ]
   }
 ]
