@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-11) [离职决策模型：聊聊跳槽的底层逻辑](data/202411/2024-11-11-%E7%A6%BB%E8%81%8C%E5%86%B3%E7%AD%96%E6%A8%A1%E5%9E%8B%EF%BC%9A%E8%81%8A%E8%81%8A%E8%B7%B3%E6%A7%BD%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91.md)
 - (2024-11-11) [1.9万字：支付清算生态](data/202411/2024-11-11-1.9%E4%B8%87%E5%AD%97%EF%BC%9A%E6%94%AF%E4%BB%98%E6%B8%85%E7%AE%97%E7%94%9F%E6%80%81.md)
 - (2024-11-11) [万字：清结算体系，全局方案深度解析](data/202411/2024-11-11-%E4%B8%87%E5%AD%97%EF%BC%9A%E6%B8%85%E7%BB%93%E7%AE%97%E4%BD%93%E7%B3%BB%EF%BC%8C%E5%85%A8%E5%B1%80%E6%96%B9%E6%A1%88%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
 - (2024-11-11) [3.5万字：一文搞懂“支付系统”](data/202411/2024-11-11-3.5%E4%B8%87%E5%AD%97%EF%BC%9A%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E2%80%9C%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E2%80%9D.md)
