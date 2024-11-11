@@ -949,5 +949,15 @@
     "tags": [
       "xhs"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "一文搞懂第三方支付系统架构设计",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247684575&idx=1&sn=6a314aa2da733365717e855bb691de77&scene=21#wechat_redirect",
+    "timestamp": 1731290464,
+    "tags": [
+      "wechat_redirect",
+      "架构设计"
+    ]
   }
 ]

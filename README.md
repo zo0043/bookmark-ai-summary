@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-11) [一文搞懂第三方支付系统架构设计](data/202411/2024-11-11-%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E7%AC%AC%E4%B8%89%E6%96%B9%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.md)
 - (2024-11-08) [每天看小红书热门资讯，我不信你做不好小红书](data/202411/2024-11-08-%E6%AF%8F%E5%A4%A9%E7%9C%8B%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%83%AD%E9%97%A8%E8%B5%84%E8%AE%AF%EF%BC%8C%E6%88%91%E4%B8%8D%E4%BF%A1%E4%BD%A0%E5%81%9A%E4%B8%8D%E5%A5%BD%E5%B0%8F%E7%BA%A2%E4%B9%A6.md)
 - (2024-11-08) [结合大型语言模型和知识图谱 ](data/202411/2024-11-08-%E7%BB%93%E5%90%88%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%92%8C%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1.md)
 - (2024-11-08) [项目实战：如何构建知识图谱](data/202411/2024-11-08-%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%EF%BC%9A%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1.md)
