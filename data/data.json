@@ -1019,5 +1019,15 @@
       "wechat_redirect",
       "底层逻辑"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "一文搞懂SaaS多租户的3种隔离模式",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA4MjUzNjc0Mw==&mid=2247488669&idx=1&sn=0a609152f3b6e6d18a9040558fd5ae85&scene=21#wechat_redirect",
+    "timestamp": 1731293795,
+    "tags": [
+      "wechat_redirect",
+      "saas"
+    ]
   }
 ]
