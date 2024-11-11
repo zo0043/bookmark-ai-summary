@@ -5,3 +5,4 @@
 - (2024-10-15) [LLM企业应用落地场景中的问题一览 ｜LLM ｜RAG ｜Agent ｜TorchV](data/202410/2024-10-15-llm%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AF%E4%B8%AD%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%80%E8%A7%88-%EF%BD%9Cllm-%EF%BD%9Crag-%EF%BD%9Cagent-%EF%BD%9Ctorchv.md)
 - (2024-10-15) [llama-agents+chainlit打造超级智能体](data/202410/2024-10-15-llama-agents%2Bchainlit%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%BD%93.md)
 - (2024-11-05) [Creating a LLM-as-a-Judge That Drives Business Results](data/202411/2024-11-05-creating-a-llm-as-a-judge-that-drives-business-results.md)
+- (2024-11-11) [白话文讲解大模型｜ Attention is all you need](data/202411/2024-11-11-%E7%99%BD%E8%AF%9D%E6%96%87%E8%AE%B2%E8%A7%A3%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BD%9C-attention-is-all-you-need.md)

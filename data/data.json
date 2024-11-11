@@ -1038,5 +1038,14 @@
     "tags": [
       "系统设计"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "白话文讲解大模型｜ Attention is all you need",
+    "url": "https://mp.weixin.qq.com/s/_N-xXOx_XvdeWr1lls39sw",
+    "timestamp": 1731325886,
+    "tags": [
+      "llm"
+    ]
   }
 ]
