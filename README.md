@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-12) [如何才能在Java中优雅的操纵时间？](data/202411/2024-11-12-%E5%A6%82%E4%BD%95%E6%89%8D%E8%83%BD%E5%9C%A8java%E4%B8%AD%E4%BC%98%E9%9B%85%E7%9A%84%E6%93%8D%E7%BA%B5%E6%97%B6%E9%97%B4%EF%BC%9F.md)
 - (2024-11-11) [LLM应用实战: AI资讯的自动聚合及报告生成开发工具](data/202411/2024-11-11-llm%E5%BA%94%E7%94%A8%E5%AE%9E%E6%88%98-ai%E8%B5%84%E8%AE%AF%E7%9A%84%E8%87%AA%E5%8A%A8%E8%81%9A%E5%90%88%E5%8F%8A%E6%8A%A5%E5%91%8A%E7%94%9F%E6%88%90%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7.md)
 - (2024-11-11) [白话文讲解大模型｜ Attention is all you need](data/202411/2024-11-11-%E7%99%BD%E8%AF%9D%E6%96%87%E8%AE%B2%E8%A7%A3%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BD%9C-attention-is-all-you-need.md)
 - (2024-11-11) [如何实现图片阅后即焚功能的全面指南](data/202411/2024-11-11-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A%E5%8A%9F%E8%83%BD%E7%9A%84%E5%85%A8%E9%9D%A2%E6%8C%87%E5%8D%97.md)
