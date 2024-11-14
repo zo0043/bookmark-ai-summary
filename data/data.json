@@ -1066,5 +1066,14 @@
       "java",
       "时间"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "万级TPS优惠券系统设计与实践",
+    "url": "https://mp.weixin.qq.com/s/qs3Okf7Jxh9nYFHfG7MGsQ",
+    "timestamp": 1731587189,
+    "tags": [
+      "优惠券"
+    ]
   }
 ]
