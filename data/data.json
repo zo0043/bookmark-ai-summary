@@ -1075,5 +1075,15 @@
     "tags": [
       "优惠券"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "一文讲透数据库缓存一致性问题",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247685208&idx=1&sn=e0315649a49533d67f56c7006dbafc53&chksm=eaa60e08ddd1871e9912dc71205460256af4f72f6561090c651f9920720991ae0986bc24ce70&scene=21#wechat_redirect",
+    "timestamp": 1731589506,
+    "tags": [
+      "wechat_redirect",
+      "缓存一致性"
+    ]
   }
 ]
