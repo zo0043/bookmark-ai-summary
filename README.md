@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-18) [写一个Chrome浏览器插件](data/202411/2024-11-18-%E5%86%99%E4%B8%80%E4%B8%AAchrome%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6.md)
 - (2024-11-18) [后退一步思考](data/202411/2024-11-18-%E5%90%8E%E9%80%80%E4%B8%80%E6%AD%A5%E6%80%9D%E8%80%83.md)
 - (2024-11-18) [一篇完全由AI写的10万+爆款，让我窥见了AI商用的未来](data/202411/2024-11-18-%E4%B8%80%E7%AF%87%E5%AE%8C%E5%85%A8%E7%94%B1ai%E5%86%99%E7%9A%8410%E4%B8%87%2B%E7%88%86%E6%AC%BE%EF%BC%8C%E8%AE%A9%E6%88%91%E7%AA%A5%E8%A7%81%E4%BA%86ai%E5%95%86%E7%94%A8%E7%9A%84%E6%9C%AA%E6%9D%A5.md)
 - (2024-11-18) [提示词增强器](data/202411/2024-11-18-%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%A2%9E%E5%BC%BA%E5%99%A8.md)
