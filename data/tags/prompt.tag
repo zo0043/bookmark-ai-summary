@@ -11,3 +11,4 @@
 - (2024-11-05) [Creating a LLM-as-a-Judge That Drives Business Results](data/202411/2024-11-05-creating-a-llm-as-a-judge-that-drives-business-results.md)
 - (2024-11-05) [Your AI Product Needs Evals](data/202411/2024-11-05-your-ai-product-needs-evals.md)
 - (2024-11-06) [v0.dev prompt 结构详细解释（10/24/2024）](data/202411/2024-11-06-v0.dev-prompt-%E7%BB%93%E6%9E%84%E8%AF%A6%E7%BB%86%E8%A7%A3%E9%87%8A%EF%BC%8810-24-2024%EF%BC%89.md)
+- (2024-11-18) [提示词增强器](data/202411/2024-11-18-%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%A2%9E%E5%BC%BA%E5%99%A8.md)
