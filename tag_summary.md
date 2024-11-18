@@ -445,6 +445,10 @@
 
 - (2024-11-12) [如何才能在Java中优雅的操纵时间？](data/202411/2024-11-12-%E5%A6%82%E4%BD%95%E6%89%8D%E8%83%BD%E5%9C%A8java%E4%B8%AD%E4%BC%98%E9%9B%85%E7%9A%84%E6%93%8D%E7%BA%B5%E6%97%B6%E9%97%B4%EF%BC%9F.md)
 
+## 服装试穿
+
+- (2024-11-18) [TTPlanetPig/Comfyui_Object_Migration](data/202411/2024-11-18-ttplanetpig-comfyui_object_migration.md)
+
 ## 架构设计
 
 - (2024-11-11) [一文搞懂第三方支付系统架构设计](data/202411/2024-11-11-%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E7%AC%AC%E4%B8%89%E6%96%B9%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.md)
