@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-19) [万字干货｜复杂表格多Agent方案：从LLM洞察、系统性思考到实践经验总结](data/202411/2024-11-19-%E4%B8%87%E5%AD%97%E5%B9%B2%E8%B4%A7%EF%BD%9C%E5%A4%8D%E6%9D%82%E8%A1%A8%E6%A0%BC%E5%A4%9Aagent%E6%96%B9%E6%A1%88%EF%BC%9A%E4%BB%8Ellm%E6%B4%9E%E5%AF%9F%E3%80%81%E7%B3%BB%E7%BB%9F%E6%80%A7%E6%80%9D%E8%80%83%E5%88%B0%E5%AE%9E%E8%B7%B5%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93.md)
 - (2024-11-18) [TTPlanetPig/Comfyui_Object_Migration](data/202411/2024-11-18-ttplanetpig-comfyui_object_migration.md)
 - (2024-11-18) [写一个Chrome浏览器插件](data/202411/2024-11-18-%E5%86%99%E4%B8%80%E4%B8%AAchrome%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6.md)
 - (2024-11-18) [后退一步思考](data/202411/2024-11-18-%E5%90%8E%E9%80%80%E4%B8%80%E6%AD%A5%E6%80%9D%E8%80%83.md)
