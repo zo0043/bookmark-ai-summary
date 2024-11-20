@@ -1162,5 +1162,14 @@
     "tags": [
       "并发"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "GraphRAG手调Prompt提取自定义实体",
+    "url": "https://juejin.cn/post/7397597730631417892",
+    "timestamp": 1732108456,
+    "tags": [
+      "prompt"
+    ]
   }
 ]
