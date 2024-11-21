@@ -1171,5 +1171,15 @@
     "tags": [
       "prompt"
     ]
+  },
+  {
+    "month": "202411",
+    "title": "iText2KG：使用LLM构建增量知识图谱（KG）",
+    "url": "https://mp.weixin.qq.com/s/0nTku_hyTLtQilCXGSd2AA",
+    "timestamp": 1732156549,
+    "tags": [
+      "kg",
+      "llm"
+    ]
   }
 ]

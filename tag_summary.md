@@ -107,6 +107,7 @@
 - (2024-11-08) [详解自下而上构建知识图谱全过程](data/202411/2024-11-08-%E8%AF%A6%E8%A7%A3%E8%87%AA%E4%B8%8B%E8%80%8C%E4%B8%8A%E6%9E%84%E5%BB%BA%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%85%A8%E8%BF%87%E7%A8%8B.md)
 - (2024-11-08) [项目实战：如何构建知识图谱](data/202411/2024-11-08-%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%EF%BC%9A%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1.md)
 - (2024-11-20) [打包起来！把Agent接入GraphRAG！装进MAS中](data/202411/2024-11-20-%E6%89%93%E5%8C%85%E8%B5%B7%E6%9D%A5%EF%BC%81%E6%8A%8Aagent%E6%8E%A5%E5%85%A5graphrag%EF%BC%81%E8%A3%85%E8%BF%9Bmas%E4%B8%AD.md)
+- (2024-11-21) [iText2KG：使用LLM构建增量知识图谱（KG）](data/202411/2024-11-21-itext2kg%EF%BC%9A%E4%BD%BF%E7%94%A8llm%E6%9E%84%E5%BB%BA%E5%A2%9E%E9%87%8F%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%EF%BC%88kg%EF%BC%89.md)
 
 ## knowledgegraph
 
@@ -138,6 +139,7 @@
 - (2024-10-15) [llama-agents+chainlit打造超级智能体](data/202410/2024-10-15-llama-agents%2Bchainlit%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%BD%93.md)
 - (2024-11-05) [Creating a LLM-as-a-Judge That Drives Business Results](data/202411/2024-11-05-creating-a-llm-as-a-judge-that-drives-business-results.md)
 - (2024-11-11) [白话文讲解大模型｜ Attention is all you need](data/202411/2024-11-11-%E7%99%BD%E8%AF%9D%E6%96%87%E8%AE%B2%E8%A7%A3%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BD%9C-attention-is-all-you-need.md)
+- (2024-11-21) [iText2KG：使用LLM构建增量知识图谱（KG）](data/202411/2024-11-21-itext2kg%EF%BC%9A%E4%BD%BF%E7%94%A8llm%E6%9E%84%E5%BB%BA%E5%A2%9E%E9%87%8F%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%EF%BC%88kg%EF%BC%89.md)
 
 ## markdown
 

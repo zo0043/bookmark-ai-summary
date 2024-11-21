@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-21) [iText2KG：使用LLM构建增量知识图谱（KG）](data/202411/2024-11-21-itext2kg%EF%BC%9A%E4%BD%BF%E7%94%A8llm%E6%9E%84%E5%BB%BA%E5%A2%9E%E9%87%8F%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%EF%BC%88kg%EF%BC%89.md)
 - (2024-11-20) [GraphRAG手调Prompt提取自定义实体](data/202411/2024-11-20-graphrag%E6%89%8B%E8%B0%83prompt%E6%8F%90%E5%8F%96%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%9E%E4%BD%93.md)
 - (2024-11-20) [并发编程体系概述](data/202411/2024-11-20-%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%BD%93%E7%B3%BB%E6%A6%82%E8%BF%B0.md)
 - (2024-11-20) [打包起来！把Agent接入GraphRAG！装进MAS中](data/202411/2024-11-20-%E6%89%93%E5%8C%85%E8%B5%B7%E6%9D%A5%EF%BC%81%E6%8A%8Aagent%E6%8E%A5%E5%85%A5graphrag%EF%BC%81%E8%A3%85%E8%BF%9Bmas%E4%B8%AD.md)
