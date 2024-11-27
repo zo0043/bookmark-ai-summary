@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-27) [神级Prompt多到用不完，我用Claude将它们重构了一遍](data/202411/2024-11-27-%E7%A5%9E%E7%BA%A7prompt%E5%A4%9A%E5%88%B0%E7%94%A8%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%88%91%E7%94%A8claude%E5%B0%86%E5%AE%83%E4%BB%AC%E9%87%8D%E6%9E%84%E4%BA%86%E4%B8%80%E9%81%8D.md)
 - (2024-11-27) [CopyCoder，不和Cursor 和 Windsurf 争主角，只做年度最强无敌的绿叶](data/202411/2024-11-27-copycoder%EF%BC%8C%E4%B8%8D%E5%92%8Ccursor-%E5%92%8C-windsurf-%E4%BA%89%E4%B8%BB%E8%A7%92%EF%BC%8C%E5%8F%AA%E5%81%9A%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%BC%BA%E6%97%A0%E6%95%8C%E7%9A%84%E7%BB%BF%E5%8F%B6.md)
 - (2024-11-22) [如何预防个人极端案事件](data/202411/2024-11-22-%E5%A6%82%E4%BD%95%E9%A2%84%E9%98%B2%E4%B8%AA%E4%BA%BA%E6%9E%81%E7%AB%AF%E6%A1%88%E4%BA%8B%E4%BB%B6.md)
 - (2024-11-21) [iText2KG：使用LLM构建增量知识图谱（KG）](data/202411/2024-11-21-itext2kg%EF%BC%9A%E4%BD%BF%E7%94%A8llm%E6%9E%84%E5%BB%BA%E5%A2%9E%E9%87%8F%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%EF%BC%88kg%EF%BC%89.md)
