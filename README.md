@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-27) [扣子赚钱文章已5万阅读，大家对智能体看法](data/202411/2024-11-27-%E6%89%A3%E5%AD%90%E8%B5%9A%E9%92%B1%E6%96%87%E7%AB%A0%E5%B7%B25%E4%B8%87%E9%98%85%E8%AF%BB%EF%BC%8C%E5%A4%A7%E5%AE%B6%E5%AF%B9%E6%99%BA%E8%83%BD%E4%BD%93%E7%9C%8B%E6%B3%95.md)
 - (2024-11-27) [神级Prompt多到用不完，我用Claude将它们重构了一遍](data/202411/2024-11-27-%E7%A5%9E%E7%BA%A7prompt%E5%A4%9A%E5%88%B0%E7%94%A8%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%88%91%E7%94%A8claude%E5%B0%86%E5%AE%83%E4%BB%AC%E9%87%8D%E6%9E%84%E4%BA%86%E4%B8%80%E9%81%8D.md)
 - (2024-11-27) [CopyCoder，不和Cursor 和 Windsurf 争主角，只做年度最强无敌的绿叶](data/202411/2024-11-27-copycoder%EF%BC%8C%E4%B8%8D%E5%92%8Ccursor-%E5%92%8C-windsurf-%E4%BA%89%E4%B8%BB%E8%A7%92%EF%BC%8C%E5%8F%AA%E5%81%9A%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%BC%BA%E6%97%A0%E6%95%8C%E7%9A%84%E7%BB%BF%E5%8F%B6.md)
 - (2024-11-22) [如何预防个人极端案事件](data/202411/2024-11-22-%E5%A6%82%E4%BD%95%E9%A2%84%E9%98%B2%E4%B8%AA%E4%BA%BA%E6%9E%81%E7%AB%AF%E6%A1%88%E4%BA%8B%E4%BB%B6.md)
