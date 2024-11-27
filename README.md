@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-27) [How to build 99.999% uptime payment systems](data/202411/2024-11-27-how-to-build-99.999%25-uptime-payment-systems.md)
 - (2024-11-27) [用AI做小绿书，5分钟一篇，连爆多篇10w+，赶紧学起来](data/202411/2024-11-27-%E7%94%A8ai%E5%81%9A%E5%B0%8F%E7%BB%BF%E4%B9%A6%EF%BC%8C5%E5%88%86%E9%92%9F%E4%B8%80%E7%AF%87%EF%BC%8C%E8%BF%9E%E7%88%86%E5%A4%9A%E7%AF%8710w%2B%EF%BC%8C%E8%B5%B6%E7%B4%A7%E5%AD%A6%E8%B5%B7%E6%9D%A5.md)
 - (2024-11-27) [用AI做林黛玉怼人视频，8条笔记，30天涨粉1.8w](data/202411/2024-11-27-%E7%94%A8ai%E5%81%9A%E6%9E%97%E9%BB%9B%E7%8E%89%E6%80%BC%E4%BA%BA%E8%A7%86%E9%A2%91%EF%BC%8C8%E6%9D%A1%E7%AC%94%E8%AE%B0%EF%BC%8C30%E5%A4%A9%E6%B6%A8%E7%B2%891.8w.md)
 - (2024-11-27) [扣子赚钱文章已5万阅读，大家对智能体看法](data/202411/2024-11-27-%E6%89%A3%E5%AD%90%E8%B5%9A%E9%92%B1%E6%96%87%E7%AB%A0%E5%B7%B25%E4%B8%87%E9%98%85%E8%AF%BB%EF%BC%8C%E5%A4%A7%E5%AE%B6%E5%AF%B9%E6%99%BA%E8%83%BD%E4%BD%93%E7%9C%8B%E6%B3%95.md)

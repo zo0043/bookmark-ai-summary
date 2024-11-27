@@ -1228,5 +1228,14 @@
     "url": "https://juejin.cn/post/7426675172918853686",
     "timestamp": 1732722100,
     "tags": []
+  },
+  {
+    "month": "202411",
+    "title": "How to build 99.999% uptime payment systems",
+    "url": "https://news.alvaroduran.com/p/how-to-build-99999-uptime-payment",
+    "timestamp": 1732725651,
+    "tags": [
+      "系统设计"
+    ]
   }
 ]
