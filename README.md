@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-27) [2024面试必问:系统频繁Full GC，你有哪些优化思路？第一步分析gc日志](data/202411/2024-11-27-2024%E9%9D%A2%E8%AF%95%E5%BF%85%E9%97%AE-%E7%B3%BB%E7%BB%9F%E9%A2%91%E7%B9%81full-gc%EF%BC%8C%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8C%96%E6%80%9D%E8%B7%AF%EF%BC%9F%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%88%86%E6%9E%90gc%E6%97%A5%E5%BF%97.md)
 - (2024-11-27) [How to build 99.999% uptime payment systems](data/202411/2024-11-27-how-to-build-99.999%25-uptime-payment-systems.md)
 - (2024-11-27) [用AI做小绿书，5分钟一篇，连爆多篇10w+，赶紧学起来](data/202411/2024-11-27-%E7%94%A8ai%E5%81%9A%E5%B0%8F%E7%BB%BF%E4%B9%A6%EF%BC%8C5%E5%88%86%E9%92%9F%E4%B8%80%E7%AF%87%EF%BC%8C%E8%BF%9E%E7%88%86%E5%A4%9A%E7%AF%8710w%2B%EF%BC%8C%E8%B5%B6%E7%B4%A7%E5%AD%A6%E8%B5%B7%E6%9D%A5.md)
 - (2024-11-27) [用AI做林黛玉怼人视频，8条笔记，30天涨粉1.8w](data/202411/2024-11-27-%E7%94%A8ai%E5%81%9A%E6%9E%97%E9%BB%9B%E7%8E%89%E6%80%BC%E4%BA%BA%E8%A7%86%E9%A2%91%EF%BC%8C8%E6%9D%A1%E7%AC%94%E8%AE%B0%EF%BC%8C30%E5%A4%A9%E6%B6%A8%E7%B2%891.8w.md)
