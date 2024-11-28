@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-11-28) [帮助人偷懒，可真受欢迎  最近正在做知识类的小红书账号](data/202411/2024-11-28-%E5%B8%AE%E5%8A%A9%E4%BA%BA%E5%81%B7%E6%87%92%EF%BC%8C%E5%8F%AF%E7%9C%9F%E5%8F%97%E6%AC%A2%E8%BF%8E-%E6%9C%80%E8%BF%91%E6%AD%A3%E5%9C%A8%E5%81%9A%E7%9F%A5%E8%AF%86%E7%B1%BB%E7%9A%84%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%B4%A6%E5%8F%B7.md)
 - (2024-11-28) [如何让 AI 写出好文案](data/202411/2024-11-28-%E5%A6%82%E4%BD%95%E8%AE%A9-ai-%E5%86%99%E5%87%BA%E5%A5%BD%E6%96%87%E6%A1%88.md)
 - (2024-11-27) [一篇文章彻底搞明白既熟悉又陌生的状态机设计好业务系统的状态机](data/202411/2024-11-27-%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%BD%BB%E5%BA%95%E6%90%9E%E6%98%8E%E7%99%BD%E6%97%A2%E7%86%9F%E6%82%89%E5%8F%88%E9%99%8C%E7%94%9F%E7%9A%84%E7%8A%B6%E6%80%81%E6%9C%BA%E8%AE%BE%E8%AE%A1%E5%A5%BD%E4%B8%9A%E5%8A%A1%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%8A%B6%E6%80%81%E6%9C%BA.md)
 - (2024-11-27) [2024面试必问:系统频繁Full GC，你有哪些优化思路？第一步分析gc日志](data/202411/2024-11-27-2024%E9%9D%A2%E8%AF%95%E5%BF%85%E9%97%AE-%E7%B3%BB%E7%BB%9F%E9%A2%91%E7%B9%81full-gc%EF%BC%8C%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8C%96%E6%80%9D%E8%B7%AF%EF%BC%9F%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%88%86%E6%9E%90gc%E6%97%A5%E5%BF%97.md)
