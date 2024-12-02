@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-12-02) [Java代码之美，从遵循样式规范开始](data/202412/2024-12-02-java%E4%BB%A3%E7%A0%81%E4%B9%8B%E7%BE%8E%EF%BC%8C%E4%BB%8E%E9%81%B5%E5%BE%AA%E6%A0%B7%E5%BC%8F%E8%A7%84%E8%8C%83%E5%BC%80%E5%A7%8B.md)
 - (2024-12-02) [1分钟的时间教会你写短视频爆款标题](data/202412/2024-12-02-1%E5%88%86%E9%92%9F%E7%9A%84%E6%97%B6%E9%97%B4%E6%95%99%E4%BC%9A%E4%BD%A0%E5%86%99%E7%9F%AD%E8%A7%86%E9%A2%91%E7%88%86%E6%AC%BE%E6%A0%87%E9%A2%98.md)
 - (2024-12-02) [【爆款标题 prompt】 ](data/202412/2024-12-02-%E3%80%90%E7%88%86%E6%AC%BE%E6%A0%87%E9%A2%98-prompt%E3%80%91.md)
 - (2024-11-28) [从文案到设计，我用通义版Artifacts生成了365张灵感日历](data/202411/2024-11-28-%E4%BB%8E%E6%96%87%E6%A1%88%E5%88%B0%E8%AE%BE%E8%AE%A1%EF%BC%8C%E6%88%91%E7%94%A8%E9%80%9A%E4%B9%89%E7%89%88artifacts%E7%94%9F%E6%88%90%E4%BA%86365%E5%BC%A0%E7%81%B5%E6%84%9F%E6%97%A5%E5%8E%86.md)
