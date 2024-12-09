@@ -23,6 +23,7 @@
 - (2024-10-22) [以「时间」为主题的 Prompt ，可以怎么做？](data/202410/2024-10-22-%E4%BB%A5%E3%80%8C%E6%97%B6%E9%97%B4%E3%80%8D%E4%B8%BA%E4%B8%BB%E9%A2%98%E7%9A%84-prompt-%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%80%8E%E4%B9%88%E5%81%9A%EF%BC%9F.md)
 - (2024-10-24) [0基础小白独立开发的第一款小程序 ](data/202410/2024-10-24-0%E5%9F%BA%E7%A1%80%E5%B0%8F%E7%99%BD%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E5%B0%8F%E7%A8%8B%E5%BA%8F.md)
 - (2024-11-01) [The 6 Types of Conversations with Generative AI](data/202411/2024-11-01-the-6-types-of-conversations-with-generative-ai.md)
+- (2024-12-09) [使用 AI Cursor 编程实现一个小产品 Chrome](data/202412/2024-12-09-%E4%BD%BF%E7%94%A8-ai-cursor-%E7%BC%96%E7%A8%8B%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%B0%8F%E4%BA%A7%E5%93%81-chrome.md)
 
 ## ai应用
 
@@ -51,6 +52,7 @@
 ## chrome
 
 - (2024-11-18) [写一个Chrome浏览器插件](data/202411/2024-11-18-%E5%86%99%E4%B8%80%E4%B8%AAchrome%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6.md)
+- (2024-12-09) [使用 AI Cursor 编程实现一个小产品 Chrome](data/202412/2024-12-09-%E4%BD%BF%E7%94%A8-ai-cursor-%E7%BC%96%E7%A8%8B%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%B0%8F%E4%BA%A7%E5%93%81-chrome.md)
 
 ## cpu
 

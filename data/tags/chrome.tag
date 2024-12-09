@@ -1,1 +1,2 @@
 - (2024-11-18) [写一个Chrome浏览器插件](data/202411/2024-11-18-%E5%86%99%E4%B8%80%E4%B8%AAchrome%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6.md)
+- (2024-12-09) [使用 AI Cursor 编程实现一个小产品 Chrome](data/202412/2024-12-09-%E4%BD%BF%E7%94%A8-ai-cursor-%E7%BC%96%E7%A8%8B%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%B0%8F%E4%BA%A7%E5%93%81-chrome.md)
