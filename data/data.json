@@ -1379,5 +1379,14 @@
       "chrome",
       "ai"
     ]
+  },
+  {
+    "month": "202412",
+    "title": "重构问题，更清晰的思考和提问的5个方法",
+    "url": "https://mp.weixin.qq.com/s/G0iNcwqones5NVfKpjFU3w",
+    "timestamp": 1733758923,
+    "tags": [
+      "prompt"
+    ]
   }
 ]
