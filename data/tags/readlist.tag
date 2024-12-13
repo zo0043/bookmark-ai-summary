@@ -1,2 +1,3 @@
 - (2024-10-23) [Distributed Systems Reading List](data/202410/2024-10-23-distributed-systems-reading-list.md)
 - (2024-11-08) [目录 | 系统设计面试：内幕指南](data/202411/2024-11-08-%E7%9B%AE%E5%BD%95-%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%EF%BC%9A%E5%86%85%E5%B9%95%E6%8C%87%E5%8D%97.md)
+- (2024-12-13) [深入架构原理与实践 | 深入高可用系统原理与设计](data/202412/2024-12-13-%E6%B7%B1%E5%85%A5%E6%9E%B6%E6%9E%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E6%B7%B1%E5%85%A5%E9%AB%98%E5%8F%AF%E7%94%A8%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1.md)
