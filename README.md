@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-12-18) [Project Odyssey全球AI电影大赛 第二季！](data/202412/2024-12-18-project-odyssey%E5%85%A8%E7%90%83ai%E7%94%B5%E5%BD%B1%E5%A4%A7%E8%B5%9B-%E7%AC%AC%E4%BA%8C%E5%AD%A3%EF%BC%81.md)
 - (2024-12-18) [美团一面：Git 是如何工作的？](data/202412/2024-12-18-%E7%BE%8E%E5%9B%A2%E4%B8%80%E9%9D%A2%EF%BC%9Agit-%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84%EF%BC%9F.md)
 - (2024-12-18) [见知录 Vol.001：最小化提示词原则](data/202412/2024-12-18-%E8%A7%81%E7%9F%A5%E5%BD%95-vol.001%EF%BC%9A%E6%9C%80%E5%B0%8F%E5%8C%96%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%8E%9F%E5%88%99.md)
 - (2024-12-16) [How Can I Be An AI Engineer? ](data/202412/2024-12-16-how-can-i-be-an-ai-engineer.md)
