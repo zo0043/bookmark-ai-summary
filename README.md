@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-12-19) [产品设计：如何用三流分析搞定复杂场景分析与产品设计](data/202412/2024-12-19-%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%EF%BC%9A%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%89%E6%B5%81%E5%88%86%E6%9E%90%E6%90%9E%E5%AE%9A%E5%A4%8D%E6%9D%82%E5%9C%BA%E6%99%AF%E5%88%86%E6%9E%90%E4%B8%8E%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1.md)
 - (2024-12-19) [总结：跨境电商与供应链产品经理入门](data/202412/2024-12-19-%E6%80%BB%E7%BB%93%EF%BC%9A%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E4%B8%8E%E4%BE%9B%E5%BA%94%E9%93%BE%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%85%A5%E9%97%A8.md)
 - (2024-12-19) [交易系统：订单模型设计详解](data/202412/2024-12-19-%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%EF%BC%9A%E8%AE%A2%E5%8D%95%E6%A8%A1%E5%9E%8B%E8%AE%BE%E8%AE%A1%E8%AF%A6%E8%A7%A3.md)
 - (2024-12-19) [述职汇报这样做，加分儿](data/202412/2024-12-19-%E8%BF%B0%E8%81%8C%E6%B1%87%E6%8A%A5%E8%BF%99%E6%A0%B7%E5%81%9A%EF%BC%8C%E5%8A%A0%E5%88%86%E5%84%BF.md)
