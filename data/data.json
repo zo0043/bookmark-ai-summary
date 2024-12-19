@@ -1474,5 +1474,14 @@
     "tags": [
       "wechat_redirect"
     ]
+  },
+  {
+    "month": "202412",
+    "title": "交易系统：订单模型设计详解",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA4MjUzNjc0Mw==&mid=2247489083&idx=1&sn=746d8a0885464fb35085ad1feeedb835&scene=21#wechat_redirect",
+    "timestamp": 1734600803,
+    "tags": [
+      "wechat_redirect"
+    ]
   }
 ]
