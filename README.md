@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-12-19) [资金视角看支付系统架构设计](data/202412/2024-12-19-%E8%B5%84%E9%87%91%E8%A7%86%E8%A7%92%E7%9C%8B%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.md)
 - (2024-12-19) [理解Go协程调度的本质](data/202412/2024-12-19-%E7%90%86%E8%A7%A3go%E5%8D%8F%E7%A8%8B%E8%B0%83%E5%BA%A6%E7%9A%84%E6%9C%AC%E8%B4%A8.md)
 - (2024-12-18) [Project Odyssey全球AI电影大赛 第二季！](data/202412/2024-12-18-project-odyssey%E5%85%A8%E7%90%83ai%E7%94%B5%E5%BD%B1%E5%A4%A7%E8%B5%9B-%E7%AC%AC%E4%BA%8C%E5%AD%A3%EF%BC%81.md)
 - (2024-12-18) [美团一面：Git 是如何工作的？](data/202412/2024-12-18-%E7%BE%8E%E5%9B%A2%E4%B8%80%E9%9D%A2%EF%BC%9Agit-%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84%EF%BC%9F.md)
