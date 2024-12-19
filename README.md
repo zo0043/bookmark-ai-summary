@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-12-19) [从传销角度看管理：在座的各位都是垃圾！](data/202412/2024-12-19-%E4%BB%8E%E4%BC%A0%E9%94%80%E8%A7%92%E5%BA%A6%E7%9C%8B%E7%AE%A1%E7%90%86%EF%BC%9A%E5%9C%A8%E5%BA%A7%E7%9A%84%E5%90%84%E4%BD%8D%E9%83%BD%E6%98%AF%E5%9E%83%E5%9C%BE%EF%BC%81.md)
 - (2024-12-19) [#AI时代的设计系统](data/202412/2024-12-19-%23ai%E6%97%B6%E4%BB%A3%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%B3%BB%E7%BB%9F.md)
 - (2024-12-19) [从特朗普入主白宫展望2025经济趋势 - Insights、热点洞察 - 发现报告](data/202412/2024-12-19-%E4%BB%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A5%E4%B8%BB%E7%99%BD%E5%AE%AB%E5%B1%95%E6%9C%9B2025%E7%BB%8F%E6%B5%8E%E8%B6%8B%E5%8A%BF---insights%E3%80%81%E7%83%AD%E7%82%B9%E6%B4%9E%E5%AF%9F---%E5%8F%91%E7%8E%B0%E6%8A%A5%E5%91%8A.md)
 - (2024-12-19) [成长型思维：老板不关注，这件事还做不做？](data/202412/2024-12-19-%E6%88%90%E9%95%BF%E5%9E%8B%E6%80%9D%E7%BB%B4%EF%BC%9A%E8%80%81%E6%9D%BF%E4%B8%8D%E5%85%B3%E6%B3%A8%EF%BC%8C%E8%BF%99%E4%BB%B6%E4%BA%8B%E8%BF%98%E5%81%9A%E4%B8%8D%E5%81%9A%EF%BC%9F.md)
