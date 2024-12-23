@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-12-23) [对话哥飞：内容就是新时代的 SEO](data/202412/2024-12-23-%E5%AF%B9%E8%AF%9D%E5%93%A5%E9%A3%9E%EF%BC%9A%E5%86%85%E5%AE%B9%E5%B0%B1%E6%98%AF%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84-seo.md)
 - (2024-12-19) [信息差：80%的管理问题都是信息问题](data/202412/2024-12-19-%E4%BF%A1%E6%81%AF%E5%B7%AE%EF%BC%9A80%25%E7%9A%84%E7%AE%A1%E7%90%86%E9%97%AE%E9%A2%98%E9%83%BD%E6%98%AF%E4%BF%A1%E6%81%AF%E9%97%AE%E9%A2%98.md)
 - (2024-12-19) [货拉拉—实时对账系统（算盘平台）](data/202412/2024-12-19-%E8%B4%A7%E6%8B%89%E6%8B%89%E2%80%94%E5%AE%9E%E6%97%B6%E5%AF%B9%E8%B4%A6%E7%B3%BB%E7%BB%9F%EF%BC%88%E7%AE%97%E7%9B%98%E5%B9%B3%E5%8F%B0%EF%BC%89.md)
 - (2024-12-19) [从传销角度看管理：在座的各位都是垃圾！](data/202412/2024-12-19-%E4%BB%8E%E4%BC%A0%E9%94%80%E8%A7%92%E5%BA%A6%E7%9C%8B%E7%AE%A1%E7%90%86%EF%BC%9A%E5%9C%A8%E5%BA%A7%E7%9A%84%E5%90%84%E4%BD%8D%E9%83%BD%E6%98%AF%E5%9E%83%E5%9C%BE%EF%BC%81.md)
