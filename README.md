@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2024-12-24) [JVM内存Dump原理与在线分析实战](data/202412/2024-12-24-jvm%E5%86%85%E5%AD%98dump%E5%8E%9F%E7%90%86%E4%B8%8E%E5%9C%A8%E7%BA%BF%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98.md)
 - (2024-12-24) [解密JVM崩溃(Crash)：如何通过日志分析揭开神秘面纱](data/202412/2024-12-24-%E8%A7%A3%E5%AF%86jvm%E5%B4%A9%E6%BA%83%28crash%29%EF%BC%9A%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E6%8F%AD%E5%BC%80%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1.md)
 - (2024-12-23) [李继刚 | 当我们讲Prompt时我们到底在说什么？](data/202412/2024-12-23-%E6%9D%8E%E7%BB%A7%E5%88%9A-%E5%BD%93%E6%88%91%E4%BB%AC%E8%AE%B2prompt%E6%97%B6%E6%88%91%E4%BB%AC%E5%88%B0%E5%BA%95%E5%9C%A8%E8%AF%B4%E4%BB%80%E4%B9%88%EF%BC%9F.md)
 - (2024-12-23) [对话哥飞：内容就是新时代的 SEO](data/202412/2024-12-23-%E5%AF%B9%E8%AF%9D%E5%93%A5%E9%A3%9E%EF%BC%9A%E5%86%85%E5%AE%B9%E5%B0%B1%E6%98%AF%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84-seo.md)
