@@ -1607,5 +1607,12 @@
     "url": "https://www.anthropic.com/research/building-effective-agents",
     "timestamp": 1735785391,
     "tags": []
+  },
+  {
+    "month": "202501",
+    "title": "uv: An In-Depth Guide to Python's Fast and Ambitious New Package Manager",
+    "url": "https://www.saaspegasus.com/guides/uv-deep-dive/",
+    "timestamp": 1735785436,
+    "tags": []
   }
 ]
