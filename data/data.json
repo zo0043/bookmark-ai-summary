@@ -1614,5 +1614,12 @@
     "url": "https://www.saaspegasus.com/guides/uv-deep-dive/",
     "timestamp": 1735785436,
     "tags": []
+  },
+  {
+    "month": "202501",
+    "title": "How to Make LLMs Shut Up",
+    "url": "https://www.greptile.com/blog/make-llms-shut-up",
+    "timestamp": 1735785659,
+    "tags": []
   }
 ]
