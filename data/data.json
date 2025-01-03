@@ -1649,5 +1649,12 @@
     "url": "https://austinhenley.com/blog/25yearsofai.html",
     "timestamp": 1735874765,
     "tags": []
+  },
+  {
+    "month": "202501",
+    "title": "Linux Context Switching Internals: Part 1 - Process State and Memory",
+    "url": "https://blog.codingconfessions.com/p/linux-context-switching-internals",
+    "timestamp": 1735874919,
+    "tags": []
   }
 ]
