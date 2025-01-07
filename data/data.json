@@ -1688,5 +1688,12 @@
     "tags": [
       "llms"
     ]
+  },
+  {
+    "month": "202501",
+    "title": "Size Optimization Tricks",
+    "url": "https://justine.lol/sizetricks/",
+    "timestamp": 1736253359,
+    "tags": []
   }
 ]
