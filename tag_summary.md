@@ -163,6 +163,10 @@
 - (2024-11-11) [白话文讲解大模型｜ Attention is all you need](data/202411/2024-11-11-%E7%99%BD%E8%AF%9D%E6%96%87%E8%AE%B2%E8%A7%A3%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BD%9C-attention-is-all-you-need.md)
 - (2024-11-21) [iText2KG：使用LLM构建增量知识图谱（KG）](data/202411/2024-11-21-itext2kg%EF%BC%9A%E4%BD%BF%E7%94%A8llm%E6%9E%84%E5%BB%BA%E5%A2%9E%E9%87%8F%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%EF%BC%88kg%EF%BC%89.md)
 
+## llms
+
+- (2025-01-07) [How I program with LLMs](data/202501/2025-01-07-how-i-program-with-llms.md)
+
 ## markdown
 
 - (2024-10-28) [如何优雅编译一个 Markdown 文档](data/202410/2024-10-28-%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%BC%96%E8%AF%91%E4%B8%80%E4%B8%AA-markdown-%E6%96%87%E6%A1%A3.md)

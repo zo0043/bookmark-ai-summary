@@ -1679,5 +1679,14 @@
     "tags": [
       "feed"
     ]
+  },
+  {
+    "month": "202501",
+    "title": "How I program with LLMs",
+    "url": "https://crawshaw.io/blog/programming-with-llms",
+    "timestamp": 1736253309,
+    "tags": [
+      "llms"
+    ]
   }
 ]
