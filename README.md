@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2025-01-07) [发现一个小功能带来的幸福感，往往比大功能更让人惊喜](data/202501/2025-01-07-%E5%8F%91%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%8A%9F%E8%83%BD%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%B9%B8%E7%A6%8F%E6%84%9F%EF%BC%8C%E5%BE%80%E5%BE%80%E6%AF%94%E5%A4%A7%E5%8A%9F%E8%83%BD%E6%9B%B4%E8%AE%A9%E4%BA%BA%E6%83%8A%E5%96%9C.md)
 - (2025-01-03) [Refactoring English](data/202501/2025-01-03-refactoring-english.md)
 - (2025-01-03) [Linux Context Switching Internals: Part 1 - Process State and Memory](data/202501/2025-01-03-linux-context-switching-internals-part-1---process-state-and-memory.md)
 - (2025-01-03) [My 25-year adventure in AI and ML](data/202501/2025-01-03-my-25-year-adventure-in-ai-and-ml.md)
