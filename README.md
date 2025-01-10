@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2025-01-10) [高效清单工作法：聪明人的无压时间管理手册 - 幕布](data/202501/2025-01-10-%E9%AB%98%E6%95%88%E6%B8%85%E5%8D%95%E5%B7%A5%E4%BD%9C%E6%B3%95%EF%BC%9A%E8%81%AA%E6%98%8E%E4%BA%BA%E7%9A%84%E6%97%A0%E5%8E%8B%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%89%8B%E5%86%8C---%E5%B9%95%E5%B8%83.md)
 - (2025-01-10) [《思考的技术》内容精要 - 幕布](data/202501/2025-01-10-%E3%80%8A%E6%80%9D%E8%80%83%E7%9A%84%E6%8A%80%E6%9C%AF%E3%80%8B%E5%86%85%E5%AE%B9%E7%B2%BE%E8%A6%81---%E5%B9%95%E5%B8%83.md)
 - (2025-01-10) [用户思维（来源：L先生写作课） - 幕布](data/202501/2025-01-10-%E7%94%A8%E6%88%B7%E6%80%9D%E7%BB%B4%EF%BC%88%E6%9D%A5%E6%BA%90%EF%BC%9Al%E5%85%88%E7%94%9F%E5%86%99%E4%BD%9C%E8%AF%BE%EF%BC%89---%E5%B9%95%E5%B8%83.md)
 - (2025-01-10) [这个cursor技巧很香，建议收藏！ - 即刻App](data/202501/2025-01-10-%E8%BF%99%E4%B8%AAcursor%E6%8A%80%E5%B7%A7%E5%BE%88%E9%A6%99%EF%BC%8C%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F%EF%BC%81---%E5%8D%B3%E5%88%BBapp.md)
