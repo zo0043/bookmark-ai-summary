@@ -2,6 +2,7 @@
 读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
 
 ## Summarized Bookmarks
+- (2025-01-10) [这个cursor技巧很香，建议收藏！ - 即刻App](data/202501/2025-01-10-%E8%BF%99%E4%B8%AAcursor%E6%8A%80%E5%B7%A7%E5%BE%88%E9%A6%99%EF%BC%8C%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F%EF%BC%81---%E5%8D%B3%E5%88%BBapp.md)
 - (2025-01-10) [小伙伴们，听说很多人用cursor效率低？那是因为你还不会用 - 即刻App](data/202501/2025-01-10-%E5%B0%8F%E4%BC%99%E4%BC%B4%E4%BB%AC%EF%BC%8C%E5%90%AC%E8%AF%B4%E5%BE%88%E5%A4%9A%E4%BA%BA%E7%94%A8cursor%E6%95%88%E7%8E%87%E4%BD%8E%EF%BC%9F%E9%82%A3%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BD%A0%E8%BF%98%E4%B8%8D%E4%BC%9A%E7%94%A8---%E5%8D%B3%E5%88%BBapp.md)
 - (2025-01-07) [IO模型介绍（select、poll、epoll）](data/202501/2025-01-07-io%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%BB%8D%EF%BC%88select%E3%80%81poll%E3%80%81epoll%EF%BC%89.md)
 - (2025-01-07) [多线程读写锁产生死锁的故障解决方案](data/202501/2025-01-07-%E5%A4%9A%E7%BA%BF%E7%A8%8B%E8%AF%BB%E5%86%99%E9%94%81%E4%BA%A7%E7%94%9F%E6%AD%BB%E9%94%81%E7%9A%84%E6%95%85%E9%9A%9C%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
