@@ -242,6 +242,7 @@
 - (2024-12-05) [《百万美元周末》](data/202412/2024-12-05-%E3%80%8A%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E5%91%A8%E6%9C%AB%E3%80%8B.md)
 - (2024-12-05) [《金钱心理学：财富、人性和幸福的永恒真相》 ](data/202412/2024-12-05-%E3%80%8A%E9%87%91%E9%92%B1%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%9A%E8%B4%A2%E5%AF%8C%E3%80%81%E4%BA%BA%E6%80%A7%E5%92%8C%E5%B9%B8%E7%A6%8F%E7%9A%84%E6%B0%B8%E6%81%92%E7%9C%9F%E7%9B%B8%E3%80%8B.md)
 - (2024-12-05) [再读《纳瓦尔宝典》笔记](data/202412/2024-12-05-%E5%86%8D%E8%AF%BB%E3%80%8A%E7%BA%B3%E7%93%A6%E5%B0%94%E5%AE%9D%E5%85%B8%E3%80%8B%E7%AC%94%E8%AE%B0.md)
+- (2025-01-13) [Everything Must Be Paid for Twice](data/202501/2025-01-13-everything-must-be-paid-for-twice.md)
 
 ## readlist
 
@@ -331,6 +332,10 @@
 - (2024-12-19) [货拉拉—实时对账系统（算盘平台）](data/202412/2024-12-19-%E8%B4%A7%E6%8B%89%E6%8B%89%E2%80%94%E5%AE%9E%E6%97%B6%E5%AF%B9%E8%B4%A6%E7%B3%BB%E7%BB%9F%EF%BC%88%E7%AE%97%E7%9B%98%E5%B9%B3%E5%8F%B0%EF%BC%89.md)
 - (2024-12-19) [述职汇报这样做，加分儿](data/202412/2024-12-19-%E8%BF%B0%E8%81%8C%E6%B1%87%E6%8A%A5%E8%BF%99%E6%A0%B7%E5%81%9A%EF%BC%8C%E5%8A%A0%E5%88%86%E5%84%BF.md)
 - (2024-12-24) [解密JVM崩溃(Crash)：如何通过日志分析揭开神秘面纱](data/202412/2024-12-24-%E8%A7%A3%E5%AF%86jvm%E5%B4%A9%E6%BA%83%28crash%29%EF%BC%9A%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E6%8F%AD%E5%BC%80%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1.md)
+
+## weekly
+
+- (2025-01-13) [Everything Must Be Paid for Twice](data/202501/2025-01-13-everything-must-be-paid-for-twice.md)
 
 ## windsurf
 
