@@ -215,7 +215,9 @@ def build_summary_file(title: str, url: str, summary: str, one_sentence: str) ->
 def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> str:
     """生成一个摘要书签的README文件"""
     initial_prefix: str = """# Bookmark Summary 
-读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
+读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 bookmark_process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
+
+- [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
 """
