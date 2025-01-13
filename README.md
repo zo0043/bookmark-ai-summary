@@ -1,7 +1,10 @@
 # Bookmark Summary 
-读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
+读取 [bookmark-collection](https://github.com/zo0043/bookmark-collection) 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 bookmark_process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
+
+- [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-01-13) [David A. Wheeler's Review of "Debugging" by David J. Agans](data/202501/2025-01-13-david-a.-wheeler%27s-review-of-debugging-by-david-j.-agans.md)
 - (2025-01-13) [如何科学躺平](data/202501/2025-01-13-%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E8%BA%BA%E5%B9%B3.md)
 - (2025-01-13) [Everything Must Be Paid for Twice](data/202501/2025-01-13-everything-must-be-paid-for-twice.md)
 - (2025-01-10) [十年创业者，万字长文分享我是怎么招人的](data/202501/2025-01-10-%E5%8D%81%E5%B9%B4%E5%88%9B%E4%B8%9A%E8%80%85%EF%BC%8C%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E5%88%86%E4%BA%AB%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E6%8B%9B%E4%BA%BA%E7%9A%84.md)

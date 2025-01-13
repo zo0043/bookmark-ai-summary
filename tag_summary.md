@@ -335,6 +335,7 @@
 
 ## weekly
 
+- (2025-01-13) [David A. Wheeler's Review of "Debugging" by David J. Agans](data/202501/2025-01-13-david-a.-wheeler%27s-review-of-debugging-by-david-j.-agans.md)
 - (2025-01-13) [Everything Must Be Paid for Twice](data/202501/2025-01-13-everything-must-be-paid-for-twice.md)
 - (2025-01-13) [如何科学躺平](data/202501/2025-01-13-%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E8%BA%BA%E5%B9%B3.md)
 

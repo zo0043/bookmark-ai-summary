@@ -1770,5 +1770,14 @@
     "tags": [
       "weekly"
     ]
+  },
+  {
+    "month": "202501",
+    "title": "David A. Wheeler's Review of \"Debugging\" by David J. Agans",
+    "url": "https://dwheeler.com/essays/debugging-agans.html",
+    "timestamp": 1736780259,
+    "tags": [
+      "weekly"
+    ]
   }
 ]
