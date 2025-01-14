@@ -1,1 +1,2 @@
 - (2024-12-13) [English News In Levels - Daily News for ESL Learners at Every Level](data/202412/2024-12-13-english-news-in-levels---daily-news-for-esl-learners-at-every-level.md)
+- (2025-01-14) [从词性开始 | 英语语法](data/202501/2025-01-14-%E4%BB%8E%E8%AF%8D%E6%80%A7%E5%BC%80%E5%A7%8B-%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95.md)
