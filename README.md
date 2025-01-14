@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-01-14) [vol28.信息过载自救指南 - 独立开发沉思录](data/202501/2025-01-14-vol28.%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD%E8%87%AA%E6%95%91%E6%8C%87%E5%8D%97---%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E6%B2%89%E6%80%9D%E5%BD%95.md)
 - (2025-01-13) [David A. Wheeler's Review of "Debugging" by David J. Agans](data/202501/2025-01-13-david-a.-wheeler%27s-review-of-debugging-by-david-j.-agans.md)
 - (2025-01-13) [如何科学躺平](data/202501/2025-01-13-%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E8%BA%BA%E5%B9%B3.md)
 - (2025-01-13) [Everything Must Be Paid for Twice](data/202501/2025-01-13-everything-must-be-paid-for-twice.md)
