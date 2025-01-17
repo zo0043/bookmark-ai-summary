@@ -336,6 +336,10 @@
 - (2024-12-19) [述职汇报这样做，加分儿](data/202412/2024-12-19-%E8%BF%B0%E8%81%8C%E6%B1%87%E6%8A%A5%E8%BF%99%E6%A0%B7%E5%81%9A%EF%BC%8C%E5%8A%A0%E5%88%86%E5%84%BF.md)
 - (2024-12-24) [解密JVM崩溃(Crash)：如何通过日志分析揭开神秘面纱](data/202412/2024-12-24-%E8%A7%A3%E5%AF%86jvm%E5%B4%A9%E6%BA%83%28crash%29%EF%BC%9A%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E6%8F%AD%E5%BC%80%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1.md)
 
+## week
+
+- (2025-01-17) [Cognitive load is what matters](data/202501/2025-01-17-cognitive-load-is-what-matters.md)
+
 ## weekly
 
 - (2025-01-13) [David A. Wheeler's Review of "Debugging" by David J. Agans](data/202501/2025-01-13-david-a.-wheeler%27s-review-of-debugging-by-david-j.-agans.md)
@@ -346,6 +350,7 @@
 - (2025-01-14) [小伙伴们，听说很多人用cursor效率低？那是因为你还不会用 - 即刻App](data/202501/2025-01-14-%E5%B0%8F%E4%BC%99%E4%BC%B4%E4%BB%AC%EF%BC%8C%E5%90%AC%E8%AF%B4%E5%BE%88%E5%A4%9A%E4%BA%BA%E7%94%A8cursor%E6%95%88%E7%8E%87%E4%BD%8E%EF%BC%9F%E9%82%A3%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BD%A0%E8%BF%98%E4%B8%8D%E4%BC%9A%E7%94%A8---%E5%8D%B3%E5%88%BBapp.md)
 - (2025-01-15) [《安德森个人生产力指南》，硅谷大佬的效率提升方法  马克·安 - 即刻App](data/202501/2025-01-15-%E3%80%8A%E5%AE%89%E5%BE%B7%E6%A3%AE%E4%B8%AA%E4%BA%BA%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%8C%87%E5%8D%97%E3%80%8B%EF%BC%8C%E7%A1%85%E8%B0%B7%E5%A4%A7%E4%BD%AC%E7%9A%84%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95-%E9%A9%AC%E5%85%8B%C2%B7%E5%AE%89---%E5%8D%B3%E5%88%BBapp.md)
 - (2025-01-15) [如何认识某人 --- How to get to know someone](data/202501/2025-01-15-%E5%A6%82%E4%BD%95%E8%AE%A4%E8%AF%86%E6%9F%90%E4%BA%BA-----how-to-get-to-know-someone.md)
+- (2025-01-17) [Cognitive load is what matters](data/202501/2025-01-17-cognitive-load-is-what-matters.md)
 
 ## windsurf
 

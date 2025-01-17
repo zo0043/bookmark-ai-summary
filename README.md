@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-01-17) [Cognitive load is what matters](data/202501/2025-01-17-cognitive-load-is-what-matters.md)
 - (2025-01-15) [1.3 当我们聊分布式事务，我们在聊什么](data/202501/2025-01-15-1.3-%E5%BD%93%E6%88%91%E4%BB%AC%E8%81%8A%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%EF%BC%8C%E6%88%91%E4%BB%AC%E5%9C%A8%E8%81%8A%E4%BB%80%E4%B9%88.md)
 - (2025-01-15) [关于复盘](data/202501/2025-01-15-%E5%85%B3%E4%BA%8E%E5%A4%8D%E7%9B%98.md)
 - (2025-01-15) [当我们聊消息队列，我们在聊什么](data/202501/2025-01-15-%E5%BD%93%E6%88%91%E4%BB%AC%E8%81%8A%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%EF%BC%8C%E6%88%91%E4%BB%AC%E5%9C%A8%E8%81%8A%E4%BB%80%E4%B9%88.md)
