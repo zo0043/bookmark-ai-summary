@@ -350,6 +350,7 @@
 - (2025-01-14) [小伙伴们，听说很多人用cursor效率低？那是因为你还不会用 - 即刻App](data/202501/2025-01-14-%E5%B0%8F%E4%BC%99%E4%BC%B4%E4%BB%AC%EF%BC%8C%E5%90%AC%E8%AF%B4%E5%BE%88%E5%A4%9A%E4%BA%BA%E7%94%A8cursor%E6%95%88%E7%8E%87%E4%BD%8E%EF%BC%9F%E9%82%A3%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BD%A0%E8%BF%98%E4%B8%8D%E4%BC%9A%E7%94%A8---%E5%8D%B3%E5%88%BBapp.md)
 - (2025-01-15) [《安德森个人生产力指南》，硅谷大佬的效率提升方法  马克·安 - 即刻App](data/202501/2025-01-15-%E3%80%8A%E5%AE%89%E5%BE%B7%E6%A3%AE%E4%B8%AA%E4%BA%BA%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%8C%87%E5%8D%97%E3%80%8B%EF%BC%8C%E7%A1%85%E8%B0%B7%E5%A4%A7%E4%BD%AC%E7%9A%84%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95-%E9%A9%AC%E5%85%8B%C2%B7%E5%AE%89---%E5%8D%B3%E5%88%BBapp.md)
 - (2025-01-15) [如何认识某人 --- How to get to know someone](data/202501/2025-01-15-%E5%A6%82%E4%BD%95%E8%AE%A4%E8%AF%86%E6%9F%90%E4%BA%BA-----how-to-get-to-know-someone.md)
+- (2025-01-17) [Agents](data/202501/2025-01-17-agents.md)
 - (2025-01-17) [Building A Generative AI Platform](data/202501/2025-01-17-building-a-generative-ai-platform.md)
 - (2025-01-17) [Cognitive load is what matters](data/202501/2025-01-17-cognitive-load-is-what-matters.md)
 - (2025-01-17) [Measuring personal growth](data/202501/2025-01-17-measuring-personal-growth.md)

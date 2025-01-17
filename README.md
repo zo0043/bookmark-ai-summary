@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-01-17) [Agents](data/202501/2025-01-17-agents.md)
 - (2025-01-17) [Building A Generative AI Platform](data/202501/2025-01-17-building-a-generative-ai-platform.md)
 - (2025-01-17) [Measuring personal growth](data/202501/2025-01-17-measuring-personal-growth.md)
 - (2025-01-17) [Cognitive load is what matters](data/202501/2025-01-17-cognitive-load-is-what-matters.md)
