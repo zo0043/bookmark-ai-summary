@@ -12,7 +12,7 @@ from urllib.parse import quote
 
 import requests
 from waybackpy import WaybackMachineSaveAPI
-from process_tag_bookmark import deal_tags_chain,process_tag_summary
+from process_tag_bookmark import deal_tags_chain,process_tag_summary,process_weekly_articles
 
 # -- 配置 --
 BOOKMARK_COLLECTION_REPO_NAME: str = (
@@ -322,6 +322,7 @@ def process_bookmark_file():
 def main():
     process_bookmark_file()
     process_tag_summary()
+    process_weekly_articles()
 
 if __name__ == "__main__":
     main()
