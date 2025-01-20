@@ -322,7 +322,7 @@ def process_bookmark_file():
 def main():
     process_bookmark_file()
     process_tag_summary()
-    process_weekly_articles()
+    # process_weekly_articles()
 
 if __name__ == "__main__":
     main()
