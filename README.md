@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-01-20) [(76 封私信) 如何理解 Spring 当中的 Bean？ - 知乎](data/202501/2025-01-20-%2876-%E5%B0%81%E7%A7%81%E4%BF%A1%29-%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3-spring-%E5%BD%93%E4%B8%AD%E7%9A%84-bean%EF%BC%9F---%E7%9F%A5%E4%B9%8E.md)
 - (2025-01-17) [Agents](data/202501/2025-01-17-agents.md)
 - (2025-01-17) [Building A Generative AI Platform](data/202501/2025-01-17-building-a-generative-ai-platform.md)
 - (2025-01-17) [Measuring personal growth](data/202501/2025-01-17-measuring-personal-growth.md)
