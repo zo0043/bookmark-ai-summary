@@ -1945,5 +1945,14 @@
     "tags": [
       "weekly"
     ]
+  },
+  {
+    "month": "202501",
+    "title": "聊聊Druid连接池的内部原理及推荐配置",
+    "url": "https://mp.weixin.qq.com/s/PjJNLx5LQFUM8AXMl665mQ",
+    "timestamp": 1737538649,
+    "tags": [
+      "weekly"
+    ]
   }
 ]
