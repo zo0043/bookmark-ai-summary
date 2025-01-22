@@ -355,6 +355,7 @@
 - (2025-01-17) [Cognitive load is what matters](data/202501/2025-01-17-cognitive-load-is-what-matters.md)
 - (2025-01-17) [Measuring personal growth](data/202501/2025-01-17-measuring-personal-growth.md)
 - (2025-01-20) [聊一聊分布式系统中的时间 – 四火的唠叨](data/202501/2025-01-20-%E8%81%8A%E4%B8%80%E8%81%8A%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4-%E2%80%93-%E5%9B%9B%E7%81%AB%E7%9A%84%E5%94%A0%E5%8F%A8.md)
+- (2025-01-22) [简化代码模块设计：两种高效编程范式](data/202501/2025-01-22-%E7%AE%80%E5%8C%96%E4%BB%A3%E7%A0%81%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1%EF%BC%9A%E4%B8%A4%E7%A7%8D%E9%AB%98%E6%95%88%E7%BC%96%E7%A8%8B%E8%8C%83%E5%BC%8F.md)
 
 ## windsurf
 
