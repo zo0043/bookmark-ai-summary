@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-02-10) [Quant Wiki 中文量化百科](data/202502/2025-02-10-quant-wiki-%E4%B8%AD%E6%96%87%E9%87%8F%E5%8C%96%E7%99%BE%E7%A7%91.md)
 - (2025-02-10) [Beej's Guide to Git](data/202502/2025-02-10-beej%27s-guide-to-git.md)
 - (2025-02-10) [Nokia Design Archive](data/202502/2025-02-10-nokia-design-archive.md)
 - (2025-02-08) [最新互联网大厂开发职位-Awesome Jobs!](data/202502/2025-02-08-%E6%9C%80%E6%96%B0%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E5%8E%82%E5%BC%80%E5%8F%91%E8%81%8C%E4%BD%8D-awesome-jobs%21.md)
