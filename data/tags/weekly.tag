@@ -21,4 +21,5 @@
 - (2025-02-06) [R1 之后，提示词技巧的变与不变](data/202502/2025-02-06-r1-%E4%B9%8B%E5%90%8E%EF%BC%8C%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E5%B7%A7%E7%9A%84%E5%8F%98%E4%B8%8E%E4%B8%8D%E5%8F%98.md)
 - (2025-02-07) [08-Deepseek从入门到精通](data/202502/2025-02-07-08-deepseek%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.md)
 - (2025-02-07) [我们每天在用的北京时间，你不好奇它是怎么来的？](data/202502/2025-02-07-%E6%88%91%E4%BB%AC%E6%AF%8F%E5%A4%A9%E5%9C%A8%E7%94%A8%E7%9A%84%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%EF%BC%8C%E4%BD%A0%E4%B8%8D%E5%A5%BD%E5%A5%87%E5%AE%83%E6%98%AF%E6%80%8E%E4%B9%88%E6%9D%A5%E7%9A%84%EF%BC%9F.md)
+- (2025-02-10) [Beej's Guide to Git](data/202502/2025-02-10-beej%27s-guide-to-git.md)
 - (2025-02-10) [Nokia Design Archive](data/202502/2025-02-10-nokia-design-archive.md)

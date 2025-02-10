@@ -2054,5 +2054,14 @@
     "tags": [
       "weekly"
     ]
+  },
+  {
+    "month": "202502",
+    "title": "Beej's Guide to Git",
+    "url": "https://beej.us/guide/bggit/html/split/index.html",
+    "timestamp": 1739195743,
+    "tags": [
+      "weekly"
+    ]
   }
 ]

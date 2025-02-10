@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-02-10) [Beej's Guide to Git](data/202502/2025-02-10-beej%27s-guide-to-git.md)
 - (2025-02-10) [Nokia Design Archive](data/202502/2025-02-10-nokia-design-archive.md)
 - (2025-02-08) [最新互联网大厂开发职位-Awesome Jobs!](data/202502/2025-02-08-%E6%9C%80%E6%96%B0%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E5%8E%82%E5%BC%80%E5%8F%91%E8%81%8C%E4%BD%8D-awesome-jobs%21.md)
 - (2025-02-08) [[问与答] 被裁员后，我在考虑做一个 AI 面试助手，有需求吗？ - V2EX](data/202502/2025-02-08-%5B%E9%97%AE%E4%B8%8E%E7%AD%94%5D-%E8%A2%AB%E8%A3%81%E5%91%98%E5%90%8E%EF%BC%8C%E6%88%91%E5%9C%A8%E8%80%83%E8%99%91%E5%81%9A%E4%B8%80%E4%B8%AA-ai-%E9%9D%A2%E8%AF%95%E5%8A%A9%E6%89%8B%EF%BC%8C%E6%9C%89%E9%9C%80%E6%B1%82%E5%90%97%EF%BC%9F---v2ex.md)
