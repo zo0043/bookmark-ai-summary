@@ -373,6 +373,7 @@
 - (2025-02-07) [08-Deepseek从入门到精通](data/202502/2025-02-07-08-deepseek%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.md)
 - (2025-02-07) [我们每天在用的北京时间，你不好奇它是怎么来的？](data/202502/2025-02-07-%E6%88%91%E4%BB%AC%E6%AF%8F%E5%A4%A9%E5%9C%A8%E7%94%A8%E7%9A%84%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%EF%BC%8C%E4%BD%A0%E4%B8%8D%E5%A5%BD%E5%A5%87%E5%AE%83%E6%98%AF%E6%80%8E%E4%B9%88%E6%9D%A5%E7%9A%84%EF%BC%9F.md)
 - (2025-02-10) [Beej's Guide to Git](data/202502/2025-02-10-beej%27s-guide-to-git.md)
+- (2025-02-10) [Datawhale-学用AI，从此开始](data/202502/2025-02-10-datawhale-%E5%AD%A6%E7%94%A8ai%EF%BC%8C%E4%BB%8E%E6%AD%A4%E5%BC%80%E5%A7%8B.md)
 - (2025-02-10) [Nokia Design Archive](data/202502/2025-02-10-nokia-design-archive.md)
 - (2025-02-10) [Quant Wiki 中文量化百科](data/202502/2025-02-10-quant-wiki-%E4%B8%AD%E6%96%87%E9%87%8F%E5%8C%96%E7%99%BE%E7%A7%91.md)
 
