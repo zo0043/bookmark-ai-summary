@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-02-16) [potpie-ai/potpie: Prompt-To-Agent : Create custom engineering agents for your codebase](data/202502/2025-02-16-potpie-ai-potpie-prompt-to-agent-create-custom-engineering-agents-for-your-codebase.md)
 - (2025-02-14) [公众号爆文赛道:中老年人情感，一篇文章赚300块!  小白别看](data/202502/2025-02-14-%E5%85%AC%E4%BC%97%E5%8F%B7%E7%88%86%E6%96%87%E8%B5%9B%E9%81%93-%E4%B8%AD%E8%80%81%E5%B9%B4%E4%BA%BA%E6%83%85%E6%84%9F%EF%BC%8C%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E8%B5%9A300%E5%9D%97%21-%E5%B0%8F%E7%99%BD%E5%88%AB%E7%9C%8B.md)
 - (2025-02-14) [公众号流量主项目，用这个方法，一天收益6554（附详细教程）](data/202502/2025-02-14-%E5%85%AC%E4%BC%97%E5%8F%B7%E6%B5%81%E9%87%8F%E4%B8%BB%E9%A1%B9%E7%9B%AE%EF%BC%8C%E7%94%A8%E8%BF%99%E4%B8%AA%E6%96%B9%E6%B3%95%EF%BC%8C%E4%B8%80%E5%A4%A9%E6%94%B6%E7%9B%8A6554%EF%BC%88%E9%99%84%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B%EF%BC%89.md)
 - (2025-02-14) [这个方法做公众号流量主，一天收入500＋，一个月赚了1w4（附详细教程）](data/202502/2025-02-14-%E8%BF%99%E4%B8%AA%E6%96%B9%E6%B3%95%E5%81%9A%E5%85%AC%E4%BC%97%E5%8F%B7%E6%B5%81%E9%87%8F%E4%B8%BB%EF%BC%8C%E4%B8%80%E5%A4%A9%E6%94%B6%E5%85%A5500%EF%BC%8B%EF%BC%8C%E4%B8%80%E4%B8%AA%E6%9C%88%E8%B5%9A%E4%BA%861w4%EF%BC%88%E9%99%84%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B%EF%BC%89.md)
