@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-02-17) [告别生硬翻译腔：构建 AI 驱动的多轮评审润色流程](data/202502/2025-02-17-%E5%91%8A%E5%88%AB%E7%94%9F%E7%A1%AC%E7%BF%BB%E8%AF%91%E8%85%94%EF%BC%9A%E6%9E%84%E5%BB%BA-ai-%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%A4%9A%E8%BD%AE%E8%AF%84%E5%AE%A1%E6%B6%A6%E8%89%B2%E6%B5%81%E7%A8%8B.md)
 - (2025-02-16) [Spring Pass | 总有一种方式能掌握Spring源码](data/202502/2025-02-16-spring-pass-%E6%80%BB%E6%9C%89%E4%B8%80%E7%A7%8D%E6%96%B9%E5%BC%8F%E8%83%BD%E6%8E%8C%E6%8F%A1spring%E6%BA%90%E7%A0%81.md)
 - (2025-02-16) [potpie-ai/potpie: Prompt-To-Agent : Create custom engineering agents for your codebase](data/202502/2025-02-16-potpie-ai-potpie-prompt-to-agent-create-custom-engineering-agents-for-your-codebase.md)
 - (2025-02-14) [公众号爆文赛道:中老年人情感，一篇文章赚300块!  小白别看](data/202502/2025-02-14-%E5%85%AC%E4%BC%97%E5%8F%B7%E7%88%86%E6%96%87%E8%B5%9B%E9%81%93-%E4%B8%AD%E8%80%81%E5%B9%B4%E4%BA%BA%E6%83%85%E6%84%9F%EF%BC%8C%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E8%B5%9A300%E5%9D%97%21-%E5%B0%8F%E7%99%BD%E5%88%AB%E7%9C%8B.md)
