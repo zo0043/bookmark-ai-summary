@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-02-22) [Ray Dalio：谈DeepSeek、中美关系、债务周期、科技未来、财政风险、大国储备与对当今世界格局的看法](data/202502/2025-02-22-ray-dalio%EF%BC%9A%E8%B0%88deepseek%E3%80%81%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E3%80%81%E5%80%BA%E5%8A%A1%E5%91%A8%E6%9C%9F%E3%80%81%E7%A7%91%E6%8A%80%E6%9C%AA%E6%9D%A5%E3%80%81%E8%B4%A2%E6%94%BF%E9%A3%8E%E9%99%A9%E3%80%81%E5%A4%A7%E5%9B%BD%E5%82%A8%E5%A4%87%E4%B8%8E%E5%AF%B9%E5%BD%93%E4%BB%8A%E4%B8%96%E7%95%8C%E6%A0%BC%E5%B1%80%E7%9A%84%E7%9C%8B%E6%B3%95.md)
 - (2025-02-17) [告别生硬翻译腔：构建 AI 驱动的多轮评审润色流程](data/202502/2025-02-17-%E5%91%8A%E5%88%AB%E7%94%9F%E7%A1%AC%E7%BF%BB%E8%AF%91%E8%85%94%EF%BC%9A%E6%9E%84%E5%BB%BA-ai-%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%A4%9A%E8%BD%AE%E8%AF%84%E5%AE%A1%E6%B6%A6%E8%89%B2%E6%B5%81%E7%A8%8B.md)
 - (2025-02-16) [Spring Pass | 总有一种方式能掌握Spring源码](data/202502/2025-02-16-spring-pass-%E6%80%BB%E6%9C%89%E4%B8%80%E7%A7%8D%E6%96%B9%E5%BC%8F%E8%83%BD%E6%8E%8C%E6%8F%A1spring%E6%BA%90%E7%A0%81.md)
 - (2025-02-16) [potpie-ai/potpie: Prompt-To-Agent : Create custom engineering agents for your codebase](data/202502/2025-02-16-potpie-ai-potpie-prompt-to-agent-create-custom-engineering-agents-for-your-codebase.md)
