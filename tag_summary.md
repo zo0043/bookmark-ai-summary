@@ -389,6 +389,7 @@
 - (2025-02-16) [Spring Pass | 总有一种方式能掌握Spring源码](data/202502/2025-02-16-spring-pass-%E6%80%BB%E6%9C%89%E4%B8%80%E7%A7%8D%E6%96%B9%E5%BC%8F%E8%83%BD%E6%8E%8C%E6%8F%A1spring%E6%BA%90%E7%A0%81.md)
 - (2025-02-16) [potpie-ai/potpie: Prompt-To-Agent : Create custom engineering agents for your codebase](data/202502/2025-02-16-potpie-ai-potpie-prompt-to-agent-create-custom-engineering-agents-for-your-codebase.md)
 - (2025-02-17) [告别生硬翻译腔：构建 AI 驱动的多轮评审润色流程](data/202502/2025-02-17-%E5%91%8A%E5%88%AB%E7%94%9F%E7%A1%AC%E7%BF%BB%E8%AF%91%E8%85%94%EF%BC%9A%E6%9E%84%E5%BB%BA-ai-%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%A4%9A%E8%BD%AE%E8%AF%84%E5%AE%A1%E6%B6%A6%E8%89%B2%E6%B5%81%E7%A8%8B.md)
+- (2025-02-25) [如何把你的 DeePseek-R1 微调为某个领域的专家？](data/202502/2025-02-25-%E5%A6%82%E4%BD%95%E6%8A%8A%E4%BD%A0%E7%9A%84-deepseek-r1-%E5%BE%AE%E8%B0%83%E4%B8%BA%E6%9F%90%E4%B8%AA%E9%A2%86%E5%9F%9F%E7%9A%84%E4%B8%93%E5%AE%B6%EF%BC%9F.md)
 
 ## windsurf
 

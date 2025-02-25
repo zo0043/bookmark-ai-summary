@@ -2205,5 +2205,14 @@
     "url": "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/",
     "timestamp": 1740213230,
     "tags": []
+  },
+  {
+    "month": "202502",
+    "title": "如何把你的 DeePseek-R1 微调为某个领域的专家？",
+    "url": "https://juejin.cn/post/7473309339294695460",
+    "timestamp": 1740470646,
+    "tags": [
+      "weekly"
+    ]
   }
 ]
