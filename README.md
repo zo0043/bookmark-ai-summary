@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-03-10) [大模型Prompt技巧全解析](data/202503/2025-03-10-%E5%A4%A7%E6%A8%A1%E5%9E%8Bprompt%E6%8A%80%E5%B7%A7%E5%85%A8%E8%A7%A3%E6%9E%90.md)
 - (2025-02-25) [如何把你的 DeePseek-R1 微调为某个领域的专家？](data/202502/2025-02-25-%E5%A6%82%E4%BD%95%E6%8A%8A%E4%BD%A0%E7%9A%84-deepseek-r1-%E5%BE%AE%E8%B0%83%E4%B8%BA%E6%9F%90%E4%B8%AA%E9%A2%86%E5%9F%9F%E7%9A%84%E4%B8%93%E5%AE%B6%EF%BC%9F.md)
 - (2025-02-22) [My LLM codegen workflow atm](data/202502/2025-02-22-my-llm-codegen-workflow-atm.md)
 - (2025-02-22) [个人「学习笔记」跟「实操复盘」的合集](data/202502/2025-02-22-%E4%B8%AA%E4%BA%BA%E3%80%8C%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8D%E8%B7%9F%E3%80%8C%E5%AE%9E%E6%93%8D%E5%A4%8D%E7%9B%98%E3%80%8D%E7%9A%84%E5%90%88%E9%9B%86.md)
