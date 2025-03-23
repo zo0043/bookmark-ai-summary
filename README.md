@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-03-23) [How I've run major projects](data/202503/2025-03-23-how-i%27ve-run-major-projects.md)
 - (2025-03-23) [12 Daily Habits That Will Help You Simplify Your Life](data/202503/2025-03-23-12-daily-habits-that-will-help-you-simplify-your-life.md)
 - (2025-03-20) [免费代找学习资料啊 - 资源荟萃 - LINUX DO](data/202503/2025-03-20-%E5%85%8D%E8%B4%B9%E4%BB%A3%E6%89%BE%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E5%95%8A---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83---linux-do.md)
 - (2025-03-20) [马士兵-AI大模型全链路实战（无密） - 资源荟萃 - LINUX DO](data/202503/2025-03-20-%E9%A9%AC%E5%A3%AB%E5%85%B5-ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%85%A8%E9%93%BE%E8%B7%AF%E5%AE%9E%E6%88%98%EF%BC%88%E6%97%A0%E5%AF%86%EF%BC%89---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83---linux-do.md)
