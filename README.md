@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-03-23) [AI免费接口 - 多模型免密钥 - by 思先生 - 动作信息 - Quicker](data/202503/2025-03-23-ai%E5%85%8D%E8%B4%B9%E6%8E%A5%E5%8F%A3---%E5%A4%9A%E6%A8%A1%E5%9E%8B%E5%85%8D%E5%AF%86%E9%92%A5---by-%E6%80%9D%E5%85%88%E7%94%9F---%E5%8A%A8%E4%BD%9C%E4%BF%A1%E6%81%AF---quicker.md)
 - (2025-03-23) [用deepseek直接生成图片的方法，一看就会（附提示词指令）](data/202503/2025-03-23-%E7%94%A8deepseek%E7%9B%B4%E6%8E%A5%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%8C%E4%B8%80%E7%9C%8B%E5%B0%B1%E4%BC%9A%EF%BC%88%E9%99%84%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8C%87%E4%BB%A4%EF%BC%89.md)
 - (2025-03-23) [How I've run major projects](data/202503/2025-03-23-how-i%27ve-run-major-projects.md)
 - (2025-03-23) [12 Daily Habits That Will Help You Simplify Your Life](data/202503/2025-03-23-12-daily-habits-that-will-help-you-simplify-your-life.md)
