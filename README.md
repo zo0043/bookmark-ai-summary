@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-03-23) [用deepseek直接生成图片的方法，一看就会（附提示词指令）](data/202503/2025-03-23-%E7%94%A8deepseek%E7%9B%B4%E6%8E%A5%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%8C%E4%B8%80%E7%9C%8B%E5%B0%B1%E4%BC%9A%EF%BC%88%E9%99%84%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8C%87%E4%BB%A4%EF%BC%89.md)
 - (2025-03-23) [How I've run major projects](data/202503/2025-03-23-how-i%27ve-run-major-projects.md)
 - (2025-03-23) [12 Daily Habits That Will Help You Simplify Your Life](data/202503/2025-03-23-12-daily-habits-that-will-help-you-simplify-your-life.md)
 - (2025-03-20) [免费代找学习资料啊 - 资源荟萃 - LINUX DO](data/202503/2025-03-20-%E5%85%8D%E8%B4%B9%E4%BB%A3%E6%89%BE%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E5%95%8A---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83---linux-do.md)
