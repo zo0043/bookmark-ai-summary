@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-03-24) [26.偷偷赚美元？微信公众号改写+ Medium创收玩法曝光！ - 翔宇工作流](data/202503/2025-03-24-26.%E5%81%B7%E5%81%B7%E8%B5%9A%E7%BE%8E%E5%85%83%EF%BC%9F%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E6%94%B9%E5%86%99%2B-medium%E5%88%9B%E6%94%B6%E7%8E%A9%E6%B3%95%E6%9B%9D%E5%85%89%EF%BC%81---%E7%BF%94%E5%AE%87%E5%B7%A5%E4%BD%9C%E6%B5%81.md)
 - (2025-03-23) [提示词工程：Python AI智能开发团队3.0 - 开发调优 - LINUX DO](data/202503/2025-03-23-%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%EF%BC%9Apython-ai%E6%99%BA%E8%83%BD%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9F3.0---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-03-23) [海子的经典语录 - 句子控](data/202503/2025-03-23-%E6%B5%B7%E5%AD%90%E7%9A%84%E7%BB%8F%E5%85%B8%E8%AF%AD%E5%BD%95---%E5%8F%A5%E5%AD%90%E6%8E%A7.md)
 - (2025-03-23) [AI免费接口 - 多模型免密钥 - by 思先生 - 动作信息 - Quicker](data/202503/2025-03-23-ai%E5%85%8D%E8%B4%B9%E6%8E%A5%E5%8F%A3---%E5%A4%9A%E6%A8%A1%E5%9E%8B%E5%85%8D%E5%AF%86%E9%92%A5---by-%E6%80%9D%E5%85%88%E7%94%9F---%E5%8A%A8%E4%BD%9C%E4%BF%A1%E6%81%AF---quicker.md)
