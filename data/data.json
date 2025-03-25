@@ -2382,5 +2382,12 @@
     "url": "https://www.woshipm.com/ai/6190355.html",
     "timestamp": 1742872465,
     "tags": []
+  },
+  {
+    "month": "202503",
+    "title": "Spring---循环依赖探讨在 Spring 中，若创建 Bean 发生解决循环依赖会通过三级缓存解决。 其实，在 S - 掘金",
+    "url": "https://juejin.cn/post/7483329722496581658",
+    "timestamp": 1742874875,
+    "tags": []
   }
 ]
