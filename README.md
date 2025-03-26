@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-03-26) [Aider 平替 Cursor Composer 简明教程 - 文档共建 - LINUX DO](data/202503/2025-03-26-aider-%E5%B9%B3%E6%9B%BF-cursor-composer-%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B---%E6%96%87%E6%A1%A3%E5%85%B1%E5%BB%BA---linux-do.md)
 - (2025-03-26) [如何创造知识](data/202503/2025-03-26-%E5%A6%82%E4%BD%95%E5%88%9B%E9%80%A0%E7%9F%A5%E8%AF%86.md)
 - (2025-03-26) [用第一性原理从零推导前端知识体系](data/202503/2025-03-26-%E7%94%A8%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86%E4%BB%8E%E9%9B%B6%E6%8E%A8%E5%AF%BC%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB.md)
 - (2025-03-26) [【开源自荐】 StreamCap：支持40+平台的开源直播录制工具 · Issue #6393 · ruanyf/weekly](data/202503/2025-03-26-%E3%80%90%E5%BC%80%E6%BA%90%E8%87%AA%E8%8D%90%E3%80%91-streamcap%EF%BC%9A%E6%94%AF%E6%8C%8140%2B%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%BC%80%E6%BA%90%E7%9B%B4%E6%92%AD%E5%BD%95%E5%88%B6%E5%B7%A5%E5%85%B7-%C2%B7-issue-%236393-%C2%B7-ruanyf-weekly.md)
