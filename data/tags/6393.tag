@@ -1,0 +1,1 @@
+- (2025-03-26) [【开源自荐】 StreamCap：支持40+平台的开源直播录制工具 · Issue #6393 · ruanyf/weekly](data/202503/2025-03-26-%E3%80%90%E5%BC%80%E6%BA%90%E8%87%AA%E8%8D%90%E3%80%91-streamcap%EF%BC%9A%E6%94%AF%E6%8C%8140%2B%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%BC%80%E6%BA%90%E7%9B%B4%E6%92%AD%E5%BD%95%E5%88%B6%E5%B7%A5%E5%85%B7-%C2%B7-issue-%236393-%C2%B7-ruanyf-weekly.md)
