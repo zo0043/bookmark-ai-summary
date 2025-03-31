@@ -2507,5 +2507,12 @@
     "url": "https://juejin.cn/post/7487118309344837683",
     "timestamp": 1743387985,
     "tags": []
+  },
+  {
+    "month": "202503",
+    "title": "Building a search engine from scratch, in Rust: introduction",
+    "url": "/posts/202503161800-search-engine-intro/",
+    "timestamp": 1743406633,
+    "tags": []
   }
 ]
