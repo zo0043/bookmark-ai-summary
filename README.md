@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-04-01) [用DeepSeek3分钟搞定专业海报，AI时代的设计新玩法](data/202504/2025-04-01-%E7%94%A8deepseek3%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A%E4%B8%93%E4%B8%9A%E6%B5%B7%E6%8A%A5%EF%BC%8Cai%E6%97%B6%E4%BB%A3%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%96%B0%E7%8E%A9%E6%B3%95.md)
 - (2025-04-01) [Claude 神级提示词](data/202504/2025-04-01-claude-%E7%A5%9E%E7%BA%A7%E6%8F%90%E7%A4%BA%E8%AF%8D.md)
 - (2025-03-31) [Building a search engine from scratch, in Rust: introduction](data/202503/2025-03-31-building-a-search-engine-from-scratch%2C-in-rust-introduction.md)
 - (2025-03-31) [cursor 额度用完了？试试这个脚本，无限注册，手把手教程最近使用 cursor比较频繁，所以免费的 50 次很快就用 - 掘金](data/202503/2025-03-31-cursor-%E9%A2%9D%E5%BA%A6%E7%94%A8%E5%AE%8C%E4%BA%86%EF%BC%9F%E8%AF%95%E8%AF%95%E8%BF%99%E4%B8%AA%E8%84%9A%E6%9C%AC%EF%BC%8C%E6%97%A0%E9%99%90%E6%B3%A8%E5%86%8C%EF%BC%8C%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E7%A8%8B%E6%9C%80%E8%BF%91%E4%BD%BF%E7%94%A8-cursor%E6%AF%94%E8%BE%83%E9%A2%91%E7%B9%81%EF%BC%8C%E6%89%80%E4%BB%A5%E5%85%8D%E8%B4%B9%E7%9A%84-50-%E6%AC%A1%E5%BE%88%E5%BF%AB%E5%B0%B1%E7%94%A8---%E6%8E%98%E9%87%91.md)
