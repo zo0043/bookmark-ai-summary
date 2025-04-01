@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-04-01) [今日头条和公众号流量池：47万阅读量背后，如何用数据驱动内容 - 即刻App](data/202504/2025-04-01-%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1%E5%92%8C%E5%85%AC%E4%BC%97%E5%8F%B7%E6%B5%81%E9%87%8F%E6%B1%A0%EF%BC%9A47%E4%B8%87%E9%98%85%E8%AF%BB%E9%87%8F%E8%83%8C%E5%90%8E%EF%BC%8C%E5%A6%82%E4%BD%95%E7%94%A8%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8%E5%86%85%E5%AE%B9---%E5%8D%B3%E5%88%BBapp.md)
 - (2025-04-01) [用DeepSeek3分钟搞定专业海报，AI时代的设计新玩法](data/202504/2025-04-01-%E7%94%A8deepseek3%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A%E4%B8%93%E4%B8%9A%E6%B5%B7%E6%8A%A5%EF%BC%8Cai%E6%97%B6%E4%BB%A3%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%96%B0%E7%8E%A9%E6%B3%95.md)
 - (2025-04-01) [Claude 神级提示词](data/202504/2025-04-01-claude-%E7%A5%9E%E7%BA%A7%E6%8F%90%E7%A4%BA%E8%AF%8D.md)
 - (2025-03-31) [Building a search engine from scratch, in Rust: introduction](data/202503/2025-03-31-building-a-search-engine-from-scratch%2C-in-rust-introduction.md)
