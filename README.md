@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-04-01) [Claude 神级提示词](data/202504/2025-04-01-claude-%E7%A5%9E%E7%BA%A7%E6%8F%90%E7%A4%BA%E8%AF%8D.md)
 - (2025-03-31) [Building a search engine from scratch, in Rust: introduction](data/202503/2025-03-31-building-a-search-engine-from-scratch%2C-in-rust-introduction.md)
 - (2025-03-31) [cursor 额度用完了？试试这个脚本，无限注册，手把手教程最近使用 cursor比较频繁，所以免费的 50 次很快就用 - 掘金](data/202503/2025-03-31-cursor-%E9%A2%9D%E5%BA%A6%E7%94%A8%E5%AE%8C%E4%BA%86%EF%BC%9F%E8%AF%95%E8%AF%95%E8%BF%99%E4%B8%AA%E8%84%9A%E6%9C%AC%EF%BC%8C%E6%97%A0%E9%99%90%E6%B3%A8%E5%86%8C%EF%BC%8C%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E7%A8%8B%E6%9C%80%E8%BF%91%E4%BD%BF%E7%94%A8-cursor%E6%AF%94%E8%BE%83%E9%A2%91%E7%B9%81%EF%BC%8C%E6%89%80%E4%BB%A5%E5%85%8D%E8%B4%B9%E7%9A%84-50-%E6%AC%A1%E5%BE%88%E5%BF%AB%E5%B0%B1%E7%94%A8---%E6%8E%98%E9%87%91.md)
 - (2025-03-29) [【教程】一个Prompt让你实现大字封面自由，无论公众号、小红书还是Youtube](data/202503/2025-03-29-%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E4%B8%80%E4%B8%AAprompt%E8%AE%A9%E4%BD%A0%E5%AE%9E%E7%8E%B0%E5%A4%A7%E5%AD%97%E5%B0%81%E9%9D%A2%E8%87%AA%E7%94%B1%EF%BC%8C%E6%97%A0%E8%AE%BA%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%81%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%BF%98%E6%98%AFyoutube.md)
