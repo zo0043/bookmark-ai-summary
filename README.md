@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-04-18) [快速上手：实现你的第一个 MCP Client](data/202504/2025-04-18-%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%EF%BC%9A%E5%AE%9E%E7%8E%B0%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA-mcp-client.md)
 - (2025-04-18) [Python 从0到1构建MCP Server & Client_python mcp-CSDN博客](data/202504/2025-04-18-python-%E4%BB%8E0%E5%88%B01%E6%9E%84%E5%BB%BAmcp-server-%26-client_python-mcp-csdn%E5%8D%9A%E5%AE%A2.md)
 - (2025-04-15) [货拉拉-营销平台流程画布建设](data/202504/2025-04-15-%E8%B4%A7%E6%8B%89%E6%8B%89-%E8%90%A5%E9%94%80%E5%B9%B3%E5%8F%B0%E6%B5%81%E7%A8%8B%E7%94%BB%E5%B8%83%E5%BB%BA%E8%AE%BE.md)
 - (2025-04-15) [大模型推理框架RTP-LLM P-D分离之道：从思考到实战](data/202504/2025-04-15-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6rtp-llm-p-d%E5%88%86%E7%A6%BB%E4%B9%8B%E9%81%93%EF%BC%9A%E4%BB%8E%E6%80%9D%E8%80%83%E5%88%B0%E5%AE%9E%E6%88%98.md)
