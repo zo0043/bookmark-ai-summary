@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-04-20) [深度理解：提示词工程](data/202504/2025-04-20-%E6%B7%B1%E5%BA%A6%E7%90%86%E8%A7%A3%EF%BC%9A%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B.md)
 - (2025-04-20) [视频号AI数字人口播带货训练营：第一天笔记 – 叶赛文](data/202504/2025-04-20-%E8%A7%86%E9%A2%91%E5%8F%B7ai%E6%95%B0%E5%AD%97%E4%BA%BA%E5%8F%A3%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%AE%AD%E7%BB%83%E8%90%A5%EF%BC%9A%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%AC%94%E8%AE%B0-%E2%80%93-%E5%8F%B6%E8%B5%9B%E6%96%87.md)
 - (2025-04-18) [快速上手：实现你的第一个 MCP Client](data/202504/2025-04-18-%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%EF%BC%9A%E5%AE%9E%E7%8E%B0%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA-mcp-client.md)
 - (2025-04-18) [Python 从0到1构建MCP Server & Client_python mcp-CSDN博客](data/202504/2025-04-18-python-%E4%BB%8E0%E5%88%B01%E6%9E%84%E5%BB%BAmcp-server-%26-client_python-mcp-csdn%E5%8D%9A%E5%AE%A2.md)
