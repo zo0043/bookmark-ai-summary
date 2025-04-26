@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-04-26) [Avoiding Skill Atrophy in the Age of AI](data/202504/2025-04-26-avoiding-skill-atrophy-in-the-age-of-ai.md)
 - (2025-04-23) [“今夜，我比暴雨更滂沱”](data/202504/2025-04-23-%E2%80%9C%E4%BB%8A%E5%A4%9C%EF%BC%8C%E6%88%91%E6%AF%94%E6%9A%B4%E9%9B%A8%E6%9B%B4%E6%BB%82%E6%B2%B1%E2%80%9D.md)
 - (2025-04-23) [MCP 实践：基于 MCP 架构实现知识库答疑系统](data/202504/2025-04-23-mcp-%E5%AE%9E%E8%B7%B5%EF%BC%9A%E5%9F%BA%E4%BA%8E-mcp-%E6%9E%B6%E6%9E%84%E5%AE%9E%E7%8E%B0%E7%9F%A5%E8%AF%86%E5%BA%93%E7%AD%94%E7%96%91%E7%B3%BB%E7%BB%9F.md)
 - (2025-04-22) [你一定要知道的文学分析写作技巧！](data/202504/2025-04-22-%E4%BD%A0%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E6%96%87%E5%AD%A6%E5%88%86%E6%9E%90%E5%86%99%E4%BD%9C%E6%8A%80%E5%B7%A7%EF%BC%81.md)
