@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-05-06) [Writing Cursor Rules with a Cursor Rule](data/202505/2025-05-06-writing-cursor-rules-with-a-cursor-rule.md)
 - (2025-05-06) [模型上下文协议 （MCP） 快速入门 --- Quick Primer on Model Context Protocol (MCP)](data/202505/2025-05-06-%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8D%8F%E8%AE%AE-%EF%BC%88mcp%EF%BC%89-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8-----quick-primer-on-model-context-protocol-%28mcp%29.md)
 - (2025-04-26) [Avoiding Skill Atrophy in the Age of AI](data/202504/2025-04-26-avoiding-skill-atrophy-in-the-age-of-ai.md)
 - (2025-04-23) [“今夜，我比暴雨更滂沱”](data/202504/2025-04-23-%E2%80%9C%E4%BB%8A%E5%A4%9C%EF%BC%8C%E6%88%91%E6%AF%94%E6%9A%B4%E9%9B%A8%E6%9B%B4%E6%BB%82%E6%B2%B1%E2%80%9D.md)
