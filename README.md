@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-05-06) [模型上下文协议 （MCP） 快速入门 --- Quick Primer on Model Context Protocol (MCP)](data/202505/2025-05-06-%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8D%8F%E8%AE%AE-%EF%BC%88mcp%EF%BC%89-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8-----quick-primer-on-model-context-protocol-%28mcp%29.md)
 - (2025-04-26) [Avoiding Skill Atrophy in the Age of AI](data/202504/2025-04-26-avoiding-skill-atrophy-in-the-age-of-ai.md)
 - (2025-04-23) [“今夜，我比暴雨更滂沱”](data/202504/2025-04-23-%E2%80%9C%E4%BB%8A%E5%A4%9C%EF%BC%8C%E6%88%91%E6%AF%94%E6%9A%B4%E9%9B%A8%E6%9B%B4%E6%BB%82%E6%B2%B1%E2%80%9D.md)
 - (2025-04-23) [MCP 实践：基于 MCP 架构实现知识库答疑系统](data/202504/2025-04-23-mcp-%E5%AE%9E%E8%B7%B5%EF%BC%9A%E5%9F%BA%E4%BA%8E-mcp-%E6%9E%B6%E6%9E%84%E5%AE%9E%E7%8E%B0%E7%9F%A5%E8%AF%86%E5%BA%93%E7%AD%94%E7%96%91%E7%B3%BB%E7%BB%9F.md)
