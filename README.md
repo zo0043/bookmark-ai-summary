@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-05-06) [如何把新闻热点改编成短篇小说？三步打造爆款故事](data/202505/2025-05-06-%E5%A6%82%E4%BD%95%E6%8A%8A%E6%96%B0%E9%97%BB%E7%83%AD%E7%82%B9%E6%94%B9%E7%BC%96%E6%88%90%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4%EF%BC%9F%E4%B8%89%E6%AD%A5%E6%89%93%E9%80%A0%E7%88%86%E6%AC%BE%E6%95%85%E4%BA%8B.md)
 - (2025-05-06) [😮😮😮 我写出了被 Threejs 官推转发的项目🚀✨？！叫你如何构建一个属于自己的 3D 个人简历，这篇文章会 - 掘金](data/202505/2025-05-06-%F0%9F%98%AE%F0%9F%98%AE%F0%9F%98%AE-%E6%88%91%E5%86%99%E5%87%BA%E4%BA%86%E8%A2%AB-threejs-%E5%AE%98%E6%8E%A8%E8%BD%AC%E5%8F%91%E7%9A%84%E9%A1%B9%E7%9B%AE%F0%9F%9A%80%E2%9C%A8%EF%BC%9F%EF%BC%81%E5%8F%AB%E4%BD%A0%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84-3d-%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86%EF%BC%8C%E8%BF%99%E7%AF%87%E6%96%87%E7%AB%A0%E4%BC%9A---%E6%8E%98%E9%87%91.md)
 - (2025-05-06) [Writing Cursor Rules with a Cursor Rule](data/202505/2025-05-06-writing-cursor-rules-with-a-cursor-rule.md)
 - (2025-05-06) [模型上下文协议 （MCP） 快速入门 --- Quick Primer on Model Context Protocol (MCP)](data/202505/2025-05-06-%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8D%8F%E8%AE%AE-%EF%BC%88mcp%EF%BC%89-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8-----quick-primer-on-model-context-protocol-%28mcp%29.md)
