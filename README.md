@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-06-08) [EC Elliot on X: "总结下载视频的方式 - 总有一个适合你 - 亲测可用](data/202506/2025-06-08-ec-elliot-on-x-%E6%80%BB%E7%BB%93%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E5%BC%8F---%E6%80%BB%E6%9C%89%E4%B8%80%E4%B8%AA%E9%80%82%E5%90%88%E4%BD%A0---%E4%BA%B2%E6%B5%8B%E5%8F%AF%E7%94%A8.md)
 - (2025-05-19) [回顾《Scaling Memcache at Facebook》论文 - luozhiyun`s Blog](data/202505/2025-05-19-%E5%9B%9E%E9%A1%BE%E3%80%8Ascaling-memcache-at-facebook%E3%80%8B%E8%AE%BA%E6%96%87---luozhiyun%60s-blog.md)
 - (2025-05-11) [公众号阅读量从5到2万+，我用的方法很简单！全在这里了！](data/202505/2025-05-11-%E5%85%AC%E4%BC%97%E5%8F%B7%E9%98%85%E8%AF%BB%E9%87%8F%E4%BB%8E5%E5%88%B02%E4%B8%87%2B%EF%BC%8C%E6%88%91%E7%94%A8%E7%9A%84%E6%96%B9%E6%B3%95%E5%BE%88%E7%AE%80%E5%8D%95%EF%BC%81%E5%85%A8%E5%9C%A8%E8%BF%99%E9%87%8C%E4%BA%86%EF%BC%81.md)
 - (2025-05-08) [太爆了！用AI做拟人化访谈书单号，15条作品涨粉13W，全平台爆火，免费教程快来抄！](data/202505/2025-05-08-%E5%A4%AA%E7%88%86%E4%BA%86%EF%BC%81%E7%94%A8ai%E5%81%9A%E6%8B%9F%E4%BA%BA%E5%8C%96%E8%AE%BF%E8%B0%88%E4%B9%A6%E5%8D%95%E5%8F%B7%EF%BC%8C15%E6%9D%A1%E4%BD%9C%E5%93%81%E6%B6%A8%E7%B2%8913w%EF%BC%8C%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%88%86%E7%81%AB%EF%BC%8C%E5%85%8D%E8%B4%B9%E6%95%99%E7%A8%8B%E5%BF%AB%E6%9D%A5%E6%8A%84%EF%BC%81.md)
