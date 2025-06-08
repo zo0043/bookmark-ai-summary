@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-06-08) [六度空间诞生记：关于递推式AI游戏的思考与实践](data/202506/2025-06-08-%E5%85%AD%E5%BA%A6%E7%A9%BA%E9%97%B4%E8%AF%9E%E7%94%9F%E8%AE%B0%EF%BC%9A%E5%85%B3%E4%BA%8E%E9%80%92%E6%8E%A8%E5%BC%8Fai%E6%B8%B8%E6%88%8F%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)
 - (2025-06-08) [EC Elliot on X: "总结下载视频的方式 - 总有一个适合你 - 亲测可用](data/202506/2025-06-08-ec-elliot-on-x-%E6%80%BB%E7%BB%93%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E5%BC%8F---%E6%80%BB%E6%9C%89%E4%B8%80%E4%B8%AA%E9%80%82%E5%90%88%E4%BD%A0---%E4%BA%B2%E6%B5%8B%E5%8F%AF%E7%94%A8.md)
 - (2025-05-19) [回顾《Scaling Memcache at Facebook》论文 - luozhiyun`s Blog](data/202505/2025-05-19-%E5%9B%9E%E9%A1%BE%E3%80%8Ascaling-memcache-at-facebook%E3%80%8B%E8%AE%BA%E6%96%87---luozhiyun%60s-blog.md)
 - (2025-05-11) [公众号阅读量从5到2万+，我用的方法很简单！全在这里了！](data/202505/2025-05-11-%E5%85%AC%E4%BC%97%E5%8F%B7%E9%98%85%E8%AF%BB%E9%87%8F%E4%BB%8E5%E5%88%B02%E4%B8%87%2B%EF%BC%8C%E6%88%91%E7%94%A8%E7%9A%84%E6%96%B9%E6%B3%95%E5%BE%88%E7%AE%80%E5%8D%95%EF%BC%81%E5%85%A8%E5%9C%A8%E8%BF%99%E9%87%8C%E4%BA%86%EF%BC%81.md)
