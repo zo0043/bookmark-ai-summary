@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-06-09) [基于 Spring AI 的 MCP 客户端/服务端架构指南](data/202506/2025-06-09-%E5%9F%BA%E4%BA%8E-spring-ai-%E7%9A%84-mcp-%E5%AE%A2%E6%88%B7%E7%AB%AF-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%9E%B6%E6%9E%84%E6%8C%87%E5%8D%97.md)
 - (2025-06-09) [分享一下 Augment 无限邮箱、插件重置和 MCP 增强 - 开发调优 - LINUX DO](data/202506/2025-06-09-%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%8B-augment-%E6%97%A0%E9%99%90%E9%82%AE%E7%AE%B1%E3%80%81%E6%8F%92%E4%BB%B6%E9%87%8D%E7%BD%AE%E5%92%8C-mcp-%E5%A2%9E%E5%BC%BA---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-06-09) [The Prompt Engineering Playbook for Programmers](data/202506/2025-06-09-the-prompt-engineering-playbook-for-programmers.md)
 - (2025-06-08) [一人千面，永不降智！手把手教你如何通过Mihomo强大的覆写功能，灵活配置代理与链式代理，制订相应的分流规则，解决GPT降智，无限试用Cursor - 开发调优 - LINUX DO](data/202506/2025-06-08-%E4%B8%80%E4%BA%BA%E5%8D%83%E9%9D%A2%EF%BC%8C%E6%B0%B8%E4%B8%8D%E9%99%8D%E6%99%BA%EF%BC%81%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87mihomo%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%A6%86%E5%86%99%E5%8A%9F%E8%83%BD%EF%BC%8C%E7%81%B5%E6%B4%BB%E9%85%8D%E7%BD%AE%E4%BB%A3%E7%90%86%E4%B8%8E%E9%93%BE%E5%BC%8F%E4%BB%A3%E7%90%86%EF%BC%8C%E5%88%B6%E8%AE%A2%E7%9B%B8%E5%BA%94%E7%9A%84%E5%88%86%E6%B5%81%E8%A7%84%E5%88%99%EF%BC%8C%E8%A7%A3%E5%86%B3gpt%E9%99%8D%E6%99%BA%EF%BC%8C%E6%97%A0%E9%99%90%E8%AF%95%E7%94%A8cursor---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
