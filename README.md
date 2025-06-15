@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-06-15) [抖音无水印下载服务，支持deno,cf worker部署 - 资源荟萃 - LINUX DO](data/202506/2025-06-15-%E6%8A%96%E9%9F%B3%E6%97%A0%E6%B0%B4%E5%8D%B0%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1%EF%BC%8C%E6%94%AF%E6%8C%81deno%2Ccf-worker%E9%83%A8%E7%BD%B2---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83---linux-do.md)
 - (2025-06-15) [提升思考能力的MCP：Code Reasoning MCP Server ，sequential think的加强版 - 开发调优 / 开发调优, Lv1 - LINUX DO](data/202506/2025-06-15-%E6%8F%90%E5%8D%87%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%E7%9A%84mcp%EF%BC%9Acode-reasoning-mcp-server-%EF%BC%8Csequential-think%E7%9A%84%E5%8A%A0%E5%BC%BA%E7%89%88---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98-%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98%2C-lv1---linux-do.md)
 - (2025-06-12) [贡献一份 Cursor 粗暴高效的 Rules！ - 搞七捻三 - LINUX DO](data/202506/2025-06-12-%E8%B4%A1%E7%8C%AE%E4%B8%80%E4%BB%BD-cursor-%E7%B2%97%E6%9A%B4%E9%AB%98%E6%95%88%E7%9A%84-rules%EF%BC%81---%E6%90%9E%E4%B8%83%E6%8D%BB%E4%B8%89---linux-do.md)
 - (2025-06-12) [觉得 MCP 太消耗 token？ 不妨试试这款插件，让你使用网页版本大模型也可以使用 MCP！ - 资源荟萃 - LINUX DO](data/202506/2025-06-12-%E8%A7%89%E5%BE%97-mcp-%E5%A4%AA%E6%B6%88%E8%80%97-token%EF%BC%9F-%E4%B8%8D%E5%A6%A8%E8%AF%95%E8%AF%95%E8%BF%99%E6%AC%BE%E6%8F%92%E4%BB%B6%EF%BC%8C%E8%AE%A9%E4%BD%A0%E4%BD%BF%E7%94%A8%E7%BD%91%E9%A1%B5%E7%89%88%E6%9C%AC%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8-mcp%EF%BC%81---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83---linux-do.md)
