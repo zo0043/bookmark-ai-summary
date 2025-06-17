@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-06-17) [n8n+rsshub=监控“anything” - 开发调优 - LINUX DO](data/202506/2025-06-17-n8n%2Brsshub%3D%E7%9B%91%E6%8E%A7%E2%80%9Canything%E2%80%9D---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-06-16) [2025 5月更新｜《AI智能体Coze实战课》全套课程+最新更新包｜Agent+自动化+商业闭环打造 - 资源荟萃 - LINUX DO](data/202506/2025-06-16-2025-5%E6%9C%88%E6%9B%B4%E6%96%B0%EF%BD%9C%E3%80%8Aai%E6%99%BA%E8%83%BD%E4%BD%93coze%E5%AE%9E%E6%88%98%E8%AF%BE%E3%80%8B%E5%85%A8%E5%A5%97%E8%AF%BE%E7%A8%8B%2B%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0%E5%8C%85%EF%BD%9Cagent%2B%E8%87%AA%E5%8A%A8%E5%8C%96%2B%E5%95%86%E4%B8%9A%E9%97%AD%E7%8E%AF%E6%89%93%E9%80%A0---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83---linux-do.md)
 - (2025-06-15) [抖音无水印下载服务，支持deno,cf worker部署 - 资源荟萃 - LINUX DO](data/202506/2025-06-15-%E6%8A%96%E9%9F%B3%E6%97%A0%E6%B0%B4%E5%8D%B0%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1%EF%BC%8C%E6%94%AF%E6%8C%81deno%2Ccf-worker%E9%83%A8%E7%BD%B2---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83---linux-do.md)
 - (2025-06-15) [提升思考能力的MCP：Code Reasoning MCP Server ，sequential think的加强版 - 开发调优 / 开发调优, Lv1 - LINUX DO](data/202506/2025-06-15-%E6%8F%90%E5%8D%87%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%E7%9A%84mcp%EF%BC%9Acode-reasoning-mcp-server-%EF%BC%8Csequential-think%E7%9A%84%E5%8A%A0%E5%BC%BA%E7%89%88---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98-%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98%2C-lv1---linux-do.md)
