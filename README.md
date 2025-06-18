@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-06-18) [MiniMaxAI/MiniMax-M1-80k $12249.00 - 福利羊毛 - LINUX DO](data/202506/2025-06-18-minimaxai-minimax-m1-80k-%2412249.00---%E7%A6%8F%E5%88%A9%E7%BE%8A%E6%AF%9B---linux-do.md)
 - (2025-06-18) [从零玩转系列之 MCP Server 理论+项目实战开发你的MCP Server 爆肝五万字，喜欢的佬友点个小小的赞~ - 开发调优 - LINUX DO](data/202506/2025-06-18-%E4%BB%8E%E9%9B%B6%E7%8E%A9%E8%BD%AC%E7%B3%BB%E5%88%97%E4%B9%8B-mcp-server-%E7%90%86%E8%AE%BA%2B%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E5%BC%80%E5%8F%91%E4%BD%A0%E7%9A%84mcp-server-%E7%88%86%E8%82%9D%E4%BA%94%E4%B8%87%E5%AD%97%EF%BC%8C%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BD%AC%E5%8F%8B%E7%82%B9%E4%B8%AA%E5%B0%8F%E5%B0%8F%E7%9A%84%E8%B5%9E~---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-06-18) [什么我要优化 Interactive Feedback MCP 以及为什么你可能适合使用 - 开发调优 - LINUX DO](data/202506/2025-06-18-%E4%BB%80%E4%B9%88%E6%88%91%E8%A6%81%E4%BC%98%E5%8C%96-interactive-feedback-mcp-%E4%BB%A5%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%8F%AF%E8%83%BD%E9%80%82%E5%90%88%E4%BD%BF%E7%94%A8---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-06-18) [分享几十个自己收藏临时匿名邮箱网站 - 搞七捻三 / 搞七捻三, Lv1 - LINUX DO](data/202506/2025-06-18-%E5%88%86%E4%BA%AB%E5%87%A0%E5%8D%81%E4%B8%AA%E8%87%AA%E5%B7%B1%E6%94%B6%E8%97%8F%E4%B8%B4%E6%97%B6%E5%8C%BF%E5%90%8D%E9%82%AE%E7%AE%B1%E7%BD%91%E7%AB%99---%E6%90%9E%E4%B8%83%E6%8D%BB%E4%B8%89-%E6%90%9E%E4%B8%83%E6%8D%BB%E4%B8%89%2C-lv1---linux-do.md)
