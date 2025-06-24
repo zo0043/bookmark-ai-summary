@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-06-24) [达尔文派单局：遗传算法实现自动派单](data/202506/2025-06-24-%E8%BE%BE%E5%B0%94%E6%96%87%E6%B4%BE%E5%8D%95%E5%B1%80%EF%BC%9A%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E6%B4%BE%E5%8D%95.md)
 - (2025-06-24) [用Cursor开启JAVA+AI生涯](data/202506/2025-06-24-%E7%94%A8cursor%E5%BC%80%E5%90%AFjava%2Bai%E7%94%9F%E6%B6%AF.md)
 - (2025-06-23) [3级了，分享1.5万个免费节点订阅福利 - 福利羊毛 / 福利羊毛, Lv1 - LINUX DO](data/202506/2025-06-23-3%E7%BA%A7%E4%BA%86%EF%BC%8C%E5%88%86%E4%BA%AB1.5%E4%B8%87%E4%B8%AA%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E7%A6%8F%E5%88%A9---%E7%A6%8F%E5%88%A9%E7%BE%8A%E6%AF%9B-%E7%A6%8F%E5%88%A9%E7%BE%8A%E6%AF%9B%2C-lv1---linux-do.md)
 - (2025-06-18) [MiniMaxAI/MiniMax-M1-80k $12249.00 - 福利羊毛 - LINUX DO](data/202506/2025-06-18-minimaxai-minimax-m1-80k-%2412249.00---%E7%A6%8F%E5%88%A9%E7%BE%8A%E6%AF%9B---linux-do.md)
