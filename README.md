@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-07-02) [平平无奇- TBAI_claude code 实现自由 - 福利羊毛 - LINUX DO](data/202507/2025-07-02-%E5%B9%B3%E5%B9%B3%E6%97%A0%E5%A5%87--tbai_claude-code-%E5%AE%9E%E7%8E%B0%E8%87%AA%E7%94%B1---%E7%A6%8F%E5%88%A9%E7%BE%8A%E6%AF%9B---linux-do.md)
 - (2025-07-02) [【Prompt】突发奇想让 AI 帮我梳理杂乱无章的知识 - 开发调优 - LINUX DO](data/202507/2025-07-02-%E3%80%90prompt%E3%80%91%E7%AA%81%E5%8F%91%E5%A5%87%E6%83%B3%E8%AE%A9-ai-%E5%B8%AE%E6%88%91%E6%A2%B3%E7%90%86%E6%9D%82%E4%B9%B1%E6%97%A0%E7%AB%A0%E7%9A%84%E7%9F%A5%E8%AF%86---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-07-01) [​7天从入门到精通​​：Prompt Engineering超速通指南深入解析提示工程：从基础原理到工业级实践的黄金指南 - 掘金](data/202507/2025-07-01-%E2%80%8B7%E5%A4%A9%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E2%80%8B%E2%80%8B%EF%BC%9Aprompt-engineering%E8%B6%85%E9%80%9F%E9%80%9A%E6%8C%87%E5%8D%97%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86%E5%88%B0%E5%B7%A5%E4%B8%9A%E7%BA%A7%E5%AE%9E%E8%B7%B5%E7%9A%84%E9%BB%84%E9%87%91%E6%8C%87%E5%8D%97---%E6%8E%98%E9%87%91.md)
 - (2025-06-29) [Github 短用户名？让我康康到底有多短！ - 开发调优 - LINUX DO](data/202506/2025-06-29-github-%E7%9F%AD%E7%94%A8%E6%88%B7%E5%90%8D%EF%BC%9F%E8%AE%A9%E6%88%91%E5%BA%B7%E5%BA%B7%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%9F%AD%EF%BC%81---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
