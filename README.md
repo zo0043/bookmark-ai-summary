@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-07-03) [写给小白的自建科学上网教程：从技术原理到实践操作 - 开发调优 / 开发调优, Lv1 - LINUX DO](data/202507/2025-07-03-%E5%86%99%E7%BB%99%E5%B0%8F%E7%99%BD%E7%9A%84%E8%87%AA%E5%BB%BA%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B%EF%BC%9A%E4%BB%8E%E6%8A%80%E6%9C%AF%E5%8E%9F%E7%90%86%E5%88%B0%E5%AE%9E%E8%B7%B5%E6%93%8D%E4%BD%9C---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98-%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98%2C-lv1---linux-do.md)
 - (2025-07-02) [免费构建个人博客：Hexo + GitHub + Cloudflare - 开发调优 - LINUX DO](data/202507/2025-07-02-%E5%85%8D%E8%B4%B9%E6%9E%84%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%9Ahexo-%2B-github-%2B-cloudflare---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-07-02) [平平无奇- TBAI_claude code 实现自由 - 福利羊毛 - LINUX DO](data/202507/2025-07-02-%E5%B9%B3%E5%B9%B3%E6%97%A0%E5%A5%87--tbai_claude-code-%E5%AE%9E%E7%8E%B0%E8%87%AA%E7%94%B1---%E7%A6%8F%E5%88%A9%E7%BE%8A%E6%AF%9B---linux-do.md)
 - (2025-07-02) [【Prompt】突发奇想让 AI 帮我梳理杂乱无章的知识 - 开发调优 - LINUX DO](data/202507/2025-07-02-%E3%80%90prompt%E3%80%91%E7%AA%81%E5%8F%91%E5%A5%87%E6%83%B3%E8%AE%A9-ai-%E5%B8%AE%E6%88%91%E6%A2%B3%E7%90%86%E6%9D%82%E4%B9%B1%E6%97%A0%E7%AB%A0%E7%9A%84%E7%9F%A5%E8%AF%86---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
