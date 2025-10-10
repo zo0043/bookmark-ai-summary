@@ -324,5 +324,9 @@ def main():
     process_tag_summary()
     # process_weekly_articles()
 
+    # 关键词分析（可选，注释掉避免每次都执行）
+    # from keyword_analyzer import process_keyword_analysis
+    # process_keyword_analysis(force_rebuild=False, min_frequency=3)
+
 if __name__ == "__main__":
     main()
