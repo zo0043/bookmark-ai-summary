@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-14) [Platypus - Create Mac apps from command line scripts  |](data/202510/2025-10-14-platypus---create-mac-apps-from-command-line-scripts.md)
 - (2025-10-14) [用豆包Seedream4.0做知识卡片真的太强了！我整理了10套不同风格的知识卡片提示词！](data/202510/2025-10-14-%E7%94%A8%E8%B1%86%E5%8C%85seedream4.0%E5%81%9A%E7%9F%A5%E8%AF%86%E5%8D%A1%E7%89%87%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%BC%BA%E4%BA%86%EF%BC%81%E6%88%91%E6%95%B4%E7%90%86%E4%BA%8610%E5%A5%97%E4%B8%8D%E5%90%8C%E9%A3%8E%E6%A0%BC%E7%9A%84%E7%9F%A5%E8%AF%86%E5%8D%A1%E7%89%87%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%81.md)
 - (2025-07-05) [【Cursor】Cursor 全局通用规则Rules V4.9.1 ：多维思考+五大规则模式 + MCP工具集 让你码到飞起 - 开发调优 / 开发调优, Lv2 - LINUX DO](data/202507/2025-07-05-%E3%80%90cursor%E3%80%91cursor-%E5%85%A8%E5%B1%80%E9%80%9A%E7%94%A8%E8%A7%84%E5%88%99rules-v4.9.1-%EF%BC%9A%E5%A4%9A%E7%BB%B4%E6%80%9D%E8%80%83%2B%E4%BA%94%E5%A4%A7%E8%A7%84%E5%88%99%E6%A8%A1%E5%BC%8F-%2B-mcp%E5%B7%A5%E5%85%B7%E9%9B%86-%E8%AE%A9%E4%BD%A0%E7%A0%81%E5%88%B0%E9%A3%9E%E8%B5%B7---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98-%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98%2C-lv2---linux-do.md)
 - (2025-07-03) [[优化]写给小白的自建2$/月的US原生家宽ip/HK节点解决方案 - 开发调优 / 开发调优, Lv2 - LINUX DO](data/202507/2025-07-03-%5B%E4%BC%98%E5%8C%96%5D%E5%86%99%E7%BB%99%E5%B0%8F%E7%99%BD%E7%9A%84%E8%87%AA%E5%BB%BA2%24-%E6%9C%88%E7%9A%84us%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%AE%BDip-hk%E8%8A%82%E7%82%B9%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98-%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98%2C-lv2---linux-do.md)
