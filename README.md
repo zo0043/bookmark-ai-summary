@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-14) [香草API - 高可用性的Gemini/GLM聚合AI站](data/202510/2025-10-14-%E9%A6%99%E8%8D%89api---%E9%AB%98%E5%8F%AF%E7%94%A8%E6%80%A7%E7%9A%84gemini-glm%E8%81%9A%E5%90%88ai%E7%AB%99.md)
 - (2025-10-14) [AI 代码评审在七猫的实践](data/202510/2025-10-14-ai-%E4%BB%A3%E7%A0%81%E8%AF%84%E5%AE%A1%E5%9C%A8%E4%B8%83%E7%8C%AB%E7%9A%84%E5%AE%9E%E8%B7%B5.md)
 - (2025-10-14) [AIGC业务平台](data/202510/2025-10-14-aigc%E4%B8%9A%E5%8A%A1%E5%B9%B3%E5%8F%B0.md)
 - (2025-10-14) [长文更新 | 做AI产品2年多总结出来的25条核心认知](data/202510/2025-10-14-%E9%95%BF%E6%96%87%E6%9B%B4%E6%96%B0-%E5%81%9Aai%E4%BA%A7%E5%93%812%E5%B9%B4%E5%A4%9A%E6%80%BB%E7%BB%93%E5%87%BA%E6%9D%A5%E7%9A%8425%E6%9D%A1%E6%A0%B8%E5%BF%83%E8%AE%A4%E7%9F%A5.md)
