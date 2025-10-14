@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-14) [长文更新 | 做AI产品2年多总结出来的25条核心认知](data/202510/2025-10-14-%E9%95%BF%E6%96%87%E6%9B%B4%E6%96%B0-%E5%81%9Aai%E4%BA%A7%E5%93%812%E5%B9%B4%E5%A4%9A%E6%80%BB%E7%BB%93%E5%87%BA%E6%9D%A5%E7%9A%8425%E6%9D%A1%E6%A0%B8%E5%BF%83%E8%AE%A4%E7%9F%A5.md)
 - (2025-10-14) [配置驱动的动态 Agent 架构网络：实现高效编排、动态更新与智能治理本文所阐述的配置驱动智能 Agent 架构，其核心 - 掘金](data/202510/2025-10-14-%E9%85%8D%E7%BD%AE%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%8A%A8%E6%80%81-agent-%E6%9E%B6%E6%9E%84%E7%BD%91%E7%BB%9C%EF%BC%9A%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%95%88%E7%BC%96%E6%8E%92%E3%80%81%E5%8A%A8%E6%80%81%E6%9B%B4%E6%96%B0%E4%B8%8E%E6%99%BA%E8%83%BD%E6%B2%BB%E7%90%86%E6%9C%AC%E6%96%87%E6%89%80%E9%98%90%E8%BF%B0%E7%9A%84%E9%85%8D%E7%BD%AE%E9%A9%B1%E5%8A%A8%E6%99%BA%E8%83%BD-agent-%E6%9E%B6%E6%9E%84%EF%BC%8C%E5%85%B6%E6%A0%B8%E5%BF%83---%E6%8E%98%E9%87%91.md)
 - (2025-10-14) [Platypus - Create Mac apps from command line scripts  |](data/202510/2025-10-14-platypus---create-mac-apps-from-command-line-scripts.md)
 - (2025-10-14) [用豆包Seedream4.0做知识卡片真的太强了！我整理了10套不同风格的知识卡片提示词！](data/202510/2025-10-14-%E7%94%A8%E8%B1%86%E5%8C%85seedream4.0%E5%81%9A%E7%9F%A5%E8%AF%86%E5%8D%A1%E7%89%87%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%BC%BA%E4%BA%86%EF%BC%81%E6%88%91%E6%95%B4%E7%90%86%E4%BA%8610%E5%A5%97%E4%B8%8D%E5%90%8C%E9%A3%8E%E6%A0%BC%E7%9A%84%E7%9F%A5%E8%AF%86%E5%8D%A1%E7%89%87%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%81.md)
