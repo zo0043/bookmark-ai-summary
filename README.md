@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-14) [AI Agent全栈开发工程师|2025完结 - 资源荟萃 / 网盘资源 - LINUX DO](data/202510/2025-10-14-ai-agent%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88-2025%E5%AE%8C%E7%BB%93---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83-%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90---linux-do.md)
 - (2025-10-14) [香草API - 高可用性的Gemini/GLM聚合AI站](data/202510/2025-10-14-%E9%A6%99%E8%8D%89api---%E9%AB%98%E5%8F%AF%E7%94%A8%E6%80%A7%E7%9A%84gemini-glm%E8%81%9A%E5%90%88ai%E7%AB%99.md)
 - (2025-10-14) [AI 代码评审在七猫的实践](data/202510/2025-10-14-ai-%E4%BB%A3%E7%A0%81%E8%AF%84%E5%AE%A1%E5%9C%A8%E4%B8%83%E7%8C%AB%E7%9A%84%E5%AE%9E%E8%B7%B5.md)
 - (2025-10-14) [AIGC业务平台](data/202510/2025-10-14-aigc%E4%B8%9A%E5%8A%A1%E5%B9%B3%E5%8F%B0.md)
