@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [M0914/QiuMo-Jetbrains-Help:](data/202510/2025-10-25-m0914-qiumo-jetbrains-help.md)
 - (2025-10-25) [NotoChen/Jetbrains-Help](data/202510/2025-10-25-notochen-jetbrains-help.md)
 - (2025-10-25) [QiuMo JetBrains Help - JetBrains激活助手](data/202510/2025-10-25-qiumo-jetbrains-help---jetbrains%E6%BF%80%E6%B4%BB%E5%8A%A9%E6%89%8B.md)
 - (2025-10-25) [【GLM】GLM 4.6 最佳全局开发提示词 - 国产替代 - LINUX DO](data/202510/2025-10-25-%E3%80%90glm%E3%80%91glm-4.6-%E6%9C%80%E4%BD%B3%E5%85%A8%E5%B1%80%E5%BC%80%E5%8F%91%E6%8F%90%E7%A4%BA%E8%AF%8D---%E5%9B%BD%E4%BA%A7%E6%9B%BF%E4%BB%A3---linux-do.md)
