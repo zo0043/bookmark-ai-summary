@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [算法视角下的人工智能历史演进及其数学原理剖析 – ELE-yufo](data/202510/2025-10-25-%E7%AE%97%E6%B3%95%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8E%86%E5%8F%B2%E6%BC%94%E8%BF%9B%E5%8F%8A%E5%85%B6%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90-%E2%80%93-ele-yufo.md)
 - (2025-10-25) [NLP问题特征表达基础 - 语言模型（Language Model）发展演化历程讨论 - 郑瀚 - 博客园](data/202510/2025-10-25-nlp%E9%97%AE%E9%A2%98%E7%89%B9%E5%BE%81%E8%A1%A8%E8%BE%BE%E5%9F%BA%E7%A1%80---%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%88language-model%EF%BC%89%E5%8F%91%E5%B1%95%E6%BC%94%E5%8C%96%E5%8E%86%E7%A8%8B%E8%AE%A8%E8%AE%BA---%E9%83%91%E7%80%9A---%E5%8D%9A%E5%AE%A2%E5%9B%AD.md)
 - (2025-10-25) [混合专家模型（MoE）详解](data/202510/2025-10-25-%E6%B7%B7%E5%90%88%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%9E%8B%EF%BC%88moe%EF%BC%89%E8%AF%A6%E8%A7%A3.md)
 - (2025-10-25) [分类 信息时代 下的文章 - 科学空间|Scientific Spaces](data/202510/2025-10-25-%E5%88%86%E7%B1%BB-%E4%BF%A1%E6%81%AF%E6%97%B6%E4%BB%A3-%E4%B8%8B%E7%9A%84%E6%96%87%E7%AB%A0---%E7%A7%91%E5%AD%A6%E7%A9%BA%E9%97%B4-scientific-spaces.md)
