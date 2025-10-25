@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [快速开始 - MiniMax API Docs](data/202510/2025-10-25-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B---minimax-api-docs.md)
 - (2025-10-25) [全网最全 Cursor 配置指南：从入门到高效工作流！建议收藏Cursor 最全配置指南：从入门到高效工作流，Curso - 掘金](data/202510/2025-10-25-%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8-cursor-%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E9%AB%98%E6%95%88%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%81%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8Fcursor-%E6%9C%80%E5%85%A8%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E9%AB%98%E6%95%88%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%8Ccurso---%E6%8E%98%E9%87%91.md)
 - (2025-10-25) [RIPER-5 + 多维度思维 + 代理执行协议 (v4.9.10 - MCP工具 + 持久化记忆版 + 多角色） - 开发调优 / 开发调优, Lv1 - LINUX DO](data/202510/2025-10-25-riper-5-%2B-%E5%A4%9A%E7%BB%B4%E5%BA%A6%E6%80%9D%E7%BB%B4-%2B-%E4%BB%A3%E7%90%86%E6%89%A7%E8%A1%8C%E5%8D%8F%E8%AE%AE-%28v4.9.10-...%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98%2C-lv1---linux-do_a5439f46.md)
 - (2025-10-25) [【教程】小白也能看懂的自建Cloudflare临时邮箱教程（域名邮箱） - 文档共建 - LINUX DO](data/202510/2025-10-25-%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E5%B0%8F%E7%99%BD%E4%B9%9F%E8%83%BD%E7%9C%8B%E6%87%82%E7%9A%84%E8%87%AA%E5%BB%BAcloudflare%E4%B8%B4%E6%97%B6%E9%82%AE%E7%AE%B1%E6%95%99%E7%A8%8B%EF%BC%88%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1%EF%BC%89---%E6%96%87%E6%A1%A3%E5%85%B1%E5%BB%BA---linux-do.md)
