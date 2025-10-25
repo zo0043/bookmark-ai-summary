@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [能填满你提示词库的220个超级prompt - 资源荟萃 - LINUX DO](data/202510/2025-10-25-%E8%83%BD%E5%A1%AB%E6%BB%A1%E4%BD%A0%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%BA%93%E7%9A%84220%E4%B8%AA%E8%B6%85%E7%BA%A7prompt---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83---linux-do.md)
 - (2025-10-25) [分享几个Claude Code Sub Agent 抛砖引玉 - 开发调优 - LINUX DO](data/202510/2025-10-25-%E5%88%86%E4%BA%AB%E5%87%A0%E4%B8%AAclaude-code-sub-agent-%E6%8A%9B%E7%A0%96%E5%BC%95%E7%8E%89---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-10-25) [(21) 逐梦AI赚钱实战 (@AmbitiousXU) / X](data/202510/2025-10-25-%2821%29-%E9%80%90%E6%A2%A6ai%E8%B5%9A%E9%92%B1%E5%AE%9E%E6%88%98-%28%40ambitiousxu%29-x.md)
 - (2025-10-25) [sambanova key（5$ * 50） - 开发调优 / 开发调优, Lv1 - LINUX DO](data/202510/2025-10-25-sambanova-key%EF%BC%885%24-50%EF%BC%89---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98-%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98%2C-lv1---linux-do.md)
