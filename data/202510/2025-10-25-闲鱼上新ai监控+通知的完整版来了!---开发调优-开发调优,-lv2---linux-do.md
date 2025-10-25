@@ -1,47 +1,62 @@
 # 闲鱼上新AI监控+通知的完整版来了! - 开发调优 / 开发调优, Lv2 - LINUX DO
-- URL: https://linux.do/t/topic/791851
-- Added At: 2025-10-25 18:49:32
+- URL: https://linux.do/t/topic/791851/1
+- Added At: 2025-10-25 19:23:55
 - [Link To Text](2025-10-25-闲鱼上新ai监控+通知的完整版来了!---开发调优-开发调优,-lv2---linux-do_raw.md)
 
 ## TL;DR
-本文介绍了Linux社区页面错误信息、用户操作、搜索建议、热门话题和最近话题。
+本文介绍了Linux社区网站页面布局，包括错误信息、图片链接、登录注册、返回首页、搜索功能、热门话题和近期话题等。
 
 ## Summary
-1. **页面错误信息**：
-   - 页面无法访问或为私有。
-   - 提示图片：![LINUX DO](https://linux.do/uploads/default/original/4X/d/1/4/d146c68151340881c884d95e0da4acdf369258c6.png)
-
-2. **用户操作**：
-   - [注册链接](https://linux.do/signup)
-   - [登录链接](https://linux.do/login)
-   - [返回首页](https://linux.do/)
-
-3. **搜索建议**：
-   - 提示用户尝试搜索。
-
-4. **热门话题**：
-   - [社区孵化启动](https://linux.do/t/topic/1039951)
+1. **页面错误信息**：提示页面不存在或为私有。
+2. **图片链接**：
+   - ![Image 1: LINUX DO](https://linux.do/uploads/default/original/4X/d/1/4/d146c68151340881c884d95e0da4acdf369258c6.png)
+3. **登录/注册链接**：
+   - [Sign Up](https://linux.do/signup)
+   - [Log In](https://linux.do/login)
+4. **返回首页链接**：
+   - [Take me home](https://linux.do/)
+5. **搜索功能提示**：建议使用搜索功能。
+6. **热门话题**：
+   - [择日不如撞日，社区孵化就从今天开始](https://linux.do/t/topic/1039951)
    - [运营反馈](https://linux.do/c/feedback/2)
-   - [AI制作视频经验分享](https://linux.do/t/topic/997596)
-   - [伪公益活动处理](https://linux.do/t/topic/1083555)
-   - [抽奖活动](https://linux.do/t/topic/1066223)
-   - [数字联动话题](https://linux.do/t/topic/1065896)
-   - [富可敌国金币活动](https://linux.do/t/topic/1054658)
-   - [IDC Flare 用户徽章活动](https://linux.do/t/topic/1019009)
-   - [推广违规说明](https://linux.do/t/topic/991874)
-   - [公益赞助商话题](https://linux.do/t/topic/1040398)
-   - [社区治理活动](https://linux.do/t/topic/1084184)
-   - [更多热门话题](https://linux.do/top)
-
-5. **最近话题**：
-   - [claude code编辑器中文乱码问题](https://linux.do/t/topic/1091239)
-   - [推荐免费IDE](https://linux.do/t/topic/1091235)
-   - [Trae软件问题讨论](https://linux.do/t/topic/1091215)
-   - [佬友黑五预算讨论](https://linux.do/t/topic/1091212)
-   - [益生菌推荐](https://linux.do/t/topic/1091198)
-   - [claude镜像和claudecode使用问题](https://linux.do/t/topic/1091196)
-   - [图形学项目讨论](https://linux.do/t/topic/1091193)
-   - [deepseek-ocr效果讨论](https://linux.do/t/topic/1091191)
-   - [Windows下AMD芯片安装macOS教程](https://linux.do/t/topic/1091177)
-   - [数学学习方法讨论](https://linux.do/t/topic/1091170)
-   - [更多最近话题](https://linux.do/latest)
+   - [裸辞一年, 我用AI两周狂造520个视频，结果…](https://linux.do/t/topic/997596)
+   - [搞七捻三](https://linux.do/c/gossip/11)
+   - [最近将开展一次严格处理伪公益的活动](https://linux.do/t/topic/1083555)
+   - [运营反馈](https://linux.do/c/feedback/2)
+   - [抽奖，抛砖引玉x1](https://linux.do/t/topic/1066223)
+   - [福利羊毛](https://linux.do/c/welfare/36)
+   - [有些数字联动起来就很奇妙](https://linux.do/t/topic/1065896)
+   - [搞七捻三](https://linux.do/c/gossip/11)
+   - [【站长爆金币】600刀的富可敌国真有人充？](https://linux.do/t/topic/1054658)
+   - [搞七捻三](https://linux.do/c/gossip/11)
+   - [IDC Flare 种子用户徽章绝版倒计时 10 天](https://linux.do/t/topic/1019009)
+   - [运营反馈](https://linux.do/c/feedback/2)
+   - [针对近期一些推广违规的集中说明](https://linux.do/t/topic/991874)
+   - [运营反馈](https://linux.do/c/feedback/2)
+   - [薄荷公益来了个“神秘赞助商”](https://linux.do/t/topic/1040398)
+   - [资源荟萃](https://linux.do/c/resource/14)
+   - [社区索性来一起专项的综合性治理活动吧](https://linux.do/t/topic/1084184)
+   - [运营反馈](https://linux.do/c/feedback/2)
+   - [More…](https://linux.do/top)
+7. **近期话题**：
+   - [【PromPub】提示词仓库1.0开始为大家服务](https://linux.do/t/topic/1091289)
+   - [开发调优](https://linux.do/c/develop/4)
+   - [Rarecloud 一键获取 €5 代金券](https://linux.do/t/topic/1091285)
+   - [福利羊毛](https://linux.do/c/welfare/36)
+   - [佬友们，正常5人自用的GCP，薅10个普号够用么](https://linux.do/t/topic/1091270)
+   - [搞七捻三](https://linux.do/c/gossip/11)
+   - [claude code编辑器扩展 中文乱码, 显示不全](https://linux.do/t/topic/1091239)
+   - [开发调优](https://linux.do/c/develop/4)
+   - [[慢讯]推荐一个免费好用的ide（比trae还优秀）](https://linux.do/t/topic/1091235)
+   - [开发调优](https://linux.do/c/develop/4)
+   - [深夜差点让Trae气死 就是照抄cursor也不能做的这么垃圾吧](https://linux.do/t/topic/1091215)
+   - [开发调优](https://linux.do/c/develop/4)
+   - [佬友黑五准备了多少预算？](https://linux.do/t/topic/1091212)
+   - [搞七捻三](https://linux.do/c/gossip/11)
+   - [求助佬友，口臭有没有推荐的益生菌或者益生菌含片](https://linux.do/t/topic/1091198)
+   - [搞七捻三](https://linux.do/c/gossip/11)
+   - [没有claude镜像和claudecode能一起用的网站吗](https://linux.do/t/topic/1091196)
+   - [搞七捻三](https://linux.do/c/gossip/11)
+   - [有没有做图形学的佬 看看我这个C++新能源车机空调风项目](https://linux.do/t/topic/1091193)
+   - [开发调优](https://linux.do/c/develop/4)
+   - [More…](https://linux.do/latest)
