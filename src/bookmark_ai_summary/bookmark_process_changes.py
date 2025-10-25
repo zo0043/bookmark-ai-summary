@@ -1,3 +1,4 @@
+import asyncio
 import hashlib
 import json
 import logging
@@ -8,12 +9,25 @@ from dataclasses import dataclass, asdict
 from datetime import datetime
 from functools import wraps
 from pathlib import Path
-from typing import List, Optional
+from typing import List, Optional, Union
 from urllib.parse import quote
 
 import requests
 from waybackpy import WaybackMachineSaveAPI
-from process_tag_bookmark import deal_tags_chain,process_tag_summary,process_weekly_articles
+from .process_tag_bookmark import deal_tags_chain,process_tag_summary,process_weekly_articles
+
+# 尝试导入无头浏览器模块（可选依赖）
+try:
+    from .headless_content_extractor import (
+        HeadlessContentExtractor,
+        ExtractionResult,
+        StealthConfig,
+        create_stealth_config
+    )
+    HEADLESS_AVAILABLE = True
+except ImportError:
+    HEADLESS_AVAILABLE = False
+    logging.warning("无头浏览器模块不可用，将仅使用Jina Reader")
 
 # -- 配置 --
 BOOKMARK_COLLECTION_REPO_NAME: str = (
@@ -49,6 +63,9 @@ logging.basicConfig(
     format="%(asctime)s - %(filename)s:%(lineno)d - %(funcName)s - %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
 )
+
+# 配置无头浏览器环境变量
+USE_HEADLESS_BROWSER = os.environ.get('USE_HEADLESS_BROWSER', 'false').lower() == 'true'
 
 
 def log_execution_time(func):
@@ -101,9 +118,27 @@ def submit_to_wayback_machine(url: str):
 def get_text_content(url: str) -> str:
     logging.info(f"get_text_content: {url}")
     """获取URL的文本内容"""
-    jina_url: str = f"https://r.jina.ai/{url}"
-    response: requests.Response = requests.get(jina_url)
-    return response.text
+
+    # 使用新的内容获取方法
+    try:
+        # 在同步环境中，需要运行事件循环
+        try:
+            loop = asyncio.get_event_loop()
+            if loop.is_running():
+                # 如果已经在事件循环中，直接使用
+                return loop.run_until_complete(
+                    get_text_content_with_headless_fallback(url, use_headless=USE_HEADLESS_BROWSER)
+                )
+            else:
+                # 创建新的事件循环
+                return asyncio.run(get_text_content_with_headless_fallback(url, use_headless=USE_HEADLESS_BROWSER))
+        except Exception as e:
+            logging.error(f"异步内容获取失败: {str(e)}，使用同步Jina Reader")
+            # 回退到原始Jina Reader
+            return _fallback_to_jina_reader(url)
+    except Exception as fallback_e:
+        logging.error(f"所有方法都失败: {str(fallback_e)}")
+        return ""
 
 
 @log_execution_time
@@ -391,6 +426,78 @@ def main():
     # 关键词分析（可选，注释掉避免每次都执行）
     # from keyword_analyzer import process_keyword_analysis
     # process_keyword_analysis(force_rebuild=False, min_frequency=3)
+
+async def get_text_content_with_headless_fallback(url: str, use_headless: bool = False) -> str:
+    """
+    带有无头浏览器备用方案的内容获取函数
+
+    Args:
+        url: 目标URL
+        use_headless: 是否使用无头浏览器作为备用方案
+
+    Returns:
+        str: 提取的文本内容
+    """
+    if not use_headless or not HEADLESS_AVAILABLE:
+        # 直接使用Jina Reader
+        return _fallback_to_jina_reader(url)
+
+    # 尝试Jina Reader，失败时使用无头浏览器
+    try:
+        logging.info(f"尝试使用Jina Reader: {url}")
+        jina_content = _fallback_to_jina_reader(url)
+        if jina_content and len(jina_content) > 100:
+            logging.info(f"Jina Reader成功，内容长度: {len(jina_content)}")
+            return jina_content
+        else:
+            logging.warning("Jina Reader内容过短，尝试无头浏览器")
+    except Exception as e:
+        logging.error(f"Jina Reader失败: {str(e)}")
+
+    # 使用无头浏览器作为备用方案
+    try:
+        logging.info(f"使用无头浏览器: {url}")
+        config = create_stealth_config("medium", headless=True)
+        extractor = HeadlessContentExtractor(config)
+        result = await extractor.extract_content(url)
+
+        if result.success and result.content:
+            logging.info(f"无头浏览器成功，内容长度: {len(result.content)}")
+            return result.content
+        else:
+            logging.error(f"无头浏览器失败: {result.error_message or '未知错误'}")
+            return ""
+    except Exception as e:
+        logging.error(f"无头浏览器异常: {str(e)}")
+        return ""
+
+def _fallback_to_jina_reader(url: str) -> str:
+    """
+    使用Jina Reader获取网页内容的回退方案
+
+    Args:
+        url: 目标URL
+
+    Returns:
+        str: 提取的文本内容
+    """
+    try:
+        jina_url = f"https://r.jina.ai/{url}"
+        logging.info(f"使用Jina Reader: {jina_url}")
+
+        response = requests.get(jina_url, timeout=30)
+        response.raise_for_status()
+
+        content = response.text
+        logging.info(f"Jina Reader成功，内容长度: {len(content)}")
+        return content
+
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Jina Reader请求失败: {str(e)}")
+        return ""
+    except Exception as e:
+        logging.error(f"Jina Reader未知错误: {str(e)}")
+        return ""
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,54 @@
+{
+  "detection_level": "medium",
+  "use_headless": true,
+  "use_proxy": true,
+  "random_user_data": true,
+  "timeout": 30000,
+  "max_retries": 3,
+  "retry_delay": {
+    "min": 2,
+    "max": 8
+  },
+  "user_agents": [
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"
+  ],
+  "target_sites": [
+    "linux.do",
+    "weixin.qq.com",
+    "zhihu.com"
+  ],
+  "headless_args": [
+    "--no-sandbox",
+    "--disable-setuid-sandbox",
+    "--disable-infobars",
+    "--window-position=0,0",
+    "--ignore-certificate-errors",
+    "--ignore-ssl-errors",
+    "--ignore-certificate-errors-spki-list",
+    "--disable-background-networking",
+    "--disable-default-apps",
+    "--disable-extensions",
+    "--disable-sync",
+    "--disable-translate",
+    "--hide-scrollbars",
+    "--metrics-recording-only",
+    "--mute-audio",
+    "--no-first-run",
+    "--safebrowsing-disable-auto-update",
+    "--disable-ipc-flooding-protection"
+  ],
+  "stealth_args": [
+    "--disable-blink-features=AutomationControlled",
+    "--disable-features=IsolateOrigins,site-per-process",
+    "--disable-features=CrossSiteDocumentBlockingIfIsolating",
+    "--disable-features=CrossSiteDocumentBlockingAlways",
+    "--disable-features=CrossSiteDocumentBlocking",
+    "--disable-features=VizDisplayCompositor",
+    "--disable-web-security",
+    "--disable-gpu",
+    "--disable-dev-shm-usage"
+  ]
+}
