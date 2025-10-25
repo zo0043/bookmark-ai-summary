@@ -3,6 +3,7 @@
 ## 5288
 
 - (2024-10-14) [【网站自荐】投资策略模拟器  - 通过直观可视化界面和详细数据分析，让用户深入了解各种投资策略优劣，从而做出更明智投资决策 · Issue #5288 · ruanyf/weekly](data/202410/2024-10-14-%E3%80%90%E7%BD%91%E7%AB%99%E8%87%AA%E8%8D%90%E3%80%91%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E6%A8%A1%E6%8B%9F%E5%99%A8---%E9%80%9A%E8%BF%87%E7%9B%B4%E8%A7%82%E5%8F%AF%E8%A7%86%E5%8C%96%E7%95%8C%E9%9D%A2%E5%92%8C%E8%AF%A6%E7%BB%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%8C%E8%AE%A9%E7%94%A8%E6%88%B7%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%E5%90%84%E7%A7%8D%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E4%BC%98%E5%8A%A3%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%81%9A%E5%87%BA%E6%9B%B4%E6%98%8E%E6%99%BA%E6%8A%95%E8%B5%84%E5%86%B3%E7%AD%96-%C2%B7-issue-%235288-%C2%B7-ruanyf-weekly.md)
+- (2024-10-14) [【网站自荐】投资策略模拟器  - 通过直观可视化界面和详细数据分析，让用户深入了解各种投资策略优劣，从而做出更明智投资决策 · Issue #5288 · ruanyf/weekly](data/202410/2024-10-14-%E3%80%90%E7%BD%91%E7%AB%99%E8%87%AA%E8%8D%90%E3%80%91%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E6%A8%A1%E6%8B%9F%E5%99%A8---%E9%80%9A%E8%BF%87%E7%9B%B4%E8%A7%82%E5%8F%AF%E8%A7%86%E5%8C%96%E7%95%8C%E9%9D%A2%E5%92%8C%E8%AF%A6%E7%BB%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%8C%E8%AE%A9...5288-%C2%B7-ruanyf-weekly_1e345060.md)
 
 ## 6393
 
@@ -97,6 +98,7 @@
 ## fund
 
 - (2024-10-14) [【网站自荐】投资策略模拟器  - 通过直观可视化界面和详细数据分析，让用户深入了解各种投资策略优劣，从而做出更明智投资决策 · Issue #5288 · ruanyf/weekly](data/202410/2024-10-14-%E3%80%90%E7%BD%91%E7%AB%99%E8%87%AA%E8%8D%90%E3%80%91%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E6%A8%A1%E6%8B%9F%E5%99%A8---%E9%80%9A%E8%BF%87%E7%9B%B4%E8%A7%82%E5%8F%AF%E8%A7%86%E5%8C%96%E7%95%8C%E9%9D%A2%E5%92%8C%E8%AF%A6%E7%BB%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%8C%E8%AE%A9%E7%94%A8%E6%88%B7%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%E5%90%84%E7%A7%8D%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E4%BC%98%E5%8A%A3%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%81%9A%E5%87%BA%E6%9B%B4%E6%98%8E%E6%99%BA%E6%8A%95%E8%B5%84%E5%86%B3%E7%AD%96-%C2%B7-issue-%235288-%C2%B7-ruanyf-weekly.md)
+- (2024-10-14) [【网站自荐】投资策略模拟器  - 通过直观可视化界面和详细数据分析，让用户深入了解各种投资策略优劣，从而做出更明智投资决策 · Issue #5288 · ruanyf/weekly](data/202410/2024-10-14-%E3%80%90%E7%BD%91%E7%AB%99%E8%87%AA%E8%8D%90%E3%80%91%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E6%A8%A1%E6%8B%9F%E5%99%A8---%E9%80%9A%E8%BF%87%E7%9B%B4%E8%A7%82%E5%8F%AF%E8%A7%86%E5%8C%96%E7%95%8C%E9%9D%A2%E5%92%8C%E8%AF%A6%E7%BB%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%8C%E8%AE%A9...5288-%C2%B7-ruanyf-weekly_1e345060.md)
 
 ## git
 
@@ -315,6 +317,7 @@
 ## stock
 
 - (2024-10-14) [【网站自荐】投资策略模拟器  - 通过直观可视化界面和详细数据分析，让用户深入了解各种投资策略优劣，从而做出更明智投资决策 · Issue #5288 · ruanyf/weekly](data/202410/2024-10-14-%E3%80%90%E7%BD%91%E7%AB%99%E8%87%AA%E8%8D%90%E3%80%91%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E6%A8%A1%E6%8B%9F%E5%99%A8---%E9%80%9A%E8%BF%87%E7%9B%B4%E8%A7%82%E5%8F%AF%E8%A7%86%E5%8C%96%E7%95%8C%E9%9D%A2%E5%92%8C%E8%AF%A6%E7%BB%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%8C%E8%AE%A9%E7%94%A8%E6%88%B7%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%E5%90%84%E7%A7%8D%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E4%BC%98%E5%8A%A3%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%81%9A%E5%87%BA%E6%9B%B4%E6%98%8E%E6%99%BA%E6%8A%95%E8%B5%84%E5%86%B3%E7%AD%96-%C2%B7-issue-%235288-%C2%B7-ruanyf-weekly.md)
+- (2024-10-14) [【网站自荐】投资策略模拟器  - 通过直观可视化界面和详细数据分析，让用户深入了解各种投资策略优劣，从而做出更明智投资决策 · Issue #5288 · ruanyf/weekly](data/202410/2024-10-14-%E3%80%90%E7%BD%91%E7%AB%99%E8%87%AA%E8%8D%90%E3%80%91%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E6%A8%A1%E6%8B%9F%E5%99%A8---%E9%80%9A%E8%BF%87%E7%9B%B4%E8%A7%82%E5%8F%AF%E8%A7%86%E5%8C%96%E7%95%8C%E9%9D%A2%E5%92%8C%E8%AF%A6%E7%BB%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%8C%E8%AE%A9...5288-%C2%B7-ruanyf-weekly_1e345060.md)
 
 ## tcp
 
@@ -409,6 +412,7 @@
 - (2025-02-10) [代码可视化平台](data/202502/2025-02-10-%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B9%B3%E5%8F%B0.md)
 - (2025-02-10) [系统设计面试：内幕指南](data/202502/2025-02-10-%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%EF%BC%9A%E5%86%85%E5%B9%95%E6%8C%87%E5%8D%97.md)
 - (2025-02-16) [Spring Pass | 总有一种方式能掌握Spring源码](data/202502/2025-02-16-spring-pass-%E6%80%BB%E6%9C%89%E4%B8%80%E7%A7%8D%E6%96%B9%E5%BC%8F%E8%83%BD%E6%8E%8C%E6%8F%A1spring%E6%BA%90%E7%A0%81.md)
+- (2025-02-16) [potpie-ai/potpie: Prompt-To-Agent : Create custom engineering agents for your codebase](data/202502/2025-02-16-potpie-ai-potpie-prompt-to-agent-c...ts-for-your-codebase_e24f174d.md)
 - (2025-02-16) [potpie-ai/potpie: Prompt-To-Agent : Create custom engineering agents for your codebase](data/202502/2025-02-16-potpie-ai-potpie-prompt-to-agent-create-custom-engineering-agents-for-your-codebase.md)
 - (2025-02-17) [告别生硬翻译腔：构建 AI 驱动的多轮评审润色流程](data/202502/2025-02-17-%E5%91%8A%E5%88%AB%E7%94%9F%E7%A1%AC%E7%BF%BB%E8%AF%91%E8%85%94%EF%BC%9A%E6%9E%84%E5%BB%BA-ai-%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%A4%9A%E8%BD%AE%E8%AF%84%E5%AE%A1%E6%B6%A6%E8%89%B2%E6%B5%81%E7%A8%8B.md)
 - (2025-02-25) [如何把你的 DeePseek-R1 微调为某个领域的专家？](data/202502/2025-02-25-%E5%A6%82%E4%BD%95%E6%8A%8A%E4%BD%A0%E7%9A%84-deepseek-r1-%E5%BE%AE%E8%B0%83%E4%B8%BA%E6%9F%90%E4%B8%AA%E9%A2%86%E5%9F%9F%E7%9A%84%E4%B8%93%E5%AE%B6%EF%BC%9F.md)
