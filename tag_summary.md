@@ -108,6 +108,10 @@
 
 - (2024-11-20) [打包起来！把Agent接入GraphRAG！装进MAS中](data/202411/2024-11-20-%E6%89%93%E5%8C%85%E8%B5%B7%E6%9D%A5%EF%BC%81%E6%8A%8Aagent%E6%8E%A5%E5%85%A5graphrag%EF%BC%81%E8%A3%85%E8%BF%9Bmas%E4%B8%AD.md)
 
+## home
+
+- (2025-10-25) [QiuMo JetBrains Help - JetBrains激活助手](data/202510/2025-10-25-qiumo-jetbrains-help---jetbrains%E6%BF%80%E6%B4%BB%E5%8A%A9%E6%89%8B.md)
+
 ## https
 
 - (2024-10-15) [图解 TLS 1.3](data/202410/2024-10-15-%E5%9B%BE%E8%A7%A3-tls-1.3.md)

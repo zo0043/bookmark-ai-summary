@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [QiuMo JetBrains Help - JetBrains激活助手](data/202510/2025-10-25-qiumo-jetbrains-help---jetbrains%E6%BF%80%E6%B4%BB%E5%8A%A9%E6%89%8B.md)
 - (2025-10-25) [【GLM】GLM 4.6 最佳全局开发提示词 - 国产替代 - LINUX DO](data/202510/2025-10-25-%E3%80%90glm%E3%80%91glm-4.6-%E6%9C%80%E4%BD%B3%E5%85%A8%E5%B1%80%E5%BC%80%E5%8F%91%E6%8F%90%E7%A4%BA%E8%AF%8D---%E5%9B%BD%E4%BA%A7%E6%9B%BF%E4%BB%A3---linux-do.md)
 - (2025-10-25) [【教程】在 leaflow 上部署自己的 searxng 搜索服务，10分钟内搞定 - 资源荟萃 - LINUX DO](data/202510/2025-10-25-%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E5%9C%A8-leaflow-%E4%B8%8A%E9%83%A8%E7%BD%B2%E8%87%AA%E5%B7%B1%E7%9A%84-searxng-%E6%90%9C%E7%B4%A2%E6%9C%8D%E5%8A%A1%EF%BC%8C10%E5%88%86%E9%92%9F%E5%86%85%E6%90%9E%E5%AE%9A---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83---linux-do.md)
 - (2025-10-25) [[菜鸟教程] 零基础 Cloudflare 优选教程 - 开发调优 - LINUX DO](data/202510/2025-10-25-%5B%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B%5D-%E9%9B%B6%E5%9F%BA%E7%A1%80-cloudflare-%E4%BC%98%E9%80%89%E6%95%99%E7%A8%8B---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
