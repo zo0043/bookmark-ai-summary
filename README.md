@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [[菜鸟教程] 零基础 Cloudflare 优选教程 - 开发调优 - LINUX DO](data/202510/2025-10-25-%5B%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B%5D-%E9%9B%B6%E5%9F%BA%E7%A1%80-cloudflare-%E4%BC%98%E9%80%89%E6%95%99%E7%A8%8B---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-10-25) [如何用AI写作？](data/202510/2025-10-25-%E5%A6%82%E4%BD%95%E7%94%A8ai%E5%86%99%E4%BD%9C%EF%BC%9F.md)
 - (2025-10-25) [到底什么是踏马的 Agentic Workflows？](data/202510/2025-10-25-%E5%88%B0%E5%BA%95%E4%BB%80%E4%B9%88%E6%98%AF%E8%B8%8F%E9%A9%AC%E7%9A%84-agentic-workflows%EF%BC%9F.md)
 - (2025-10-14) [【万字长文】大模型训练推理和性能优化算法总结和实践](data/202510/2025-10-14-%E3%80%90%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E3%80%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E6%8E%A8%E7%90%86%E5%92%8C%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93%E5%92%8C%E5%AE%9E%E8%B7%B5.md)
