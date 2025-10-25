@@ -1,3 +1,4 @@
+import hashlib
 import json
 import logging
 import os
@@ -22,6 +23,26 @@ BOOKMARK_SUMMARY_REPO_NAME: str = "bookmark-ai-summary"
 BOOKMARK_SUMMARY_REPO_DATA_DIR: str = (
     "bookmark-ai-summary/data"
 )
+
+# -- 文件名长度配置 --
+MAX_FILENAME_LENGTH = 80          # 最大文件名长度
+HASH_LENGTH = 8                  # 哈希后缀长度
+TRUNCATE_PREFIX_LENGTH = 50      # 保留前缀长度
+TRUNCATE_SUFFIX_LENGTH = 20      # 保留后缀长度
+SEPARATOR = "..."                # 截断分隔符
+
+# 配置验证
+if not (20 <= MAX_FILENAME_LENGTH <= 255):
+    raise ValueError(f"MAX_FILENAME_LENGTH ({MAX_FILENAME_LENGTH}) 必须在 20-255 之间")
+if not (4 <= HASH_LENGTH <= 32):
+    raise ValueError(f"HASH_LENGTH ({HASH_LENGTH}) 必须在 4-32 之间")
+if TRUNCATE_PREFIX_LENGTH + TRUNCATE_SUFFIX_LENGTH >= MAX_FILENAME_LENGTH - len(SEPARATOR) - HASH_LENGTH:
+    import warnings
+    warnings.warn("截断长度配置较大，建议调整以确保足够的文件名空间", UserWarning)
+
+# 性能优化：预编译正则表达式
+_INVALID_FS_CHARS_PATTERN = re.compile(r"[/" + re.escape('/\\:*?"<>|') + r"\s]+")
+_COMPILED_HASH_CACHE = {}  # 简单的LRU缓存
 
 logging.basicConfig(
     level=logging.INFO,
@@ -157,11 +178,50 @@ def one_sentence_summary(text: str) -> str:
 
 
 def slugify(text: str) -> str:
-    """将文本转换为适用于文件名或URL的"slug"格式"""
-    invalid_fs_chars: str = '/\\:*?"<>|'
-    return re.sub(
-        r"[" + re.escape(invalid_fs_chars) + r"\s]+", "-", text.lower()
-    ).strip("-")
+    """将文本转换为适用于文件名或URL的"slug"格式，支持长度限制和智能截断"""
+    if not text:
+        return ""
+
+    # 基础清理：使用预编译的正则表达式提高性能
+    cleaned = _INVALID_FS_CHARS_PATTERN.sub("-", text.lower()).strip("-")
+
+    # 如果长度在限制内，直接返回
+    if len(cleaned) <= MAX_FILENAME_LENGTH:
+        return cleaned
+
+    # 使用缓存提高性能（适用于重复的输入）
+    cache_key = (text, MAX_FILENAME_LENGTH, HASH_LENGTH, TRUNCATE_PREFIX_LENGTH, TRUNCATE_SUFFIX_LENGTH)
+    if cache_key in _COMPILED_HASH_CACHE:
+        return _COMPILED_HASH_CACHE[cache_key]
+
+    # 生成原文本的哈希值确保唯一性
+    hash_suffix = hashlib.md5(text.encode('utf-8')).hexdigest()[:HASH_LENGTH]
+
+    # 计算可用长度（减去分隔符和哈希）
+    available_length = MAX_FILENAME_LENGTH - len(SEPARATOR) - HASH_LENGTH
+
+    # 智能截断：保留前缀和后缀
+    prefix_length = min(TRUNCATE_PREFIX_LENGTH, available_length // 2)
+    suffix_length = min(TRUNCATE_SUFFIX_LENGTH, available_length - prefix_length)
+
+    # 构建截断后的文件名
+    prefix = cleaned[:prefix_length]
+    suffix = cleaned[-suffix_length:] if suffix_length > 0 else ""
+
+    truncated_name = f"{prefix}{SEPARATOR}{suffix}_{hash_suffix}"
+
+    # 确保最终长度不超过限制
+    if len(truncated_name) > MAX_FILENAME_LENGTH:
+        # 如果仍然过长，进一步缩短前缀
+        excess = len(truncated_name) - MAX_FILENAME_LENGTH
+        prefix = prefix[:-excess]
+        truncated_name = f"{prefix}{SEPARATOR}{suffix}_{hash_suffix}"
+
+    # 缓存结果（简单的FIFO缓存，限制大小）
+    if len(_COMPILED_HASH_CACHE) < 1000:
+        _COMPILED_HASH_CACHE[cache_key] = truncated_name
+
+    return truncated_name
 
 
 def get_summary_file_path(
@@ -169,13 +229,17 @@ def get_summary_file_path(
 ) -> Path:
     """根据给定的标题、时间戳和月份生成书签摘要文件的路径"""
     date_str = datetime.fromtimestamp(timestamp).strftime("%Y-%m-%d")
-    summary_filename: str = f"{date_str}-{slugify(title)}.md"
+
+    # 使用改进的 slugify 函数，已包含长度限制
+    slugified_title = slugify(title)
+    summary_filename: str = f"{date_str}-{slugified_title}.md"
 
     if in_readme_md:
         if month is None:
             raise ValueError("在README.md中生成摘要时必须提供月份")
         root: Path = Path("data/", month)
-        summary_filename = f"{date_str}-{quote(slugify(title))}.md"
+        # 对于 README.md 中的链接，仍需要 URL 编码，但使用更短的编码
+        summary_filename = f"{date_str}-{quote(slugified_title, safe='-_.~')}.md"
     else:
         if month is None:
             month = CURRENT_MONTH

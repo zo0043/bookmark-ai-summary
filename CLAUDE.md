@@ -77,14 +77,37 @@ OPENAI_API_MODEL=gpt-4          # 可选，默认 gpt-4
 OPENAI_API_ENDPOINT=https://... # 可选，自定义 API 端点
 ```
 
-### 开发环境设置
+### Rye 包管理器使用
+
+项目使用 [Rye](https://github.com/astral-sh/rye) 作为包管理器：
 
 ```bash
-# 安装依赖（使用 pip）
-pip install -r requirements.lock
+# 初始化环境
+rye sync                    # 安装依赖，创建虚拟环境
+rye add requests            # 添加新依赖
+rye remove requests         # 移除依赖
+rye run python script.py    # 在虚拟环境中运行命令
 
-# 或使用 Rye（推荐）
-rye sync
+# 激活虚拟环境（手动操作时）
+source .venv/bin/activate  # macOS/Linux
+.venv\Scripts\activate     # Windows
+```
+
+## 开发环境设置
+
+```bash
+# 使用 Rye（推荐方式）
+rye sync                    # 安装依赖
+rye run python -m bookmark_ai_summary.bookmark_process_changes  # 运行模块
+
+# 或使用传统 pip 方式
+pip install -r requirements.lock
+python -m bookmark_ai_summary.bookmark_process_changes
+
+# 环境变量配置
+# 项目根目录已存在 .env 文件，直接编辑添加必要的环境变量：
+# OPENAI_API_KEY=sk-...
+# OPENAI_API_MODEL=gpt-4（可选）
 ```
 
 ## 常用命令
@@ -94,6 +117,8 @@ rye sync
 ```bash
 # 处理新书签并生成摘要
 python -m bookmark_ai_summary.bookmark_process_changes
+# 或使用 rye
+rye run python -m bookmark_ai_summary.bookmark_process_changes
 
 # 仅更新标签摘要
 python -m bookmark_ai_summary.process_tag_bookmark
@@ -109,6 +134,19 @@ python -m bookmark_ai_summary.run_keyword_analysis --force-rebuild
 
 # 关键词分析（自定义最小频次）
 python -m bookmark_ai_summary.run_keyword_analysis --min-frequency 5
+```
+
+### 项目维护脚本
+
+```bash
+# 关键词分析健康检查
+./scripts/keyword-analysis-health.sh
+
+# 清理关键词分析数据
+./scripts/keyword-analysis-cleanup.sh
+
+# 查看项目统计信息
+./scripts/keyword-analysis-health.sh --stats
 ```
 
 ### GitHub Actions 自动化
@@ -427,6 +465,82 @@ jobs:
 2. 增加 `min_frequency` 减少分析的关键词数量
 3. 使用增量更新模式，避免重复提取
 
+## 项目结构说明
+
+```
+bookmark-ai-summary/
+├── src/bookmark_ai_summary/          # 主要源码目录
+│   ├── bookmark_process_changes.py   # 主流程：书签处理和摘要生成
+│   ├── process_tag_bookmark.py       # 标签系统：按标签组织内容
+│   ├── keyword_analyzer.py           # 关键词分析：深度分析和报告
+│   ├── run_keyword_analysis.py       # 关键词分析入口脚本
+│   └── build_weekly_release.py       # 周报生成：GitHub Release
+├── data/                             # 数据存储目录
+│   ├── YYYYMM/                       # 按月份组织的摘要文件
+│   ├── tags/                         # 标签文件存储
+│   ├── data.json                     # 主索引文件
+│   └── keyword_analysis/             # 关键词分析报告
+├── scripts/                          # 维护脚本
+│   ├── keyword-analysis-health.sh    # 健康检查脚本
+│   └── keyword-analysis-cleanup.sh   # 数据清理脚本
+├── docs/                             # 文档目录
+│   ├── keyword-analysis-quickstart.md # 关键词分析快速入门
+│   └── keyword-analysis-config.md     # 关键词分析配置说明
+└── .github/workflows/                # GitHub Actions 工作流
+    ├── build_weekly_release.yml      # 周报自动生成
+    └── process_weekly_articles.yml   # 周刊文章处理
+```
+
+## 核心模块依赖关系
+
+```
+bookmark_process_changes.py (主入口)
+    ├── Jina Reader API (网页内容提取)
+    ├── OpenAI API (AI 摘要生成)
+    ├── process_tag_bookmark.py (标签处理)
+    └── data/JSON 管理 (索引维护)
+
+keyword_analyzer.py (独立模块)
+    ├── OpenAI API (关键词提取、分析)
+    ├── data/data.json (数据源)
+    └── data/keyword_index.json (倒排索引)
+
+build_weekly_release.py (自动化)
+    ├── GitHub API (Release 创建)
+    └── process_tag_bookmark.py (weekly 标签处理)
+```
+
+## 调试和故障排查
+
+### 常见问题诊断
+
+```bash
+# 检查环境变量
+echo $OPENAI_API_KEY
+
+# 验证 OpenAI API 连接
+curl -X POST "https://api.openai.com/v1/chat/completions" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{"model": "gpt-3.5-turbo", "messages": [{"role": "user", "content": "test"}]}'
+
+# 测试 Jina Reader API
+curl "https://r.jina.ai/https://example.com"
+
+# 检查数据文件完整性
+python -c "import json; print(json.load(open('data/data.json'))['bookmarks'][:5])"
+
+# 关键词分析状态检查
+./scripts/keyword-analysis-health.sh --verbose
+```
+
+### 日志和监控
+
+系统使用 Python 标准 logging 模块，支持：
+- 执行时间装饰器：`@log_execution_time`
+- API 调用日志记录
+- 错误和警告信息输出
+
 ## 注意事项
 
 - 文件路径硬编码使用项目名称（`bookmark-ai-summary`、`bookmark-collection`）
@@ -435,3 +549,4 @@ jobs:
 - 周报分析功能（`process_weekly_articles`）当前为占位实现，LLM 分析逻辑待完善
 - 关键词分析系统默认不集成到主流程，建议通过定时任务或手动执行
 - 首次运行关键词分析需要处理所有历史书签，耗时较长且 API 成本较高
+- 项目没有传统的单元测试，主要通过实际运行和脚本验证功能
