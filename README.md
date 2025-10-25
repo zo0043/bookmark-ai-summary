@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [独立开发者“穷鬼套餐”：AI编程与Web部署的极致省钱攻略 - 开发调优 - LINUX DO](data/202510/2025-10-25-%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9C%E7%A9%B7%E9%AC%BC%E5%A5%97%E9%A4%90%E2%80%9D%EF%BC%9Aai%E7%BC%96%E7%A8%8B%E4%B8%8Eweb%E9%83%A8%E7%BD%B2%E7%9A%84%E6%9E%81%E8%87%B4%E7%9C%81%E9%92%B1%E6%94%BB%E7%95%A5---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-10-25) [把Gemini CLI 用作 claude code 的sub agent - 开发调优 - LINUX DO](data/202510/2025-10-25-%E6%8A%8Agemini-cli-%E7%94%A8%E4%BD%9C-claude-code-%E7%9A%84sub-agent---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-10-25) [初探：从0开始的AI-Agent开发踩坑实录](data/202510/2025-10-25-%E5%88%9D%E6%8E%A2%EF%BC%9A%E4%BB%8E0%E5%BC%80%E5%A7%8B%E7%9A%84ai-agent%E5%BC%80%E5%8F%91%E8%B8%A9%E5%9D%91%E5%AE%9E%E5%BD%95.md)
 - (2025-10-25) [白嫖HuggingFace 提供 16GB 内存服务器，AI 开发者的福 - 福利羊毛 / 福利羊毛, Lv1 - LINUX DO](data/202510/2025-10-25-%E7%99%BD%E5%AB%96huggingface-%E6%8F%90%E4%BE%9B-16gb-%E5%86%85%E5%AD%98%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8Cai-%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E7%A6%8F---%E7%A6%8F%E5%88%A9%E7%BE%8A%E6%AF%9B-%E7%A6%8F%E5%88%A9%E7%BE%8A%E6%AF%9B%2C-lv1---linux-do.md)
