@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [自用生图接口，用不完，怎么也用不完。 - 资源荟萃 / 资源荟萃, Lv1 - LINUX DO](data/202510/2025-10-25-%E8%87%AA%E7%94%A8%E7%94%9F%E5%9B%BE%E6%8E%A5%E5%8F%A3%EF%BC%8C%E7%94%A8%E4%B8%8D%E5%AE%8C%EF%BC%8C%E6%80%8E%E4%B9%88%E4%B9%9F%E7%94%A8%E4%B8%8D%E5%AE%8C%E3%80%82---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83-%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83%2C-lv1---linux-do.md)
 - (2025-10-25) [新型真●一键激活JetBrains全家桶方式，不需要手动下载任何文件(懒人福利)！idea/win/linux/mac - 开发调优 - LINUX DO](data/202510/2025-10-25-%E6%96%B0%E5%9E%8B%E7%9C%9F%E2%97%8F%E4%B8%80%E9%94%AE%E6%BF%80%E6%B4%BBjetbrains%E5%85%A8%E5%AE%B6%E6%A1%B6%E6%96%B9%E5%BC%8F%EF%BC%8C%E4%B8%8D%E9%9C%80%E8%A6%81%E6%89%8B%E5%8A%A8%E4%B8%8B%E8%BD%BD%E4%BB%BB%E4%BD%95%E6%96%87%E4%BB%B6%28%E6%87%92%E4%BA%BA%E7%A6%8F%E5%88%A9%29%EF%BC%81idea-win-linux-mac---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-10-25) [闲鱼上新AI监控+通知的完整版来了! - 开发调优 / 开发调优, Lv2 - LINUX DO](data/202510/2025-10-25-%E9%97%B2%E9%B1%BC%E4%B8%8A%E6%96%B0ai%E7%9B%91%E6%8E%A7%2B%E9%80%9A%E7%9F%A5%E7%9A%84%E5%AE%8C%E6%95%B4%E7%89%88%E6%9D%A5%E4%BA%86%21---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98-%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98%2C-lv2---linux-do.md)
 - (2025-10-25) [再分享 300 个 免费层级的 Al Studio key - 福利羊毛 / 福利羊毛, Lv2 - LINUX DO](data/202510/2025-10-25-%E5%86%8D%E5%88%86%E4%BA%AB-300-%E4%B8%AA-%E5%85%8D%E8%B4%B9%E5%B1%82%E7%BA%A7%E7%9A%84-al-studio-key---%E7%A6%8F%E5%88%A9%E7%BE%8A%E6%AF%9B-%E7%A6%8F%E5%88%A9%E7%BE%8A%E6%AF%9B%2C-lv2---linux-do.md)
