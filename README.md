@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [在 Linux 中管理多个终端会话的Tmux命令示例](data/202510/2025-10-25-%E5%9C%A8-linux-%E4%B8%AD%E7%AE%A1%E7%90%86%E5%A4%9A%E4%B8%AA%E7%BB%88%E7%AB%AF%E4%BC%9A%E8%AF%9D%E7%9A%84tmux%E5%91%BD%E4%BB%A4%E7%A4%BA%E4%BE%8B.md)
 - (2025-10-25) [教大家如何开启欧洲跨境之路，哈哈 - 资源荟萃 - LINUX DO](data/202510/2025-10-25-%E6%95%99%E5%A4%A7%E5%AE%B6%E5%A6%82%E4%BD%95%E5%BC%80%E5%90%AF%E6%AC%A7%E6%B4%B2%E8%B7%A8%E5%A2%83%E4%B9%8B%E8%B7%AF%EF%BC%8C%E5%93%88%E5%93%88---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83---linux-do.md)
 - (2025-10-25) [让claude4 sonnet 开发的前端具备现代化UI界面的提示词 - 开发调优 - LINUX DO](data/202510/2025-10-25-%E8%AE%A9claude4-sonnet-%E5%BC%80%E5%8F%91%E7%9A%84%E5%89%8D%E7%AB%AF%E5%85%B7%E5%A4%87%E7%8E%B0%E4%BB%A3%E5%8C%96ui%E7%95%8C%E9%9D%A2%E7%9A%84%E6%8F%90%E7%A4%BA%E8%AF%8D---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-10-25) [AI 基础知识从 0.5 到 0.6—— Transformer 架构为何能统治AI领域？](data/202510/2025-10-25-ai-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E4%BB%8E-0.5-%E5%88%B0-0.6%E2%80%94%E2%80%94-transformer-%E6%9E%B6%E6%9E%84%E4%B8%BA%E4%BD%95%E8%83%BD%E7%BB%9F%E6%B2%BBai%E9%A2%86%E5%9F%9F%EF%BC%9F.md)
