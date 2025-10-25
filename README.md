@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [混合专家模型（MoE）详解](data/202510/2025-10-25-%E6%B7%B7%E5%90%88%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%9E%8B%EF%BC%88moe%EF%BC%89%E8%AF%A6%E8%A7%A3.md)
 - (2025-10-25) [分类 信息时代 下的文章 - 科学空间|Scientific Spaces](data/202510/2025-10-25-%E5%88%86%E7%B1%BB-%E4%BF%A1%E6%81%AF%E6%97%B6%E4%BB%A3-%E4%B8%8B%E7%9A%84%E6%96%87%E7%AB%A0---%E7%A7%91%E5%AD%A6%E7%A9%BA%E9%97%B4-scientific-spaces.md)
 - (2025-10-25) [教程：如何点一下就自动批量下载一个 YouTuber 主页 全部几百个视频？ （学会可用此赚到钱）（最关键的不是ip问题，而是不能一次提交太多请求）（附完整探索经历） - 搞七捻三 - LINUX DO](data/202510/2025-10-25-%E6%95%99%E7%A8%8B%EF%BC%9A%E5%A6%82%E4%BD%95%E7%82%B9%E4%B8%80%E4%B8%8B%E5%B0%B1%E8%87%AA%E5%8A%A8%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD%E4%B8%80%E4%B8%AA-youtuber-%E4%B8%BB%E9%A1%B5-%E5%85%A8%E9%83%A8%E5%87%A0%E7%99%BE...%E5%8E%86%EF%BC%89---%E6%90%9E%E4%B8%83%E6%8D%BB%E4%B8%89---linux-do_bb53039f.md)
 - (2025-10-25) [M0914/QiuMo-Jetbrains-Help:](data/202510/2025-10-25-m0914-qiumo-jetbrains-help.md)

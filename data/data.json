@@ -3353,5 +3353,12 @@
     "url": "https://kexue.fm/category/Big-Data",
     "timestamp": 1761381903,
     "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "混合专家模型（MoE）详解",
+    "url": "https://huggingface.co/blog/zh/moe",
+    "timestamp": 1761382301,
+    "tags": []
   }
 ]
