@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [从原理到落地：MCP在Spring AI中的工程实践本篇文章围绕MCP的提出背景与核心原理展开，并结合Spring AI - 掘金](data/202510/2025-10-25-%E4%BB%8E%E5%8E%9F%E7%90%86%E5%88%B0%E8%90%BD%E5%9C%B0%EF%BC%9Amcp%E5%9C%A8spring-ai%E4%B8%AD%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E6%9C%AC%E7%AF%87%E6%96%87%E7%AB%A0%E5%9B%B4%E7%BB%95mcp%E7%9A%84%E6%8F%90%E5%87%BA%E8%83%8C%E6%99%AF%E4%B8%8E%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E5%B1%95%E5%BC%80%EF%BC%8C%E5%B9%B6%E7%BB%93%E5%90%88spring-ai---%E6%8E%98%E9%87%91.md)
 - (2025-10-25) [Deep research 做出的prompt很牛逼 - 搞七捻三 - LINUX DO](data/202510/2025-10-25-deep-research-%E5%81%9A%E5%87%BA%E7%9A%84prompt%E5%BE%88%E7%89%9B%E9%80%BC---%E6%90%9E%E4%B8%83%E6%8D%BB%E4%B8%89---linux-do.md)
 - (2025-10-25) [Claude Code Sub-Agents：从手工作坊到自动化工厂](data/202510/2025-10-25-claude-code-sub-agents%EF%BC%9A%E4%BB%8E%E6%89%8B%E5%B7%A5%E4%BD%9C%E5%9D%8A%E5%88%B0%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%8E%82.md)
 - (2025-10-25) [New API](data/202510/2025-10-25-new-api.md)
