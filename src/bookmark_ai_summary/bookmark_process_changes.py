@@ -14,7 +14,17 @@ from urllib.parse import quote
 
 import requests
 from waybackpy import WaybackMachineSaveAPI
-from .process_tag_bookmark import deal_tags_chain,process_tag_summary,process_weekly_articles
+# 尝试导入标签处理模块
+try:
+    from .process_tag_bookmark import deal_tags_chain,process_tag_summary,process_weekly_articles
+except ImportError:
+    try:
+        from process_tag_bookmark import deal_tags_chain,process_tag_summary,process_weekly_articles
+    except ImportError:
+        logging.warning("标签处理模块不可用")
+        deal_tags_chain = None
+        process_tag_summary = None
+        process_weekly_articles = None
 
 # 尝试导入无头浏览器模块（可选依赖）
 try:
@@ -26,8 +36,17 @@ try:
     )
     HEADLESS_AVAILABLE = True
 except ImportError:
-    HEADLESS_AVAILABLE = False
-    logging.warning("无头浏览器模块不可用，将仅使用Jina Reader")
+    try:
+        from headless_content_extractor import (
+            HeadlessContentExtractor,
+            ExtractionResult,
+            StealthConfig,
+            create_stealth_config
+        )
+        HEADLESS_AVAILABLE = True
+    except ImportError:
+        HEADLESS_AVAILABLE = False
+        logging.warning("无头浏览器模块不可用，将仅使用Jina Reader")
 
 # -- 配置 --
 BOOKMARK_COLLECTION_REPO_NAME: str = (
@@ -335,7 +354,8 @@ def build_summary_readme_md(summarized_bookmarks: List[SummarizedBookmark]) -> s
         date_str = datetime.fromtimestamp(bookmark.timestamp).strftime("%Y-%m-%d")
         current_line = f"- ({date_str}) [{bookmark.title}]({summary_file_path})\n"
         summary_list += current_line
-        deal_tags_chain(bookmark.tags, current_line)
+        if deal_tags_chain:
+            deal_tags_chain(bookmark.tags, current_line)
 
     return initial_prefix + summary_list
 
@@ -420,8 +440,10 @@ def process_bookmark_file():
 
 def main():
     process_bookmark_file()
-    process_tag_summary()
-    # process_weekly_articles()
+    if process_tag_summary:
+        process_tag_summary()
+    # if process_weekly_articles:
+    #     process_weekly_articles()
 
     # 关键词分析（可选，注释掉避免每次都执行）
     # from keyword_analyzer import process_keyword_analysis
