@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [【教程】在 leaflow 上部署自己的 searxng 搜索服务，10分钟内搞定 - 资源荟萃 - LINUX DO](data/202510/2025-10-25-%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E5%9C%A8-leaflow-%E4%B8%8A%E9%83%A8%E7%BD%B2%E8%87%AA%E5%B7%B1%E7%9A%84-searxng-%E6%90%9C%E7%B4%A2%E6%9C%8D%E5%8A%A1%EF%BC%8C10%E5%88%86%E9%92%9F%E5%86%85%E6%90%9E%E5%AE%9A---%E8%B5%84%E6%BA%90%E8%8D%9F%E8%90%83---linux-do.md)
 - (2025-10-25) [[菜鸟教程] 零基础 Cloudflare 优选教程 - 开发调优 - LINUX DO](data/202510/2025-10-25-%5B%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B%5D-%E9%9B%B6%E5%9F%BA%E7%A1%80-cloudflare-%E4%BC%98%E9%80%89%E6%95%99%E7%A8%8B---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-10-25) [如何用AI写作？](data/202510/2025-10-25-%E5%A6%82%E4%BD%95%E7%94%A8ai%E5%86%99%E4%BD%9C%EF%BC%9F.md)
 - (2025-10-25) [到底什么是踏马的 Agentic Workflows？](data/202510/2025-10-25-%E5%88%B0%E5%BA%95%E4%BB%80%E4%B9%88%E6%98%AF%E8%B8%8F%E9%A9%AC%E7%9A%84-agentic-workflows%EF%BC%9F.md)
