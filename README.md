@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-25) [让claude4 sonnet 开发的前端具备现代化UI界面的提示词 - 开发调优 - LINUX DO](data/202510/2025-10-25-%E8%AE%A9claude4-sonnet-%E5%BC%80%E5%8F%91%E7%9A%84%E5%89%8D%E7%AB%AF%E5%85%B7%E5%A4%87%E7%8E%B0%E4%BB%A3%E5%8C%96ui%E7%95%8C%E9%9D%A2%E7%9A%84%E6%8F%90%E7%A4%BA%E8%AF%8D---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
 - (2025-10-25) [AI 基础知识从 0.5 到 0.6—— Transformer 架构为何能统治AI领域？](data/202510/2025-10-25-ai-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E4%BB%8E-0.5-%E5%88%B0-0.6%E2%80%94%E2%80%94-transformer-%E6%9E%B6%E6%9E%84%E4%B8%BA%E4%BD%95%E8%83%BD%E7%BB%9F%E6%B2%BBai%E9%A2%86%E5%9F%9F%EF%BC%9F.md)
 - (2025-10-25) [Claude Code 高效开发实战：从新手到专家的进阶指南 - 博客 - Hrefgo AI](data/202510/2025-10-25-claude-code-%E9%AB%98%E6%95%88%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%EF%BC%9A%E4%BB%8E%E6%96%B0%E6%89%8B%E5%88%B0%E4%B8%93%E5%AE%B6%E7%9A%84%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97---%E5%8D%9A%E5%AE%A2---hrefgo-ai.md)
 - (2025-10-25) [独立开发者“穷鬼套餐”：AI编程与Web部署的极致省钱攻略 - 开发调优 - LINUX DO](data/202510/2025-10-25-%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9C%E7%A9%B7%E9%AC%BC%E5%A5%97%E9%A4%90%E2%80%9D%EF%BC%9Aai%E7%BC%96%E7%A8%8B%E4%B8%8Eweb%E9%83%A8%E7%BD%B2%E7%9A%84%E6%9E%81%E8%87%B4%E7%9C%81%E9%92%B1%E6%94%BB%E7%95%A5---%E5%BC%80%E5%8F%91%E8%B0%83%E4%BC%98---linux-do.md)
