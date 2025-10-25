@@ -3281,5 +3281,350 @@
     "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247553523&idx=1&sn=a55dbdc4479fcbc45ce51aa54294b1bb&poc_token=HDSf22ij2a-Qdxs7aBxn_PZf5CTuiAwW-f7YMNq-",
     "timestamp": 1760463079,
     "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "到底什么是踏马的 Agentic Workflows？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYyMTY1NDA0Nw==&mid=2247510703&idx=1&sn=35c9f405d98bc54b2e782598943c3aa8&source=41&poc_token=HMYz-mijvv0muutoT5rdYLr5NiYYCO4Ol_X5QqEp",
+    "timestamp": 1761377034,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "如何用AI写作？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI1OTA1NjU5OA==&mid=2247487089&idx=1&sn=fb6e2615f9a3cd9b6ba21a8c1718abe0&poc_token=HAQ1-mijg-eb9VJ7zzlduFpRQ9XiducG8bKOz1iB",
+    "timestamp": 1761377354,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "[菜鸟教程] 零基础 Cloudflare 优选教程 - 开发调优 - LINUX DO",
+    "url": "https://linux.do/t/topic/1062697",
+    "timestamp": 1761377745,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "【教程】在 leaflow 上部署自己的 searxng 搜索服务，10分钟内搞定 - 资源荟萃 - LINUX DO",
+    "url": "https://linux.do/t/topic/1061446",
+    "timestamp": 1761378076,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "【GLM】GLM 4.6 最佳全局开发提示词 - 国产替代 - LINUX DO",
+    "url": "https://linux.do/t/topic/1012801",
+    "timestamp": 1761378383,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "QiuMo JetBrains Help - JetBrains激活助手",
+    "url": "https://ide.mihuyo.cc/#home",
+    "timestamp": 1761378738,
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "month": "202510",
+    "title": "NotoChen/Jetbrains-Help",
+    "url": "https://github.com/NotoChen/Jetbrains-Help",
+    "timestamp": 1761379069,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "M0914/QiuMo-Jetbrains-Help:",
+    "url": "https://gitee.com/guoyifanA/qiu-mo-jetbrains-help",
+    "timestamp": 1761380143,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "教程：如何点一下就自动批量下载一个 YouTuber 主页 全部几百个视频？ （学会可用此赚到钱）（最关键的不是ip问题，而是不能一次提交太多请求）（附完整探索经历） - 搞七捻三 - LINUX DO",
+    "url": "https://linux.do/t/topic/997938",
+    "timestamp": 1761381252,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "分类 信息时代 下的文章 - 科学空间|Scientific Spaces",
+    "url": "https://kexue.fm/category/Big-Data",
+    "timestamp": 1761381903,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "混合专家模型（MoE）详解",
+    "url": "https://huggingface.co/blog/zh/moe",
+    "timestamp": 1761382301,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "NLP问题特征表达基础 - 语言模型（Language Model）发展演化历程讨论 - 郑瀚 - 博客园",
+    "url": "https://www.cnblogs.com/LittleHann/p/7200618.html",
+    "timestamp": 1761382670,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "算法视角下的人工智能历史演进及其数学原理剖析 – ELE-yufo",
+    "url": "https://www.ele-yufo.com/archives/2034",
+    "timestamp": 1761383498,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "Design Pinterest - TianPan.co",
+    "url": "https://tianpan.co/blog/2016-02-13-crack-the-system-design-interview",
+    "timestamp": 1761384436,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "这是一期价值10w的需求调研保姆级教程，独立开发者/程序员转 - 即刻App",
+    "url": "https://m.okjike.com/originalPosts/68cface096133333105e13e5",
+    "timestamp": 1761384859,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "搞定系统设计题：如何设计一个订单系统？1. 引言 在技术面试中，系统设计题往往是最能体现候选人综合能力的环节。相比于单纯 - 掘金",
+    "url": "https://juejin.cn/post/7551973167376957480",
+    "timestamp": 1761385293,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "很多人问Agent学习路线图，佬友！github开源项目来学习Agent - 开发调优 - LINUX DO",
+    "url": "https://linux.do/t/topic/957651",
+    "timestamp": 1761385611,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "CC公益+智谱4.5系公益，暂定维护一个月 - 福利羊毛 / 福利羊毛, Lv1 - LINUX DO",
+    "url": "https://linux.do/t/topic/953139",
+    "timestamp": 1761385973,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "面试官：“聊聊你最复杂的项目？” 为什么90%的候选人第一句就栽了？三句话，我决定要他了 最近团队业务扩张，所以有一些H - 掘金",
+    "url": "https://juejin.cn/post/7546977677472038939",
+    "timestamp": 1761386316,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "推荐2个通用简单强大的爬虫工具 - 不是广告，是我主观认为而已 - 开发调优 - LINUX DO",
+    "url": "https://linux.do/t/topic/934941",
+    "timestamp": 1761387175,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "MinerU小纸条：助力每一位佬友实现OCR自由 - 资源荟萃 / 资源荟萃, Lv1 - LINUX DO",
+    "url": "https://linux.do/t/topic/932946/1",
+    "timestamp": 1761388293,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "白嫖HuggingFace 提供 16GB 内存服务器，AI 开发者的福 - 福利羊毛 / 福利羊毛, Lv1 - LINUX DO",
+    "url": "https://linux.do/t/topic/913315",
+    "timestamp": 1761388840,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "初探：从0开始的AI-Agent开发踩坑实录",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247552562&idx=1&sn=01ba362287b9b806e6ab216ef1784599&poc_token=HPzQr2ijLOREX0_9XLGEbEX5Mca2RrwvnX-P6gri",
+    "timestamp": 1761389219,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "把Gemini CLI 用作 claude code 的sub agent - 开发调优 - LINUX DO",
+    "url": "https://linux.do/t/topic/897837",
+    "timestamp": 1761389571,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "独立开发者“穷鬼套餐”：AI编程与Web部署的极致省钱攻略 - 开发调优 - LINUX DO",
+    "url": "https://linux.do/t/topic/859007/1",
+    "timestamp": 1761389889,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "Claude Code 高效开发实战：从新手到专家的进阶指南 - 博客 - Hrefgo AI",
+    "url": "https://hrefgo.com/blog/claude-code-development-expert-guide",
+    "timestamp": 1761390595,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "AI 基础知识从 0.5 到 0.6—— Transformer 架构为何能统治AI领域？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247552148&idx=1&sn=709bf5817423b8d9560cb5abc7b0337b&poc_token=HN_AlWijbiCuKqS6sPaQGVqBnocSJw4hI615Gxnc",
+    "timestamp": 1761391362,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "让claude4 sonnet 开发的前端具备现代化UI界面的提示词 - 开发调优 - LINUX DO",
+    "url": "https://linux.do/t/topic/837381",
+    "timestamp": 1761391689,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "教大家如何开启欧洲跨境之路，哈哈 - 资源荟萃 - LINUX DO",
+    "url": "https://linux.do/t/topic/846923",
+    "timestamp": 1761392097,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "在 Linux 中管理多个终端会话的Tmux命令示例",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzUyMTYwMDYxMA==&mid=2247503359&idx=1&sn=f7576ba6c545608b5c504e7a032bcaf4&poc_token=HB7dkGij1EFeESbC_dXOFPKEr2L8eaHHrhI-Vw72",
+    "timestamp": 1761392490,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "中华石衫-互联网Java工程师面试突击三季全 - 资源荟萃 - LINUX DO",
+    "url": "https://linux.do/t/topic/839844",
+    "timestamp": 1761392809,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "分享一个让AI只生成必要的代码的通用Prompt，欢迎一起调优~ - 搞七捻三 - LINUX DO",
+    "url": "https://linux.do/t/topic/830802/2",
+    "timestamp": 1761393163,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "免费开源无限流量的VPN - 开发调优 / 开发调优, Lv2 - LINUX DO",
+    "url": "https://linux.do/t/topic/815179",
+    "timestamp": 1761393461,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "您的专属国际学生证生成器。只需一分钟，即可打造一张以假乱真的高清ID. - 开发调优 / 开发调优, Lv1 - LINUX DO",
+    "url": "https://linux.do/t/topic/824882",
+    "timestamp": 1761394920,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "教程来了! 年付 不到20元的垃圾VPS变废为宝 - 搞七捻三 - LINUX DO",
+    "url": "https://linux.do/t/topic/822975/1",
+    "timestamp": 1761396919,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "淘宝无货源创业系列全流程课 - 资源荟萃 - LINUX DO",
+    "url": "https://linux.do/t/topic/822274",
+    "timestamp": 1761398059,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "sambanova key（5$ * 50） - 开发调优 / 开发调优, Lv1 - LINUX DO",
+    "url": "https://linux.do/t/topic/821750/1",
+    "timestamp": 1761399075,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "(21) 逐梦AI赚钱实战 (@AmbitiousXU) / X",
+    "url": "https://x.com/ambitiousxu",
+    "timestamp": 1761399575,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "分享几个Claude Code Sub Agent 抛砖引玉 - 开发调优 - LINUX DO",
+    "url": "https://linux.do/t/topic/819015",
+    "timestamp": 1761399912,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "能填满你提示词库的220个超级prompt - 资源荟萃 - LINUX DO",
+    "url": "https://linux.do/t/topic/819348/1",
+    "timestamp": 1761400299,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "New API",
+    "url": "https://newapi.aliyahzombie.top/pricing",
+    "timestamp": 1761400620,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "Claude Code Sub-Agents：从手工作坊到自动化工厂",
+    "url": "https://mp.weixin.qq.com/s/bV5Cp3Ai0Q32L_M1m887Lg",
+    "timestamp": 1761401377,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "Deep research 做出的prompt很牛逼 - 搞七捻三 - LINUX DO",
+    "url": "https://linux.do/t/topic/811379",
+    "timestamp": 1761402453,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "从原理到落地：MCP在Spring AI中的工程实践本篇文章围绕MCP的提出背景与核心原理展开，并结合Spring AI - 掘金",
+    "url": "https://juejin.cn/post/7512902892585992228",
+    "timestamp": 1761403128,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "代码随想录知识星球精华-最强八股文（第五版） - 资源荟萃 - LINUX DO",
+    "url": "https://linux.do/t/topic/268876",
+    "timestamp": 1761403374,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "🚀一站式解决多API管理痛点 支持CCR/Claude Code - 开发调优 / 开发调优, Lv1 - LINUX DO",
+    "url": "https://linux.do/t/topic/806119",
+    "timestamp": 1761403751,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "35+不存在，有没有做TK东南亚店铺的佬友，来交流下，养老之路在此开启～ - 搞七捻三 - LINUX DO",
+    "url": "https://linux.do/t/topic/804267",
+    "timestamp": 1761404069,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "【教程】小白也能看懂的自建Cloudflare临时邮箱教程（域名邮箱） - 文档共建 - LINUX DO",
+    "url": "https://linux.do/t/topic/316819",
+    "timestamp": 1761404377,
+    "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "RIPER-5 + 多维度思维 + 代理执行协议 (v4.9.10 - MCP工具 + 持久化记忆版 + 多角色） - 开发调优 / 开发调优, Lv1 - LINUX DO",
+    "url": "https://linux.do/t/topic/760768",
+    "timestamp": 1761405303,
+    "tags": []
   }
 ]

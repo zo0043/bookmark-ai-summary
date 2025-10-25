@@ -1,0 +1,1 @@
+- (2025-10-25) [QiuMo JetBrains Help - JetBrains激活助手](data/202510/2025-10-25-qiumo-jetbrains-help---jetbrains%E6%BF%80%E6%B4%BB%E5%8A%A9%E6%89%8B.md)
