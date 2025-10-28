@@ -3749,5 +3749,12 @@
     "url": "https://www.fengba.net/resource/detail/PJDC2GDPHAX7RCIDQH46QBL6XPCNHSWGXNEWMY5ZNSLNYK2HGOPA",
     "timestamp": 1761589554,
     "tags": []
+  },
+  {
+    "month": "202510",
+    "title": "数据处理的大一统——从 Shell 脚本到 SQL 引擎",
+    "url": "https://www.qtmuniao.com/2023/08/21/unify-data-processing/",
+    "timestamp": 1761624030,
+    "tags": []
   }
 ]
