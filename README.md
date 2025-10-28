@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-28) [Fengye API](data/202510/2025-10-28-fengye-api.md)
 - (2025-10-28) [完整提示词工程指南：框架、技术与模板手册.pdf](data/202510/2025-10-28-%E5%AE%8C%E6%95%B4%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E6%8C%87%E5%8D%97%EF%BC%9A%E6%A1%86%E6%9E%B6%E3%80%81%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%A8%A1%E6%9D%BF%E6%89%8B%E5%86%8C.pdf.md)
 - (2025-10-28) [eraft开发组 - 解读国外优质计算机课程](data/202510/2025-10-28-eraft%E5%BC%80%E5%8F%91%E7%BB%84---%E8%A7%A3%E8%AF%BB%E5%9B%BD%E5%A4%96%E4%BC%98%E8%B4%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BE%E7%A8%8B.md)
 - (2025-10-28) [周刊（第24期）：sqlite并发读写的演进之路](data/202510/2025-10-28-%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC24%E6%9C%9F%EF%BC%89%EF%BC%9Asqlite%E5%B9%B6%E5%8F%91%E8%AF%BB%E5%86%99%E7%9A%84%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF.md)
