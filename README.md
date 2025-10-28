@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-28) [eraft开发组 - 解读国外优质计算机课程](data/202510/2025-10-28-eraft%E5%BC%80%E5%8F%91%E7%BB%84---%E8%A7%A3%E8%AF%BB%E5%9B%BD%E5%A4%96%E4%BC%98%E8%B4%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%BE%E7%A8%8B.md)
 - (2025-10-28) [周刊（第24期）：sqlite并发读写的演进之路](data/202510/2025-10-28-%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC24%E6%9C%9F%EF%BC%89%EF%BC%9Asqlite%E5%B9%B6%E5%8F%91%E8%AF%BB%E5%86%99%E7%9A%84%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF.md)
 - (2025-10-28) [DDIA 逐章精读](data/202510/2025-10-28-ddia-%E9%80%90%E7%AB%A0%E7%B2%BE%E8%AF%BB.md)
 - (2025-10-28) [数据处理的大一统——从 Shell 脚本到 SQL 引擎](data/202510/2025-10-28-%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9A%84%E5%A4%A7%E4%B8%80%E7%BB%9F%E2%80%94%E2%80%94%E4%BB%8E-shell-%E8%84%9A%E6%9C%AC%E5%88%B0-sql-%E5%BC%95%E6%93%8E.md)
