@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-29) [🍌 nano-banana](data/202510/2025-10-29-%F0%9F%8D%8C-nano-banana.md)
 - (2025-10-29) [https://ai-api.dev88.me](data/202510/2025-10-29-https-ai-api.dev88.me.md)
 - (2025-10-28) [Fengye API](data/202510/2025-10-28-fengye-api.md)
 - (2025-10-28) [完整提示词工程指南：框架、技术与模板手册.pdf](data/202510/2025-10-28-%E5%AE%8C%E6%95%B4%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E6%8C%87%E5%8D%97%EF%BC%9A%E6%A1%86%E6%9E%B6%E3%80%81%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%A8%A1%E6%9D%BF%E6%89%8B%E5%86%8C.pdf.md)
