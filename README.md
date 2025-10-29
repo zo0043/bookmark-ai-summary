@@ -4,6 +4,7 @@
 - [tag list](tag_summary.md)
 
 ## Summarized Bookmarks
+- (2025-10-29) [不用再配服务器了！这套 Next.js + Cloudflare 模板，一个人零成本搞定全栈出海作为开发者，我们都想快速 - 掘金](data/202510/2025-10-29-%E4%B8%8D%E7%94%A8%E5%86%8D%E9%85%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BA%86%EF%BC%81%E8%BF%99%E5%A5%97-next.js-%2B-cloudflare-%E6%A8%A1%E6%9D%BF%EF%BC%8C%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%9E%E5%AE%9A%E5%85%A8%E6%A0%88%E5%87%BA%E6%B5%B7%E4%BD%9C%E4%B8%BA%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8C%E6%88%91%E4%BB%AC%E9%83%BD%E6%83%B3%E5%BF%AB%E9%80%9F---%E6%8E%98%E9%87%91.md)
 - (2025-10-29) [🍌 nano-banana](data/202510/2025-10-29-%F0%9F%8D%8C-nano-banana.md)
 - (2025-10-29) [https://ai-api.dev88.me](data/202510/2025-10-29-https-ai-api.dev88.me.md)
 - (2025-10-28) [Fengye API](data/202510/2025-10-28-fengye-api.md)
